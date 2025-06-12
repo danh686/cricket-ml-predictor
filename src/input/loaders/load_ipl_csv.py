@@ -18,4 +18,9 @@ def load_ipl_matches(path: str) -> pd.DataFrame:
     ]
     df = df[target_columns]
 
+    # Check for missing columns
+    missing = [col for col in target_columns if col not in df.columns]
+    if missing:
+        raise ValueError(f"Missing expected columns: {missing}")
+
     return df

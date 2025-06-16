@@ -22,6 +22,14 @@ def standardise_match_data(df: pd.DataFrame) -> pd.DataFrame:
     # Standardise team names
     df["team1"] = df["team1"].str.strip()
     df["team2"] = df["team2"].str.strip()
+
+    def randomise_teams(row):
+        if np.random.rand() < 0.5:
+            row["team1"], row["team2"] = row["team2"], row["team1"]
+        return row
+
+    df = df.apply(randomise_teams, axis=1)
+
     df["winner"] = df["winner"].fillna("").str.strip()
 
     # Parse date

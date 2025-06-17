@@ -7,25 +7,33 @@ class Team:
         self.name = name
         self.df = df
 
-    def calc_recent_form(self, num_matches=5) -> float:
+    def calc_recent_form(self, num_matches: int = 5, role: str = "overall") -> float:
         """
-        Calculate the win % of the team in their last N matches
+        Calculate the win rate (%) of the team in their last N matches, optionally filtered
+        by role: "defending", "chasing", or "overall".
 
         Parameters
         ----------
         num_matches: int, optional
-            Number of matches used to calculate recent form. Defaults to 5.
+            Number of recent matches to include. Defaults to 5.
+        role: str, optional
+            Filter by "defending", "chasing", or "overall" (default).
 
         Returns
         -------
         float
-            Win % of the team in their last N matches
+            Win percentage of the team over the selected matches. Returns np.nan if no matches.
         """
         df = self.df.sort_values(by="date", ascending=False)
 
         df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
-        num_matches = min(num_matches, len(df))
 
+        if role == "defending":
+            df = df[(df["batting_first_team"] == self.name)]
+        elif role == "chasing":
+            df = df[(df["batting_first_team"] != self.name)]
+
+        num_matches = min(num_matches, len(df))
         if num_matches == 0:
             return np.nan
 
@@ -34,9 +42,9 @@ class Team:
 
         return win_rate
 
-    def calc_win_rate_defending(self, num_matches=5) -> float:
+    def calc_win_rate_defending(self, num_matches: int = 5) -> float:
         """
-        Calculate the win rate of the team in the last N matches they bat first in.
+        Calculate the win rate (%) of the team in the last N matches they bat first in.
 
         Parameters
         ----------
@@ -46,13 +54,13 @@ class Team:
         Returns
         -------
         float
-            Win % of the team the last N times they have batted first
+            Win percentage of the team over the matches they bat first in. Returns np.nan if no matches.
         """
-        pass
+        return self.calc_recent_form(num_matches, role="defending")
 
-    def calc_win_rate_chasing(self, num_matches=5) -> float:
+    def calc_win_rate_chasing(self, num_matches: int = 5) -> float:
         """
-        Calculate the win rate of the team in the last N matches they bowl first in.
+        Calculate the win rate (%) of the team in the last N matches they bowl first in.
 
         Parameters
         ----------
@@ -62,13 +70,15 @@ class Team:
         Returns
         -------
         float
-            Win % of the team the last N times they have bowled first
+            Win percentage of the team over the matches they bowl first in. Returns np.nan if no matches.
         """
-        pass
+        return self.calc_recent_form(num_matches, role="chasing")
 
-    def calc_head_to_head_win_rate(self, opposition: str, num_matches=5) -> float:
+    def calc_head_to_head_win_rate(
+        self, opposition: str, num_matches: int = 5
+    ) -> float:
         """
-        Calculate the win rate of the team against a given opposition in the last N encounters
+        Calculate the win rate (%) of the team against a given opposition in the last N encounters.
 
         Parameters
         ---------
@@ -80,13 +90,13 @@ class Team:
         Returns
         -------
         float
-            Win % of the team against the opposition in the last N matches
+            Win percentage of the team against the selected opposition. Returns np.nan if no matches.
         """
         pass
 
-    def calc_venue_win_rate(self, venue: str, num_matches=5) -> float:
+    def calc_venue_win_rate(self, venue: str, num_matches: int = 5) -> float:
         """
-        Calculate the win rate of the team at a given venue in the last N matches they have played there
+        Calculate the win rate (%) of the team at a given venue in the last N matches they played there.
 
         Parameters
         ----------
@@ -98,7 +108,7 @@ class Team:
         Returns
         -------
         float
-            Win % of the team at a given venue
+            Win percentage of the team at a selected venue. Returns np.nan if no matches.
         """
         pass
 

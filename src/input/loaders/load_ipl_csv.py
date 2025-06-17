@@ -23,4 +23,14 @@ def load_ipl_matches(path: str) -> pd.DataFrame:
     if missing:
         raise ValueError(f"Missing expected columns: {missing}")
 
+    # Standardise team names
+    TEAM_NAME_FIX = {
+        "Royal Challengers Bangalore": "Royal Challengers Bengaluru",
+        "Kings XI Punjab": "Punjab Kings",
+        "Delhi Daredevils": "Delhi Capitals",
+        "Rising Pune Supergiants": "Rising Pune Supergiant",
+    }
+    for col in ["team1", "team2", "winner", "toss_winner"]:
+        df[col] = df[col].replace(TEAM_NAME_FIX)
+
     return df

@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 
 class Team:
@@ -26,7 +27,7 @@ class Team:
         num_matches = min(num_matches, len(df))
 
         if num_matches == 0:
-            return 0.0
+            return np.nan
 
         recent_matches = df.head(num_matches)
         win_rate = (((recent_matches["winner"] == self.name).sum()) / num_matches) * 100

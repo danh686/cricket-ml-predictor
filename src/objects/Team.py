@@ -7,12 +7,14 @@ class Team:
         self.name = name
         self.df = df
 
-    def _calculate_win_rate(self, df: pd.DataFrame, num_matches: int):
+    def _calculate_win_rate(self, df: pd.DataFrame, num_matches: int) -> float:
         """
-        Calculate the win rate (%) of the team in a filtered DF.
+        Calculate the win rate (%) of the team in a filtered DataFrame.
 
         Parameters
         ----------
+        df: pandas.DataFrame
+            The filtered DataFrame to calculate the win rate on.
         num_matches: int
             Number of recent matches to include.
 
@@ -29,7 +31,7 @@ class Team:
         recent_matches = df.head(num_matches)
         win_rate = (((recent_matches["winner"] == self.name).sum()) / num_matches) * 100
 
-        return win_rate
+        return round(win_rate, 2)
 
     def calc_recent_form(self, num_matches: int = 5) -> float:
         """

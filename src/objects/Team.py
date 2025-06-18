@@ -7,32 +7,21 @@ class Team:
         self.name = name
         self.df = df
 
-    def calc_recent_form(self, num_matches: int = 5, role: str = "overall") -> float:
+    def _calculate_win_rate(self, df: pd.DataFrame, num_matches: int):
         """
-        Calculate the win rate (%) of the team in their last N matches, optionally filtered
-        by role: "defending", "chasing", or "overall".
+        Calculate the win rate (%) of the team in a filtered DF.
 
         Parameters
         ----------
-        num_matches: int, optional
-            Number of recent matches to include. Defaults to 5.
-        role: str, optional
-            Filter by "defending", "chasing", or "overall" (default).
+        num_matches: int
+            Number of recent matches to include.
 
         Returns
         -------
         float
             Win percentage of the team over the selected matches. Returns np.nan if no matches.
         """
-        df = self.df.sort_values(by="date", ascending=False)
-
-        df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
-
-        if role == "defending":
-            df = df[(df["batting_first_team"] == self.name)]
-        elif role == "chasing":
-            df = df[(df["batting_first_team"] != self.name)]
-
+        df = df.sort_values(by="date", ascending=False)
         num_matches = min(num_matches, len(df))
         if num_matches == 0:
             return np.nan
@@ -41,6 +30,25 @@ class Team:
         win_rate = (((recent_matches["winner"] == self.name).sum()) / num_matches) * 100
 
         return win_rate
+
+    def calc_recent_form(self, num_matches: int = 5) -> float:
+        """
+        Calculate the win rate (%) of the team in their last N matches.
+
+        Parameters
+        ----------
+        num_matches: int, optional
+            Number of recent matches to include. Defaults to 5.
+
+        Returns
+        -------
+        float
+            Win percentage of the team over the selected matches. Returns np.nan if no matches.
+        """
+        df = self.df
+        df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
+
+        return self._calculate_win_rate(df, num_matches)
 
     def calc_win_rate_defending(self, num_matches: int = 5) -> float:
         """
@@ -56,7 +64,11 @@ class Team:
         float
             Win percentage of the team over the matches they bat first in. Returns np.nan if no matches.
         """
-        return self.calc_recent_form(num_matches, role="defending")
+        df = self.df
+        df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
+        df = df[(df["batting_first_team"] == self.name)]
+
+        return self._calculate_win_rate(df, num_matches)
 
     def calc_win_rate_chasing(self, num_matches: int = 5) -> float:
         """
@@ -72,7 +84,11 @@ class Team:
         float
             Win percentage of the team over the matches they bowl first in. Returns np.nan if no matches.
         """
-        return self.calc_recent_form(num_matches, role="chasing")
+        df = self.df
+        df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
+        df = df[(df["batting_first_team"] != self.name)]
+
+        return self._calculate_win_rate(df, num_matches)
 
     def calc_head_to_head_win_rate(
         self, opposition: str, num_matches: int = 5
@@ -92,19 +108,11 @@ class Team:
         float
             Win percentage of the team against the selected opposition. Returns np.nan if no matches.
         """
-        df = self.df.sort_values(by="date", ascending=False)
-
+        df = self.df
         df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
         df = df[(df["team1"] == opposition) | (df["team2"] == opposition)]
 
-        num_matches = min(num_matches, len(df))
-        if num_matches == 0:
-            return np.nan
-
-        recent_matches = df.head(num_matches)
-        win_rate = (((recent_matches["winner"] == self.name).sum()) / num_matches) * 100
-
-        return win_rate
+        return self._calculate_win_rate(df, num_matches)
 
     def calc_venue_win_rate(self, venue: str, num_matches: int = 5) -> float:
         """
@@ -122,20 +130,11 @@ class Team:
         float
             Win percentage of the team at a selected venue. Returns np.nan if no matches.
         """
-        df = self.df.sort_values(by="date", ascending=False)
-
+        df = self.df
         df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
-
         df = df[(df["venue"] == venue)]
 
-        num_matches = min(num_matches, len(df))
-        if num_matches == 0:
-            return np.nan
-
-        recent_matches = df.head(num_matches)
-        win_rate = (((recent_matches["winner"] == self.name).sum()) / num_matches) * 100
-
-        return win_rate
+        return self._calculate_win_rate(df, num_matches)
 
     def get_name(self):
         return self.name

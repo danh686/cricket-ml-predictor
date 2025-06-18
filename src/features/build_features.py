@@ -1,13 +1,22 @@
-from src.input.loaders.load_ipl_csv import load_ipl_matches
-from src.input.standardise import standardise_match_data
 from src.objects.Venue import Venue
 from src.objects.Team import Team
 import pandas as pd
 
 
-def build_feature_matrix(path: str) -> pd.DataFrame:
-    raw_df = load_ipl_matches(path)
-    df = standardise_match_data(raw_df)
+def build_feature_matrix(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Generates a feature matrix from a processed DataFrame of match data.
+
+    Parameters
+    ----------
+    df: pandas.DataFrame
+        Preprocessed match data.
+
+    Returns
+    -------
+    pandas.DataFrame
+        DataFrame containing one row per match and engineered features for modeling.
+    """
 
     features = []
 
@@ -23,7 +32,7 @@ def build_feature_matrix(path: str) -> pd.DataFrame:
             "team2_venue_win_rate": team2.calc_venue_win_rate(row["venue"]),
             "venue_chasing_win_rate": venue.calc_win_rate_chasing(),
             "venue_defending_win_rate": venue.calc_win_rate_defending(),
-            "team1_vs_team2_record": team1.calc_head_to_head_win_rate(team2.name),
+            "team1_vs_team2_record": team1.calc_head_to_head_win_rate(team2.get_name()),
             "toss_winner": 1 if row["toss_winner"] == row["team1"] else 0,
             "toss_decision_bat": (
                 1 if row["batting_first_team"] == row["toss_winner"] else 0
@@ -43,4 +52,5 @@ def build_feature_matrix(path: str) -> pd.DataFrame:
         features.append(match_features)
 
     feature_df = pd.DataFrame(features)
-    feature_df.to_csv("data/processed/feature_matrix.csv", index=False)
+
+    return feature_df

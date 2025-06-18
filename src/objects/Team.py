@@ -122,7 +122,20 @@ class Team:
         float
             Win percentage of the team at a selected venue. Returns np.nan if no matches.
         """
-        pass
+        df = self.df.sort_values(by="date", ascending=False)
+
+        df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
+
+        df = df[(df["venue"] == venue)]
+
+        num_matches = min(num_matches, len(df))
+        if num_matches == 0:
+            return np.nan
+
+        recent_matches = df.head(num_matches)
+        win_rate = (((recent_matches["winner"] == self.name).sum()) / num_matches) * 100
+
+        return win_rate
 
     def get_name(self):
         return self.name

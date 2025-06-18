@@ -30,6 +30,10 @@ def build_feature_matrix(df: pd.DataFrame) -> pd.DataFrame:
             "team2_recent_form": team2.calc_recent_form(),
             "team1_venue_win_rate": team1.calc_venue_win_rate(row["venue"]),
             "team2_venue_win_rate": team2.calc_venue_win_rate(row["venue"]),
+            "team1_chasing_win_rate": team1.calc_win_rate_chasing(),
+            "team1_defending_win_rate": team1.calc_win_rate_defending(),
+            "team2_chasing_win_rate": team2.calc_win_rate_chasing(),
+            "team2_defending_win_rate": team2.calc_win_rate_defending(),
             "venue_chasing_win_rate": venue.calc_win_rate_chasing(),
             "venue_defending_win_rate": venue.calc_win_rate_defending(),
             "team1_vs_team2_record": team1.calc_head_to_head_win_rate(team2.get_name()),
@@ -39,15 +43,6 @@ def build_feature_matrix(df: pd.DataFrame) -> pd.DataFrame:
             ),
             "team1_win": row["team1_win"],
         }
-
-        if row["batting_first_team"] == row["team1"]:
-            # Team 1 is batting first
-            match_features["team1_defending_win_rate"] = team1.calc_win_rate_defending()
-            match_features["team2_chasing_win_rate"] = team2.calc_win_rate_chasing()
-        else:
-            # Team 1 is chasing
-            match_features["team1_chasing_win_rate"] = team1.calc_win_rate_chasing()
-            match_features["team2_defending_win_rate"] = team2.calc_win_rate_defending()
 
         features.append(match_features)
 

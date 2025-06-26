@@ -37,9 +37,9 @@ def build_feature_matrix(df: pd.DataFrame) -> pd.DataFrame:
             "venue_chasing_win_rate": venue.calc_win_rate_chasing(),
             "venue_defending_win_rate": venue.calc_win_rate_defending(),
             "team1_vs_team2_record": team1.calc_head_to_head_win_rate(team2.get_name()),
-            "toss_winner": 1 if row["toss_winner"] == row["team1"] else 0,
-            "toss_decision_bat": (
-                1 if row["batting_first_team"] == row["toss_winner"] else 0
+            "toss_winner": 1 if row["toss_winner"] == team1.get_name() else 0,
+            "team1_batting": (
+                1 if row["batting_first_team"] == team1.get_name() else 0
             ),
             "team1_win": row["team1_win"],
         }

@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 import joblib
 
 
-def train_and_test_model(
+def train_logistic(
     df, c=0.01, class_weight="balanced", save_path="models/logistic.pkl"
 ):
     # Load features
@@ -26,4 +26,4 @@ def train_and_test_model(
 
     joblib.dump(model, save_path)
 
-    return model, X_test, y_test
+    return model

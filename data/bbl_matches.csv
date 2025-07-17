@@ -1,0 +1,619 @@
+date,season,venue,team1,team2,toss_winner,toss_decision,winner
+2011-12-16,2011/12,Sydney Cricket Ground,Sydney Sixers,Brisbane Heat,Brisbane Heat,bat,Sydney Sixers
+2011-12-17,2011/12,Melbourne Cricket Ground,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2011-12-18,2011/12,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,field,Adelaide Strikers
+2011-12-18,2011/12,Western Australia Cricket Association Ground,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes
+2011-12-20,2011/12,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Stars,Melbourne Stars,bat,Melbourne Stars
+2011-12-21,2011/12,Bellerive Oval,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes
+2011-12-22,2011/12,Docklands Stadium,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,bat,Perth Scorchers
+2011-12-23,2011/12,Stadium Australia,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Sydney Thunder
+2011-12-27,2011/12,Sydney Cricket Ground,Sydney Sixers,Melbourne Stars,Sydney Sixers,bat,Sydney Sixers
+2011-12-28,2011/12,Adelaide Oval,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes
+2011-12-29,2011/12,Western Australia Cricket Association Ground,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Perth Scorchers
+2011-12-30,2011/12,Stadium Australia,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades
+2012-01-01,2011/12,Bellerive Oval,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,bat,Hobart Hurricanes
+2012-01-02,2011/12,Docklands Stadium,Melbourne Renegades,Sydney Sixers,Sydney Sixers,bat,Melbourne Renegades
+2012-01-04,2011/12,Melbourne Cricket Ground,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers
+2012-01-08,2011/12,Stadium Australia,Sydney Thunder,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers
+2012-01-08,2011/12,Western Australia Cricket Association Ground,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Perth Scorchers
+2012-01-09,2011/12,Bellerive Oval,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,bat,Melbourne Stars
+2012-01-10,2011/12,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers
+2012-01-12,2011/12,Docklands Stadium,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat
+2012-01-17,2011/12,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Thunder,Sydney Thunder,field,Brisbane Heat
+2012-01-18,2011/12,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Sydney Sixers
+2012-01-18,2011/12,Bellerive Oval,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,bat,Hobart Hurricanes
+2012-01-19,2011/12,Melbourne Cricket Ground,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,bat,Melbourne Stars
+2012-01-21,2011/12,Western Australia Cricket Association Ground,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Perth Scorchers
+2012-01-22,2011/12,Bellerive Oval,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers
+2012-01-28,2011/12,Western Australia Cricket Association Ground,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers
+2012-12-07,2012/13,Docklands Stadium,Melbourne Renegades,Melbourne Stars,Melbourne Stars,bat,Melbourne Renegades
+2012-12-08,2012/13,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers
+2012-12-09,2012/13,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Hobart Hurricanes,Brisbane Heat,bat,Hobart Hurricanes
+2012-12-09,2012/13,Western Australia Cricket Association Ground,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Strikers
+2012-12-12,2012/13,Western Australia Cricket Association Ground,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2012-12-13,2012/13,Adelaide Oval,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2012-12-14,2012/13,Stadium Australia,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2012-12-15,2012/13,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars
+2012-12-16,2012/13,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2012-12-18,2012/13,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2012-12-19,2012/13,Docklands Stadium,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Melbourne Renegades
+2012-12-20,2012/13,Stadium Australia,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Strikers
+2012-12-22,2012/13,Docklands Stadium,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Melbourne Renegades
+2012-12-23,2012/13,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Sydney Sixers,bat,Adelaide Strikers
+2012-12-26,2012/13,Sydney Cricket Ground,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2012-12-27,2012/13,Adelaide Oval,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Melbourne Stars
+2012-12-28,2012/13,Stadium Australia,Sydney Thunder,Brisbane Heat,Sydney Thunder,bat,Brisbane Heat
+2012-12-29,2012/13,Western Australia Cricket Association Ground,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers
+2012-12-30,2012/13,Stadium Australia,Sydney Thunder,Sydney Sixers,Sydney Thunder,bat,Sydney Sixers
+2013-01-02,2012/13,Docklands Stadium,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,field,Melbourne Renegades
+2013-01-04,2012/13,Western Australia Cricket Association Ground,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Perth Scorchers
+2013-01-06,2012/13,Melbourne Cricket Ground,Melbourne Stars,Melbourne Renegades,Melbourne Stars,bat,Melbourne Renegades
+2013-01-07,2012/13,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Sixers,Brisbane Heat,bat,Sydney Sixers
+2013-01-08,2012/13,Melbourne Cricket Ground,Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Melbourne Stars
+2013-01-10,2012/13,Adelaide Oval,Adelaide Strikers,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers
+2013-01-15,2012/13,Docklands Stadium,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat
+2013-01-16,2012/13,Western Australia Cricket Association Ground,Perth Scorchers,Melbourne Stars,Perth Scorchers,field,Perth Scorchers
+2013-01-19,2012/13,Western Australia Cricket Association Ground,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat
+2013-12-20,2013/14,Melbourne Cricket Ground,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,field,Melbourne Stars
+2013-12-21,2013/14,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers
+2013-12-22,2013/14,Bellerive Oval,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,field,
+2013-12-22,2013/14,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Brisbane Heat
+2013-12-26,2013/14,Western Australia Cricket Association Ground,Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Perth Scorchers
+2013-12-27,2013/14,Stadium Australia,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Strikers
+2013-12-28,2013/14,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Hobart Hurricanes,Brisbane Heat,bat,Hobart Hurricanes
+2013-12-29,2013/14,Sydney Cricket Ground,Sydney Sixers,Melbourne Stars,Sydney Sixers,field,Melbourne Stars
+2013-12-30,2013/14,Docklands Stadium,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,bat,Melbourne Renegades
+2014-01-01,2013/14,Bellerive Oval,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades
+2014-01-01,2013/14,Stadium Australia,Sydney Thunder,Melbourne Stars,Sydney Thunder,bat,Melbourne Stars
+2014-01-02,2013/14,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Sixers,Brisbane Heat,field,Sydney Sixers
+2014-01-03,2013/14,Western Australia Cricket Association Ground,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Perth Scorchers
+2014-01-04,2013/14,Docklands Stadium,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,bat,Melbourne Stars
+2014-01-05,2013/14,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,bat,Sydney Sixers
+2014-01-07,2013/14,Western Australia Cricket Association Ground,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers
+2014-01-08,2013/14,Stadium Australia,Sydney Thunder,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat
+2014-01-09,2013/14,Melbourne Cricket Ground,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,bat,Melbourne Stars
+2014-01-10,2013/14,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,
+2014-01-11,2013/14,Bellerive Oval,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,bat,Hobart Hurricanes
+2014-01-11,2013/14,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Stars,Brisbane Heat,bat,Melbourne Stars
+2014-01-14,2013/14,Docklands Stadium,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Sydney Thunder
+2014-01-15,2013/14,Sydney Cricket Ground,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,bat,Sydney Sixers
+2014-01-16,2013/14,Western Australia Cricket Association Ground,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Perth Scorchers
+2014-01-18,2013/14,Adelaide Oval,Adelaide Strikers,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat
+2014-01-18,2013/14,Docklands Stadium,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Sydney Sixers
+2014-01-21,2013/14,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars
+2014-01-22,2013/14,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades
+2014-01-23,2013/14,Bellerive Oval,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,bat,Hobart Hurricanes
+2014-01-25,2013/14,Stadium Australia,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2014-01-27,2013/14,Melbourne Cricket Ground,Melbourne Stars,Perth Scorchers,Melbourne Stars,bat,Melbourne Stars
+2014-02-04,2013/14,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,bat,Hobart Hurricanes
+2014-02-05,2013/14,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Sydney Sixers,field,Perth Scorchers
+2014-02-07,2013/14,Western Australia Cricket Association Ground,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers
+2014-12-18,2014/15,Adelaide Oval,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Adelaide Strikers
+2014-12-19,2014/15,Sydney Cricket Ground,Sydney Sixers,Melbourne Renegades,Sydney Sixers,field,Sydney Sixers
+2014-12-20,2014/15,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Hobart Hurricanes
+2014-12-21,2014/15,Stadium Australia,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Sydney Thunder
+2014-12-22,2014/15,Western Australia Cricket Association Ground,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Strikers
+2014-12-23,2014/15,Bellerive Oval,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Sydney Sixers
+2014-12-26,2014/15,Western Australia Cricket Association Ground,Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Perth Scorchers
+2014-12-27,2014/15,Stadium Australia,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Sixers
+2014-12-28,2014/15,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat
+2014-12-29,2014/15,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers
+2014-12-30,2014/15,Docklands Stadium,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,field,Melbourne Renegades
+2014-12-31,2014/15,Adelaide Oval,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Adelaide Strikers
+2015-01-01,2014/15,Western Australia Cricket Association Ground,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder
+2015-01-02,2014/15,Bellerive Oval,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,Hobart Hurricanes
+2015-01-03,2014/15,Docklands Stadium,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Stars
+2015-01-04,2014/15,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2015-01-05,2014/15,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Melbourne Stars,field,
+2015-01-06,2014/15,Adelaide Oval,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,field,Perth Scorchers
+2015-01-07,2014/15,Bellerive Oval,Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,field,Melbourne Renegades
+2015-01-08,2014/15,Western Australia Cricket Association Ground,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,Perth Scorchers
+2015-01-10,2014/15,Melbourne Cricket Ground,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Stars
+2015-01-11,2014/15,Bellerive Oval,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers
+2015-01-11,2014/15,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2015-01-12,2014/15,Adelaide Oval,Adelaide Strikers,Sydney Thunder,Sydney Thunder,field,
+2015-01-13,2014/15,Docklands Stadium,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,field,Melbourne Renegades
+2015-01-14,2014/15,Sydney Cricket Ground,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers
+2015-01-15,2014/15,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Brisbane Heat
+2015-01-17,2014/15,Sydney Showground Stadium,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2015-01-19,2014/15,Docklands Stadium,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers
+2015-01-21,2014/15,Melbourne Cricket Ground,Melbourne Stars,Perth Scorchers,Perth Scorchers,bat,Melbourne Stars
+2015-01-22,2014/15,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers
+2015-01-24,2014/15,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Sydney Sixers,bat,Sydney Sixers
+2015-01-25,2014/15,Western Australia Cricket Association Ground,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Perth Scorchers
+2015-01-28,2014/15,Manuka Oval,Perth Scorchers,Sydney Sixers,Sydney Sixers,bat,Perth Scorchers
+2015-12-18,2015/16,Adelaide Oval,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers
+2015-12-19,2015/16,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Renegades,Brisbane Heat,bat,Melbourne Renegades
+2015-12-20,2015/16,Sydney Cricket Ground,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,bat,Sydney Sixers
+2015-12-21,2015/16,Western Australia Cricket Association Ground,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Adelaide Strikers
+2015-12-22,2015/16,Bellerive Oval,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,bat,Hobart Hurricanes
+2015-12-23,2015/16,Docklands Stadium,Melbourne Renegades,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2015-12-26,2015/16,Western Australia Cricket Association Ground,Perth Scorchers,Brisbane Heat,Brisbane Heat,bat,Perth Scorchers
+2015-12-27,2015/16,Sydney Cricket Ground,Sydney Sixers,Melbourne Stars,Sydney Sixers,bat,Melbourne Stars
+2015-12-28,2015/16,Sydney Showground Stadium,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Sydney Thunder
+2015-12-29,2015/16,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes
+2015-12-30,2015/16,Docklands Stadium,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2015-12-31,2015/16,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,field,Adelaide Strikers
+2016-01-01,2015/16,Bellerive Oval,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,field,Hobart Hurricanes
+2016-01-02,2015/16,Melbourne Cricket Ground,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Stars
+2016-01-02,2015/16,Western Australia Cricket Association Ground,Perth Scorchers,Sydney Sixers,Sydney Sixers,bat,Perth Scorchers
+2016-01-03,2015/16,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Thunder,Brisbane Heat,field,Brisbane Heat
+2016-01-04,2015/16,Bellerive Oval,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2016-01-05,2015/16,Adelaide Oval,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,bat,Adelaide Strikers
+2016-01-06,2015/16,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars
+2016-01-07,2015/16,Sydney Showground Stadium,Sydney Thunder,Perth Scorchers,Sydney Thunder,field,Perth Scorchers
+2016-01-08,2015/16,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2016-01-09,2015/16,Docklands Stadium,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2016-01-10,2015/16,Bellerive Oval,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers
+2016-01-10,2015/16,Sydney Cricket Ground,Sydney Sixers,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat
+2016-01-11,2015/16,Sydney Showground Stadium,Sydney Thunder,Melbourne Renegades,Sydney Thunder,bat,Melbourne Renegades
+2016-01-13,2015/16,Adelaide Oval,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Adelaide Strikers
+2016-01-14,2015/16,Melbourne Cricket Ground,Melbourne Stars,Brisbane Heat,Melbourne Stars,field,Brisbane Heat
+2016-01-16,2015/16,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Thunder
+2016-01-18,2015/16,Docklands Stadium,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Strikers
+2016-01-21,2015/16,Adelaide Oval,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Sydney Thunder
+2016-01-22,2015/16,Melbourne Cricket Ground,Melbourne Stars,Perth Scorchers,Melbourne Stars,field,Melbourne Stars
+2016-01-24,2015/16,Melbourne Cricket Ground,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2016-12-20,2016/17,Sydney Showground Stadium,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2016-12-21,2016/17,Adelaide Oval,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,field,Brisbane Heat
+2016-12-22,2016/17,Docklands Stadium,Melbourne Renegades,Sydney Thunder,Sydney Thunder,field,Melbourne Renegades
+2016-12-23,2016/17,Sydney Cricket Ground,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,Hobart Hurricanes
+2016-12-23,2016/17,Western Australia Cricket Association Ground,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,field,Perth Scorchers
+2016-12-26,2016/17,Bellerive Oval,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,bat,Melbourne Stars
+2016-12-27,2016/17,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Perth Scorchers,bat,Sydney Sixers
+2016-12-28,2016/17,Sydney Showground Stadium,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2016-12-29,2016/17,Docklands Stadium,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2016-12-30,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Hobart Hurricanes,Brisbane Heat,field,Brisbane Heat
+2016-12-31,2016/17,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Adelaide Strikers
+2017-01-01,2016/17,Western Australia Cricket Association Ground,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Perth Scorchers
+2017-01-01,2016/17,Melbourne Cricket Ground,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Renegades
+2017-01-02,2016/17,Bellerive Oval,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,field,Hobart Hurricanes
+2017-01-03,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2017-01-04,2016/17,Sydney Showground Stadium,Sydney Thunder,Melbourne Stars,Sydney Thunder,field,Sydney Thunder
+2017-01-05,2016/17,Western Australia Cricket Association Ground,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Brisbane Heat
+2017-01-06,2016/17,Adelaide Oval,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,field,Adelaide Strikers
+2017-01-07,2016/17,Docklands Stadium,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Stars
+2017-01-08,2016/17,Bellerive Oval,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2017-01-09,2016/17,Sydney Cricket Ground,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,bat,Sydney Sixers
+2017-01-10,2016/17,Melbourne Cricket Ground,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Melbourne Stars
+2017-01-11,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Perth Scorchers,Brisbane Heat,field,Perth Scorchers
+2017-01-12,2016/17,Docklands Stadium,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2017-01-14,2016/17,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Sixers,bat,Sydney Thunder
+2017-01-14,2016/17,Western Australia Cricket Association Ground,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Melbourne Stars
+2017-01-16,2016/17,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,field,Melbourne Renegades
+2017-01-17,2016/17,Melbourne Cricket Ground,Melbourne Stars,Brisbane Heat,Melbourne Stars,bat,Brisbane Heat
+2017-01-18,2016/17,Sydney Showground Stadium,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,Adelaide Strikers
+2017-01-20,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,Melbourne Renegades
+2017-01-21,2016/17,Bellerive Oval,Hobart Hurricanes,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2017-01-21,2016/17,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2017-01-24,2016/17,Western Australia Cricket Association Ground,Perth Scorchers,Melbourne Stars,Perth Scorchers,field,Perth Scorchers
+2017-01-25,2016/17,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Sixers,Sydney Sixers,field,
+2017-01-28,2016/17,Western Australia Cricket Association Ground,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Perth Scorchers
+2017-12-19,2017/18,Sydney Showground Stadium,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Thunder
+2017-12-20,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat
+2017-12-21,2017/18,Bellerive Oval,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2017-12-22,2017/18,Adelaide Oval,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers
+2017-12-23,2017/18,Docklands Stadium,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,field,Melbourne Renegades
+2017-12-23,2017/18,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2017-12-26,2017/18,W.A.C.A. Ground,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Perth Scorchers
+2017-12-27,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Thunder,Sydney Thunder,bat,Brisbane Heat
+2017-12-28,2017/18,Sydney Cricket Ground,Sydney Sixers,Adelaide Strikers,Sydney Sixers,field,Adelaide Strikers
+2017-12-29,2017/18,Docklands Stadium,Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2017-12-30,2017/18,Aurora Stadium,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,field,Sydney Thunder
+2017-12-31,2017/18,Adelaide Oval,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Adelaide Strikers
+2018-01-01,2017/18,Sydney Showground Stadium,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Hobart Hurricanes
+2018-01-01,2017/18,W.A.C.A. Ground,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Perth Scorchers
+2018-01-02,2017/18,Melbourne Cricket Ground,Melbourne Stars,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2018-01-03,2017/18,"Simonds Stadium, South Geelong, Victoria",Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Melbourne Renegades
+2018-01-04,2017/18,Bellerive Oval,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,bat,Hobart Hurricanes
+2018-01-05,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Brisbane Heat
+2018-01-06,2017/18,Melbourne Cricket Ground,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2018-01-07,2017/18,Sydney Showground Stadium,Sydney Thunder,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers
+2018-01-08,2017/18,Bellerive Oval,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes
+2018-01-08,2017/18,W.A.C.A. Ground,Perth Scorchers,Melbourne Renegades,Perth Scorchers,field,Perth Scorchers
+2018-01-09,2017/18,Adelaide Oval,Adelaide Strikers,Melbourne Stars,Melbourne Stars,bat,Adelaide Strikers
+2018-01-10,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes
+2018-01-11,2017/18,Sydney Showground Stadium,Sydney Thunder,Perth Scorchers,Sydney Thunder,bat,Sydney Thunder
+2018-01-12,2017/18,Docklands Stadium,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,field,Melbourne Stars
+2018-01-13,2017/18,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers
+2018-01-13,2017/18,Traeger Park,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2018-01-15,2017/18,Bellerive Oval,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,bat,Hobart Hurricanes
+2018-01-16,2017/18,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2018-01-17,2017/18,Adelaide Oval,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Adelaide Strikers
+2018-01-18,2017/18,Sydney Cricket Ground,Sydney Sixers,Brisbane Heat,Sydney Sixers,field,Sydney Sixers
+2018-01-20,2017/18,Melbourne Cricket Ground,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2018-01-20,2017/18,W.A.C.A. Ground,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,field,Perth Scorchers
+2018-01-22,2017/18,Docklands Stadium,Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Strikers
+2018-01-23,2017/18,Sydney Cricket Ground,Sydney Sixers,Melbourne Stars,Sydney Sixers,field,Sydney Sixers
+2018-01-24,2017/18,Manuka Oval,Sydney Thunder,Melbourne Renegades,Sydney Thunder,field,Melbourne Renegades
+2018-01-25,2017/18,W.A.C.A. Ground,Perth Scorchers,Adelaide Strikers,Perth Scorchers,field,Perth Scorchers
+2018-01-27,2017/18,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Melbourne Stars
+2018-01-27,2017/18,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,Melbourne Renegades
+2018-02-01,2017/18,Perth Stadium,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,field,Hobart Hurricanes
+2018-02-02,2017/18,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers
+2018-02-04,2017/18,Adelaide Oval,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Adelaide Strikers
+2018-12-19,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2018-12-20,2018/19,Docklands Stadium,Melbourne Renegades,Perth Scorchers,Melbourne Renegades,field,Melbourne Renegades
+2018-12-21,2018/19,Manuka Oval,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Sydney Thunder
+2018-12-22,2018/19,Carrara Oval,Brisbane Heat,Hobart Hurricanes,Brisbane Heat,field,Hobart Hurricanes
+2018-12-22,2018/19,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Sydney Sixers
+2018-12-23,2018/19,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2018-12-24,2018/19,Sydney Showground Stadium,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Thunder
+2018-12-24,2018/19,Bellerive Oval,Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,field,Hobart Hurricanes
+2018-12-26,2018/19,Perth Stadium,Perth Scorchers,Adelaide Strikers,Perth Scorchers,field,Perth Scorchers
+2018-12-27,2018/19,Sydney Cricket Ground,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2018-12-28,2018/19,Bellerive Oval,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,field,Hobart Hurricanes
+2018-12-29,2018/19,Docklands Stadium,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Sydney Sixers
+2018-12-30,2018/19,Aurora Stadium,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,field,Hobart Hurricanes
+2018-12-31,2018/19,Adelaide Oval,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers
+2019-01-01,2018/19,Carrara Oval,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2019-01-01,2018/19,Melbourne Cricket Ground,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Stars
+2019-01-02,2018/19,Sydney Showground Stadium,Sydney Thunder,Perth Scorchers,Sydney Thunder,bat,Sydney Thunder
+2019-01-03,2018/19,"Simonds Stadium, South Geelong, Victoria",Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,field,Adelaide Strikers
+2019-01-04,2018/19,Bellerive Oval,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,field,Hobart Hurricanes
+2019-01-05,2018/19,Carrara Oval,Melbourne Stars,Sydney Thunder,Sydney Thunder,bat,Melbourne Stars
+2019-01-05,2018/19,Perth Stadium,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2019-01-06,2018/19,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,bat,Sydney Sixers
+2019-01-07,2018/19,Docklands Stadium,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Melbourne Renegades
+2019-01-08,2018/19,Sydney Showground Stadium,Sydney Thunder,Brisbane Heat,Sydney Thunder,field,Brisbane Heat
+2019-01-09,2018/19,Melbourne Cricket Ground,Melbourne Stars,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2019-01-10,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2019-01-11,2018/19,Adelaide Oval,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers
+2019-01-13,2018/19,Sydney Showground Stadium,Sydney Thunder,Adelaide Strikers,Sydney Thunder,bat,Sydney Thunder
+2019-01-13,2018/19,Geelong Cricket Ground,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,field,Brisbane Heat
+2019-01-13,2018/19,Perth Stadium,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Perth Scorchers
+2019-01-14,2018/19,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,field,Hobart Hurricanes
+2019-01-16,2018/19,Sydney Cricket Ground,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2019-01-17,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Thunder,Sydney Thunder,bat,
+2019-01-18,2018/19,Perth Stadium,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2019-01-19,2018/19,Docklands Stadium,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2019-01-20,2018/19,Sydney Cricket Ground,Sydney Sixers,Brisbane Heat,Brisbane Heat,field,Sydney Sixers
+2019-01-21,2018/19,Adelaide Oval,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Hobart Hurricanes
+2019-01-22,2018/19,Sydney Showground Stadium,Sydney Thunder,Melbourne Renegades,Sydney Thunder,field,Melbourne Renegades
+2019-01-23,2018/19,Sydney Cricket Ground,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,field,Sydney Sixers
+2019-01-23,2018/19,Ted Summerton Reserve,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,field,Melbourne Stars
+2019-01-24,2018/19,Perth Stadium,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2019-01-27,2018/19,Melbourne Cricket Ground,Melbourne Stars,Brisbane Heat,Brisbane Heat,field,Melbourne Stars
+2019-01-28,2018/19,Perth Stadium,Perth Scorchers,Melbourne Renegades,Perth Scorchers,field,Melbourne Renegades
+2019-01-29,2018/19,Sydney Cricket Ground,Sydney Sixers,Adelaide Strikers,Sydney Sixers,field,Sydney Sixers
+2019-01-29,2018/19,Bellerive Oval,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,Hobart Hurricanes
+2019-01-30,2018/19,Docklands Stadium,Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Melbourne Renegades
+2019-01-31,2018/19,Aurora Stadium,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2019-02-01,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Perth Scorchers,Brisbane Heat,field,Brisbane Heat
+2019-02-02,2018/19,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Sixers,field,Sydney Sixers
+2019-02-03,2018/19,Adelaide Oval,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2019-02-03,2018/19,Perth Stadium,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Perth Scorchers
+2019-02-07,2018/19,Bellerive Oval,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Hobart Hurricanes
+2019-02-08,2018/19,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Stars,Brisbane Heat,field,Brisbane Heat
+2019-02-09,2018/19,Adelaide Oval,Adelaide Strikers,Perth Scorchers,Perth Scorchers,bat,Adelaide Strikers
+2019-02-09,2018/19,Manuka Oval,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Sydney Thunder
+2019-02-10,2018/19,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Melbourne Stars
+2019-02-14,2018/19,Bellerive Oval,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2019-02-15,2018/19,Docklands Stadium,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,field,Melbourne Renegades
+2019-02-17,2018/19,Docklands Stadium,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Renegades
+2019-12-17,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder
+2019-12-18,2019/20,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Sydney Sixers,field,Sydney Sixers
+2019-12-19,2019/20,"Simonds Stadium, South Geelong, Victoria",Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Sydney Thunder
+2019-12-20,2019/20,Traeger Park,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes
+2019-12-20,2019/20,Carrara Oval,Brisbane Heat,Melbourne Stars,Brisbane Heat,field,Melbourne Stars
+2019-12-21,2019/20,Manuka Oval,Sydney Thunder,Adelaide Strikers,Sydney Thunder,field,
+2019-12-21,2019/20,Perth Stadium,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers
+2019-12-22,2019/20,Ted Summerton Reserve,Melbourne Stars,Hobart Hurricanes,Melbourne Stars,bat,Melbourne Stars
+2019-12-22,2019/20,Sydney Cricket Ground,Sydney Sixers,Brisbane Heat,Sydney Sixers,field,Brisbane Heat
+2019-12-23,2019/20,Adelaide Oval,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Adelaide Strikers
+2019-12-24,2019/20,Bellerive Oval,Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,bat,Hobart Hurricanes
+2019-12-26,2019/20,Perth Stadium,Perth Scorchers,Sydney Sixers,Perth Scorchers,field,Sydney Sixers
+2019-12-27,2019/20,Carrara Oval,Melbourne Stars,Adelaide Strikers,Melbourne Stars,field,Adelaide Strikers
+2019-12-28,2019/20,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Thunder,bat,
+2019-12-29,2019/20,Docklands Stadium,Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers
+2019-12-30,2019/20,Aurora Stadium,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2019-12-31,2019/20,Adelaide Oval,Adelaide Strikers,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder
+2020-01-01,2019/20,Carrara Oval,Brisbane Heat,Perth Scorchers,Perth Scorchers,bat,Perth Scorchers
+2020-01-02,2019/20,Docklands Stadium,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,bat,Sydney Sixers
+2020-01-02,2019/20,Sydney Showground Stadium,Sydney Thunder,Melbourne Stars,Sydney Thunder,bat,Melbourne Stars
+2020-01-03,2019/20,Bellerive Oval,Hobart Hurricanes,Brisbane Heat,Hobart Hurricanes,field,Brisbane Heat
+2020-01-04,2019/20,Melbourne Cricket Ground,Melbourne Stars,Melbourne Renegades,Melbourne Stars,field,Melbourne Stars
+2020-01-05,2019/20,International Sports Stadium,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,bat,Sydney Sixers
+2020-01-05,2019/20,Perth Stadium,Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes
+2020-01-06,2019/20,Sydney Showground Stadium,Sydney Thunder,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat
+2020-01-07,2019/20,"Simonds Stadium, South Geelong, Victoria",Melbourne Renegades,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2020-01-08,2019/20,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2020-01-08,2019/20,Melbourne Cricket Ground,Melbourne Stars,Sydney Thunder,Melbourne Stars,field,Melbourne Stars
+2020-01-09,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,bat,Brisbane Heat
+2020-01-10,2019/20,Docklands Stadium,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2020-01-11,2019/20,Perth Stadium,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Perth Scorchers
+2020-01-11,2019/20,Sydney Showground Stadium,Sydney Thunder,Hobart Hurricanes,Sydney Thunder,field,Sydney Thunder
+2020-01-12,2019/20,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Melbourne Stars
+2020-01-12,2019/20,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers
+2020-01-13,2019/20,Bellerive Oval,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,field,Perth Scorchers
+2020-01-14,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Adelaide Strikers,Adelaide Strikers,bat,Brisbane Heat
+2020-01-15,2019/20,Manuka Oval,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,bat,Melbourne Renegades
+2020-01-15,2019/20,Perth Stadium,Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Melbourne Stars
+2020-01-16,2019/20,Sydney Cricket Ground,Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,field,
+2020-01-17,2019/20,Adelaide Oval,Adelaide Strikers,Brisbane Heat,Brisbane Heat,bat,Adelaide Strikers
+2020-01-18,2019/20,Melbourne Cricket Ground,Melbourne Stars,Perth Scorchers,Melbourne Stars,bat,Melbourne Stars
+2020-01-18,2019/20,Sydney Showground Stadium,Sydney Thunder,Sydney Sixers,Sydney Thunder,field,Sydney Thunder
+2020-01-19,2019/20,Aurora Stadium,Hobart Hurricanes,Adelaide Strikers,Hobart Hurricanes,field,Adelaide Strikers
+2020-01-19,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Melbourne Renegades,Brisbane Heat,field,Melbourne Renegades
+2020-01-20,2019/20,Perth Stadium,Perth Scorchers,Sydney Thunder,Sydney Thunder,bat,Perth Scorchers
+2020-01-20,2019/20,Sydney Cricket Ground,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Sydney Sixers
+2020-01-21,2019/20,Docklands Stadium,Melbourne Renegades,Hobart Hurricanes,Melbourne Renegades,field,Hobart Hurricanes
+2020-01-22,2019/20,Adelaide Oval,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers
+2020-01-23,2019/20,"Brisbane Cricket Ground, Woolloongabba",Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2020-01-24,2019/20,Bellerive Oval,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,bat,Hobart Hurricanes
+2020-01-24,2019/20,Perth Stadium,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,bat,Adelaide Strikers
+2020-01-25,2019/20,Sydney Cricket Ground,Sydney Sixers,Melbourne Renegades,Sydney Sixers,field,Sydney Sixers
+2020-01-25,2019/20,Melbourne Cricket Ground,Melbourne Stars,Brisbane Heat,Brisbane Heat,bat,Brisbane Heat
+2020-01-26,2019/20,Sydney Showground Stadium,Sydney Thunder,Perth Scorchers,Perth Scorchers,bat,Sydney Thunder
+2020-01-26,2019/20,Adelaide Oval,Adelaide Strikers,Hobart Hurricanes,Hobart Hurricanes,bat,Hobart Hurricanes
+2020-01-27,2019/20,Docklands Stadium,Melbourne Renegades,Brisbane Heat,Brisbane Heat,bat,Melbourne Renegades
+2020-01-30,2019/20,Bellerive Oval,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,bat,Sydney Thunder
+2020-01-31,2019/20,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Melbourne Stars,field,Sydney Sixers
+2020-02-01,2019/20,Adelaide Oval,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,field,Sydney Thunder
+2020-02-06,2019/20,Melbourne Cricket Ground,Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Melbourne Stars
+2020-02-08,2019/20,Sydney Cricket Ground,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Sydney Sixers
+2020-12-10,2020/21,Bellerive Oval,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,field,Hobart Hurricanes
+2020-12-11,2020/21,Manuka Oval,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2020-12-12,2020/21,Bellerive Oval,Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Melbourne Renegades
+2020-12-12,2020/21,Manuka Oval,Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Melbourne Stars
+2020-12-13,2020/21,Bellerive Oval,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Hobart Hurricanes
+2020-12-13,2020/21,Bellerive Oval,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,Sydney Sixers
+2020-12-14,2020/21,Manuka Oval,Brisbane Heat,Sydney Thunder,Brisbane Heat,bat,Sydney Thunder
+2020-12-15,2020/21,Aurora Stadium,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2020-12-16,2020/21,Aurora Stadium,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,
+2020-12-19,2020/21,Bellerive Oval,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2020-12-20,2020/21,Bellerive Oval,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,field,Sydney Sixers
+2020-12-22,2020/21,Manuka Oval,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2020-12-23,2020/21,Brisbane Cricket Ground,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Adelaide Strikers
+2020-12-26,2020/21,Manuka Oval,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Sydney Thunder
+2020-12-26,2020/21,Carrara Oval,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2020-12-27,2020/21,Brisbane Cricket Ground,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2020-12-28,2020/21,Adelaide Oval,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Adelaide Strikers
+2020-12-29,2020/21,Carrara Oval,Melbourne Renegades,Sydney Sixers,Melbourne Renegades,bat,Sydney Sixers
+2020-12-29,2020/21,Manuka Oval,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Sydney Thunder
+2020-12-30,2020/21,Brisbane Cricket Ground,Hobart Hurricanes,Brisbane Heat,Brisbane Heat,field,Hobart Hurricanes
+2020-12-31,2020/21,Adelaide Oval,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2021-01-01,2020/21,Carrara Oval,Melbourne Renegades,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2021-01-02,2020/21,Bellerive Oval,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Hobart Hurricanes
+2021-01-02,2020/21,Brisbane Cricket Ground,Sydney Sixers,Brisbane Heat,Sydney Sixers,bat,Brisbane Heat
+2021-01-03,2020/21,Perth Stadium,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers
+2021-01-03,2020/21,Carrara Oval,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2021-01-04,2020/21,Brisbane Cricket Ground,Sydney Thunder,Brisbane Heat,Sydney Thunder,bat,Brisbane Heat
+2021-01-04,2020/21,Bellerive Oval,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,field,Melbourne Stars
+2021-01-05,2020/21,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers
+2021-01-06,2020/21,Perth Stadium,Perth Scorchers,Sydney Sixers,Sydney Sixers,field,Perth Scorchers
+2021-01-07,2020/21,Carrara Oval,Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat
+2021-01-07,2020/21,Perth Stadium,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Sydney Thunder
+2021-01-08,2020/21,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Melbourne Renegades
+2021-01-09,2020/21,Perth Stadium,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Perth Scorchers
+2021-01-10,2020/21,Carrara Oval,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2021-01-11,2020/21,Adelaide Oval,Melbourne Stars,Adelaide Strikers,Melbourne Stars,bat,Adelaide Strikers
+2021-01-12,2020/21,Perth Stadium,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,bat,Perth Scorchers
+2021-01-13,2020/21,Manuka Oval,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2021-01-14,2020/21,Manuka Oval,Melbourne Renegades,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2021-01-15,2020/21,Melbourne Cricket Ground,Melbourne Stars,Adelaide Strikers,Adelaide Strikers,field,Melbourne Stars
+2021-01-16,2020/21,Manuka Oval,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers
+2021-01-17,2020/21,Melbourne Cricket Ground,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,bat,Melbourne Stars
+2021-01-18,2020/21,Manuka Oval,Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2021-01-19,2020/21,Docklands Stadium,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Perth Scorchers
+2021-01-20,2020/21,Docklands Stadium,Melbourne Stars,Melbourne Renegades,Melbourne Stars,bat,Melbourne Renegades
+2021-01-21,2020/21,Adelaide Oval,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Adelaide Strikers
+2021-01-22,2020/21,Docklands Stadium,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers
+2021-01-22,2020/21,Adelaide Oval,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Thunder
+2021-01-23,2020/21,Melbourne Cricket Ground,Perth Scorchers,Melbourne Stars,Melbourne Stars,field,Perth Scorchers
+2021-01-23,2020/21,Docklands Stadium,Brisbane Heat,Melbourne Renegades,Brisbane Heat,bat,Brisbane Heat
+2021-01-24,2020/21,Melbourne Cricket Ground,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,field,Hobart Hurricanes
+2021-01-24,2020/21,Adelaide Oval,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers
+2021-01-25,2020/21,Adelaide Oval,Adelaide Strikers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2021-01-26,2020/21,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2021-01-26,2020/21,Melbourne Cricket Ground,Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Melbourne Renegades
+2021-01-26,2020/21,Adelaide Oval,Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Brisbane Heat
+2021-01-29,2020/21,Brisbane Cricket Ground,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Brisbane Heat
+2021-01-30,2020/21,Manuka Oval,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers
+2021-01-31,2020/21,Manuka Oval,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2021-02-04,2020/21,Manuka Oval,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Perth Scorchers
+2021-02-06,2020/21,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Sydney Sixers
+2021-12-05,2021/22,Sydney Cricket Ground,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Sydney Sixers
+2021-12-06,2021/22,"Manuka Oval, Canberra",Brisbane Heat,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2021-12-07,2021/22,"Docklands Stadium, Melbourne",Melbourne Renegades,Adelaide Strikers,Melbourne Renegades,bat,Melbourne Renegades
+2021-12-08,2021/22,"Aurora Stadium, Launceston",Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,field,Sydney Sixers
+2021-12-08,2021/22,Perth Stadium,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Perth Scorchers
+2021-12-09,2021/22,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Adelaide Strikers
+2021-12-10,2021/22,Melbourne Cricket Ground,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Melbourne Stars
+2021-12-11,2021/22,Sydney Cricket Ground,Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Hobart Hurricanes
+2021-12-11,2021/22,Sydney Showground Stadium,Perth Scorchers,Adelaide Strikers,Perth Scorchers,bat,Perth Scorchers
+2021-12-12,2021/22,Sydney Showground Stadium,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2021-12-13,2021/22,Carrara Oval,Melbourne Renegades,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2021-12-14,2021/22,"Bellerive Oval, Hobart",Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers
+2021-12-15,2021/22,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2021-12-19,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Sydney Thunder
+2021-12-20,2021/22,"Bellerive Oval, Hobart",Perth Scorchers,Hobart Hurricanes,Perth Scorchers,bat,Perth Scorchers
+2021-12-21,2021/22,Sydney Cricket Ground,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,bat,Sydney Sixers
+2021-12-22,2021/22,"Docklands Stadium, Melbourne",Perth Scorchers,Melbourne Renegades,Perth Scorchers,bat,Perth Scorchers
+2021-12-23,2021/22,Adelaide Oval,Brisbane Heat,Adelaide Strikers,Brisbane Heat,bat,Brisbane Heat
+2021-12-24,2021/22,"Bellerive Oval, Hobart",Hobart Hurricanes,Melbourne Stars,Hobart Hurricanes,bat,Hobart Hurricanes
+2021-12-26,2021/22,"Docklands Stadium, Melbourne",Melbourne Renegades,Perth Scorchers,Melbourne Renegades,bat,Perth Scorchers
+2021-12-26,2021/22,Sydney Showground Stadium,Sydney Sixers,Sydney Thunder,Sydney Thunder,field,Sydney Sixers
+2021-12-27,2021/22,"Bellerive Oval, Hobart",Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Hobart Hurricanes
+2021-12-27,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Melbourne Stars,Brisbane Heat,Brisbane Heat,field,Melbourne Stars
+2021-12-28,2021/22,"Manuka Oval, Canberra",Sydney Thunder,Perth Scorchers,Perth Scorchers,field,Sydney Thunder
+2021-12-29,2021/22,Sydney Cricket Ground,Brisbane Heat,Sydney Sixers,Brisbane Heat,bat,Sydney Sixers
+2021-12-29,2021/22,"Docklands Stadium, Melbourne",Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Hobart Hurricanes
+2021-12-31,2021/22,Adelaide Oval,Sydney Thunder,Adelaide Strikers,Sydney Thunder,bat,Sydney Thunder
+2022-01-01,2021/22,"Bellerive Oval, Hobart",Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Brisbane Heat
+2022-01-02,2021/22,"Junction Oval, Melbourne",Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Perth Scorchers
+2022-01-02,2021/22,Sydney Showground Stadium,Sydney Thunder,Adelaide Strikers,Sydney Thunder,bat,Sydney Thunder
+2022-01-03,2021/22,Melbourne Cricket Ground,Melbourne Stars,Melbourne Renegades,Melbourne Stars,bat,Melbourne Renegades
+2022-01-04,2021/22,Carrara Oval,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Perth Scorchers
+2022-01-05,2021/22,Adelaide Oval,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2022-01-06,2021/22,"GMHBA Stadium, South Geelong, Victoria",Brisbane Heat,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2022-01-06,2021/22,Carrara Oval,Perth Scorchers,Sydney Thunder,Perth Scorchers,bat,Sydney Thunder
+2022-01-08,2021/22,"Docklands Stadium, Melbourne",Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Sydney Thunder
+2022-01-08,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2022-01-09,2021/22,"International Sports Stadium, Coffs Harbour",Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Perth Scorchers
+2022-01-10,2021/22,Melbourne Cricket Ground,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2022-01-10,2021/22,Melbourne Cricket Ground,Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,bat,Sydney Thunder
+2022-01-11,2021/22,"GMHBA Stadium, South Geelong, Victoria",Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Perth Scorchers
+2022-01-11,2021/22,"GMHBA Stadium, South Geelong, Victoria",Sydney Sixers,Melbourne Renegades,Sydney Sixers,bat,Sydney Sixers
+2022-01-12,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Adelaide Strikers,Brisbane Heat,Adelaide Strikers,bat,Adelaide Strikers
+2022-01-13,2021/22,"Docklands Stadium, Melbourne",Melbourne Renegades,Melbourne Stars,Melbourne Renegades,bat,Melbourne Stars
+2022-01-13,2021/22,"Docklands Stadium, Melbourne",Hobart Hurricanes,Sydney Thunder,Hobart Hurricanes,bat,Hobart Hurricanes
+2022-01-14,2021/22,Adelaide Oval,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2022-01-15,2021/22,Adelaide Oval,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers
+2022-01-15,2021/22,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Thunder,field,Sydney Sixers
+2022-01-16,2021/22,Melbourne Cricket Ground,Brisbane Heat,Melbourne Stars,Brisbane Heat,bat,Melbourne Stars
+2022-01-17,2021/22,Adelaide Oval,Sydney Sixers,Adelaide Strikers,Sydney Sixers,bat,Adelaide Strikers
+2022-01-17,2021/22,"Docklands Stadium, Melbourne",Brisbane Heat,Perth Scorchers,Brisbane Heat,bat,Perth Scorchers
+2022-01-18,2021/22,"Docklands Stadium, Melbourne",Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,bat,Hobart Hurricanes
+2022-01-19,2021/22,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Sydney Sixers,Brisbane Heat,Brisbane Heat,field,Sydney Sixers
+2022-01-19,2021/22,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,field,Melbourne Stars
+2022-01-19,2021/22,Melbourne Cricket Ground,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Sydney Thunder
+2022-01-21,2021/22,Melbourne Cricket Ground,Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Adelaide Strikers
+2022-01-22,2021/22,"Docklands Stadium, Melbourne",Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Perth Scorchers
+2022-01-23,2021/22,Melbourne Cricket Ground,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers
+2022-01-26,2021/22,Sydney Cricket Ground,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2022-01-28,2021/22,"Docklands Stadium, Melbourne",Perth Scorchers,Sydney Sixers,Sydney Sixers,field,Perth Scorchers
+2022-12-13,2022/23,"Manuka Oval, Canberra",Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2022-12-14,2022/23,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Adelaide Strikers,bat,Adelaide Strikers
+2022-12-15,2022/23,"Cazaly's Stadium, Cairns",Melbourne Renegades,Brisbane Heat,Brisbane Heat,field,Melbourne Renegades
+2022-12-16,2022/23,Sydney Showground Stadium,Adelaide Strikers,Sydney Thunder,Adelaide Strikers,bat,Adelaide Strikers
+2022-12-16,2022/23,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,field,Melbourne Stars
+2022-12-17,2022/23,Perth Stadium,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Perth Scorchers
+2022-12-18,2022/23,"Docklands Stadium, Melbourne",Sydney Thunder,Melbourne Renegades,Sydney Thunder,bat,Melbourne Renegades
+2022-12-19,2022/23,"University of Tasmania Stadium, Launceston",Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,bat,Hobart Hurricanes
+2022-12-20,2022/23,Adelaide Oval,Sydney Thunder,Adelaide Strikers,Sydney Thunder,bat,Adelaide Strikers
+2022-12-21,2022/23,"GMHBA Stadium, South Geelong, Victoria",Brisbane Heat,Melbourne Renegades,Brisbane Heat,bat,Melbourne Renegades
+2022-12-22,2022/23,Sydney Cricket Ground,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,bat,Sydney Sixers
+2022-12-23,2022/23,"Junction Oval, Melbourne",Perth Scorchers,Melbourne Stars,Perth Scorchers,bat,Perth Scorchers
+2022-12-23,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Adelaide Strikers,Brisbane Heat,bat,Brisbane Heat
+2022-12-24,2022/23,"Bellerive Oval, Hobart",Hobart Hurricanes,Melbourne Renegades,Hobart Hurricanes,bat,Hobart Hurricanes
+2022-12-26,2022/23,Sydney Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2022-12-26,2022/23,Perth Stadium,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,bat,Perth Scorchers
+2022-12-27,2022/23,Sydney Showground Stadium,Brisbane Heat,Sydney Thunder,Brisbane Heat,bat,Sydney Thunder
+2022-12-28,2022/23,Sydney Cricket Ground,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,Sydney Sixers
+2022-12-29,2022/23,Carrara Oval,Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Sydney Thunder
+2022-12-29,2022/23,Perth Stadium,Melbourne Stars,Perth Scorchers,Melbourne Stars,bat,Perth Scorchers
+2022-12-30,2022/23,"GMHBA Stadium, South Geelong, Victoria",Melbourne Renegades,Sydney Sixers,Melbourne Renegades,bat,Sydney Sixers
+2022-12-31,2022/23,Adelaide Oval,Melbourne Stars,Adelaide Strikers,Melbourne Stars,bat,Melbourne Stars
+2022-12-31,2022/23,"Lavington Sports Oval, Albury",Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Sydney Thunder
+2023-01-01,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Sydney Sixers,Brisbane Heat,bat,Brisbane Heat
+2023-01-01,2022/23,"Docklands Stadium, Melbourne",Melbourne Renegades,Perth Scorchers,Melbourne Renegades,bat,Perth Scorchers
+2023-01-02,2022/23,"Bellerive Oval, Hobart",Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Hobart Hurricanes
+2023-01-03,2022/23,Melbourne Cricket Ground,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Renegades
+2023-01-04,2022/23,"North Sydney Oval, Sydney",Brisbane Heat,Sydney Sixers,Sydney Sixers,field,
+2023-01-04,2022/23,Perth Stadium,Perth Scorchers,Sydney Thunder,Perth Scorchers,bat,Sydney Thunder
+2023-01-05,2022/23,Adelaide Oval,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2023-01-06,2022/23,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2023-01-07,2022/23,"Docklands Stadium, Melbourne",Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2023-01-07,2022/23,Perth Stadium,Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2023-01-08,2022/23,Sydney Showground Stadium,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2023-01-09,2022/23,"Bellerive Oval, Hobart",Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2023-01-10,2022/23,Adelaide Oval,Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,field,Adelaide Strikers
+2023-01-11,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2023-01-12,2022/23,Melbourne Cricket Ground,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2023-01-13,2022/23,Sydney Showground Stadium,Sydney Thunder,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2023-01-14,2022/23,Adelaide Oval,Brisbane Heat,Adelaide Strikers,Adelaide Strikers,field,Brisbane Heat
+2023-01-14,2022/23,"Docklands Stadium, Melbourne",Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Renegades
+2023-01-15,2022/23,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Sydney Sixers
+2023-01-15,2022/23,"Bellerive Oval, Hobart",Sydney Thunder,Hobart Hurricanes,Sydney Thunder,bat,Hobart Hurricanes
+2023-01-16,2022/23,Melbourne Cricket Ground,Melbourne Stars,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2023-01-17,2022/23,"International Sports Stadium, Coffs Harbour",Sydney Sixers,Adelaide Strikers,Adelaide Strikers,field,Sydney Sixers
+2023-01-18,2022/23,Perth Stadium,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,bat,Perth Scorchers
+2023-01-19,2022/23,"Manuka Oval, Canberra",Melbourne Renegades,Sydney Thunder,Melbourne Renegades,bat,Sydney Thunder
+2023-01-20,2022/23,Adelaide Oval,Adelaide Strikers,Perth Scorchers,Adelaide Strikers,bat,Perth Scorchers
+2023-01-20,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Brisbane Heat
+2023-01-21,2022/23,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Sixers,bat,Sydney Sixers
+2023-01-22,2022/23,Perth Stadium,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers
+2023-01-22,2022/23,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Melbourne Stars,Brisbane Heat,bat,Brisbane Heat
+2023-01-23,2022/23,"Bellerive Oval, Hobart",Sydney Sixers,Hobart Hurricanes,Hobart Hurricanes,field,Sydney Sixers
+2023-01-24,2022/23,"Docklands Stadium, Melbourne",Adelaide Strikers,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2023-01-25,2022/23,"University of Tasmania Stadium, Launceston",Hobart Hurricanes,Brisbane Heat,Brisbane Heat,field,Hobart Hurricanes
+2023-01-25,2022/23,Melbourne Cricket Ground,Melbourne Stars,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2023-01-27,2022/23,Sydney Showground Stadium,Brisbane Heat,Sydney Thunder,Sydney Thunder,field,Brisbane Heat
+2023-01-28,2022/23,Perth Stadium,Sydney Sixers,Perth Scorchers,Sydney Sixers,bat,Perth Scorchers
+2023-01-29,2022/23,"Docklands Stadium, Melbourne",Melbourne Renegades,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2023-02-02,2022/23,Sydney Cricket Ground,Sydney Sixers,Brisbane Heat,Sydney Sixers,bat,Brisbane Heat
+2023-02-04,2022/23,Perth Stadium,Brisbane Heat,Perth Scorchers,Brisbane Heat,bat,Perth Scorchers
+2023-12-07,2023/24,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Brisbane Heat
+2023-12-08,2023/24,Sydney Cricket Ground,Sydney Sixers,Melbourne Renegades,Melbourne Renegades,field,Sydney Sixers
+2023-12-10,2023/24,"GMHBA Stadium, South Geelong, Victoria",Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,
+2023-12-11,2023/24,"University of Tasmania Stadium, Launceston",Hobart Hurricanes,Sydney Sixers,Hobart Hurricanes,bat,Sydney Sixers
+2023-12-12,2023/24,"Manuka Oval, Canberra",Brisbane Heat,Sydney Thunder,Sydney Thunder,field,Brisbane Heat
+2023-12-13,2023/24,Melbourne Cricket Ground,Melbourne Stars,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2023-12-19,2023/24,Adelaide Oval,Sydney Thunder,Adelaide Strikers,Sydney Thunder,bat,Adelaide Strikers
+2023-12-20,2023/24,Perth Stadium,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,bat,Perth Scorchers
+2023-12-21,2023/24,"Docklands Stadium, Melbourne",Melbourne Renegades,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2023-12-22,2023/24,Sydney Cricket Ground,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,field,Sydney Sixers
+2023-12-23,2023/24,"Lavington Sports Oval, Albury",Melbourne Stars,Sydney Thunder,Melbourne Stars,bat,Sydney Thunder
+2023-12-23,2023/24,"Bellerive Oval, Hobart",Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2023-12-26,2023/24,Sydney Cricket Ground,Sydney Sixers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2023-12-26,2023/24,Perth Stadium,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Perth Scorchers
+2023-12-27,2023/24,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Sydney Thunder,Brisbane Heat,bat,Brisbane Heat
+2023-12-28,2023/24,"Bellerive Oval, Hobart",Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2023-12-29,2023/24,"Docklands Stadium, Melbourne",Adelaide Strikers,Melbourne Renegades,Adelaide Strikers,bat,Melbourne Renegades
+2023-12-30,2023/24,Sydney Showground Stadium,Sydney Thunder,Sydney Sixers,Sydney Thunder,bat,
+2023-12-31,2023/24,Adelaide Oval,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2024-01-01,2023/24,"Bellerive Oval, Hobart",Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2024-01-02,2023/24,Melbourne Cricket Ground,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2024-01-03,2023/24,"International Sports Stadium, Coffs Harbour",Sydney Sixers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2024-01-03,2023/24,Perth Stadium,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,field,Perth Scorchers
+2024-01-04,2023/24,"Docklands Stadium, Melbourne",Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2024-01-05,2023/24,Adelaide Oval,Perth Scorchers,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2024-01-06,2023/24,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2024-01-07,2023/24,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Brisbane Heat
+2024-01-08,2023/24,Sydney Showground Stadium,Sydney Thunder,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2024-01-09,2023/24,Adelaide Oval,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2024-01-10,2023/24,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Perth Scorchers,Brisbane Heat,bat,Brisbane Heat
+2024-01-11,2023/24,"Bellerive Oval, Hobart",Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2024-01-12,2023/24,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Thunder,field,Sydney Sixers
+2024-01-13,2023/24,Perth Stadium,Perth Scorchers,Brisbane Heat,Perth Scorchers,bat,Perth Scorchers
+2024-01-13,2023/24,"Docklands Stadium, Melbourne",Melbourne Stars,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2024-01-14,2023/24,"Manuka Oval, Canberra",Sydney Thunder,Adelaide Strikers,Sydney Thunder,bat,Adelaide Strikers
+2024-01-15,2023/24,Melbourne Cricket Ground,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,field,Hobart Hurricanes
+2024-01-16,2023/24,Perth Stadium,Perth Scorchers,Sydney Sixers,Perth Scorchers,bat,Sydney Sixers
+2024-01-19,2023/24,Carrara Oval,Sydney Sixers,Brisbane Heat,Brisbane Heat,field,Sydney Sixers
+2024-01-20,2023/24,Perth Stadium,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Adelaide Strikers
+2024-01-22,2023/24,Carrara Oval,Brisbane Heat,Adelaide Strikers,Brisbane Heat,bat,Brisbane Heat
+2024-01-24,2023/24,Sydney Cricket Ground,Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Brisbane Heat
+2024-12-15,2024/25,Perth Stadium,Melbourne Stars,Perth Scorchers,Melbourne Stars,bat,Perth Scorchers
+2024-12-16,2024/25,Sydney Cricket Ground,Melbourne Renegades,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2024-12-17,2024/25,"Manuka Oval, Canberra",Adelaide Strikers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2024-12-18,2024/25,Melbourne Cricket Ground,Melbourne Stars,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2024-12-19,2024/25,"GMHBA Stadium, South Geelong, Victoria",Hobart Hurricanes,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2024-12-20,2024/25,Adelaide Oval,Adelaide Strikers,Melbourne Stars,Melbourne Stars,field,Adelaide Strikers
+2024-12-21,2024/25,"Bellerive Oval, Hobart",Perth Scorchers,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2024-12-21,2024/25,Sydney Showground Stadium,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2024-12-22,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2024-12-23,2024/25,"Docklands Stadium, Melbourne",Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2024-12-26,2024/25,Sydney Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2024-12-26,2024/25,Perth Stadium,Perth Scorchers,Brisbane Heat,Brisbane Heat,field,Perth Scorchers
+2024-12-27,2024/25,Adelaide Oval,Hobart Hurricanes,Adelaide Strikers,Adelaide Strikers,field,Hobart Hurricanes
+2024-12-28,2024/25,"Manuka Oval, Canberra",Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Sydney Thunder
+2024-12-29,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2024-12-30,2024/25,Sydney Showground Stadium,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,field,Sydney Thunder
+2024-12-31,2024/25,Adelaide Oval,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2025-01-01,2024/25,"Bellerive Oval, Hobart",Hobart Hurricanes,Sydney Sixers,Sydney Sixers,field,Hobart Hurricanes
+2025-01-01,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2025-01-02,2024/25,"Docklands Stadium, Melbourne",Melbourne Renegades,Adelaide Strikers,Adelaide Strikers,field,Adelaide Strikers
+2025-01-03,2024/25,Perth Stadium,Perth Scorchers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2025-01-04,2024/25,Melbourne Cricket Ground,Melbourne Renegades,Melbourne Stars,Melbourne Stars,field,Melbourne Stars
+2025-01-05,2024/25,"Bellerive Oval, Hobart",Adelaide Strikers,Hobart Hurricanes,Adelaide Strikers,bat,Hobart Hurricanes
+2025-01-06,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Sydney Thunder,Brisbane Heat,Brisbane Heat,field,Brisbane Heat
+2025-01-07,2024/25,Perth Stadium,Perth Scorchers,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2025-01-09,2024/25,Melbourne Cricket Ground,Melbourne Stars,Sydney Sixers,Sydney Sixers,field,Melbourne Stars
+2025-01-10,2024/25,"Bellerive Oval, Hobart",Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2025-01-11,2024/25,Sydney Cricket Ground,Sydney Sixers,Perth Scorchers,Perth Scorchers,field,Sydney Sixers
+2025-01-11,2024/25,Adelaide Oval,Adelaide Strikers,Brisbane Heat,Brisbane Heat,field,Adelaide Strikers
+2025-01-12,2024/25,"Docklands Stadium, Melbourne",Melbourne Stars,Melbourne Renegades,Melbourne Renegades,field,Melbourne Stars
+2025-01-13,2024/25,Sydney Showground Stadium,Sydney Thunder,Perth Scorchers,Perth Scorchers,field,Sydney Thunder
+2025-01-14,2024/25,"Bellerive Oval, Hobart",Melbourne Renegades,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2025-01-15,2024/25,Adelaide Oval,Adelaide Strikers,Sydney Sixers,Sydney Sixers,field,Sydney Sixers
+2025-01-16,2024/25,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes
+2025-01-17,2024/25,Sydney Cricket Ground,Sydney Thunder,Sydney Sixers,Sydney Sixers,field,
+2025-01-18,2024/25,"Docklands Stadium, Melbourne",Brisbane Heat,Melbourne Renegades,Melbourne Renegades,field,Melbourne Renegades
+2025-01-18,2024/25,Perth Stadium,Adelaide Strikers,Perth Scorchers,Perth Scorchers,field,Perth Scorchers
+2025-01-19,2024/25,Melbourne Cricket Ground,Melbourne Stars,Hobart Hurricanes,Hobart Hurricanes,field,Melbourne Stars
+2025-01-21,2024/25,"Bellerive Oval, Hobart",Hobart Hurricanes,Sydney Sixers,Sydney Sixers,field,Hobart Hurricanes
+2025-01-22,2024/25,Sydney Showground Stadium,Sydney Thunder,Melbourne Stars,Melbourne Stars,field,Sydney Thunder
+2025-01-24,2024/25,Sydney Cricket Ground,Sydney Sixers,Sydney Thunder,Sydney Thunder,field,Sydney Thunder
+2025-01-27,2024/25,"Bellerive Oval, Hobart",Sydney Thunder,Hobart Hurricanes,Hobart Hurricanes,field,Hobart Hurricanes

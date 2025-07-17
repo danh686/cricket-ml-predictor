@@ -1,0 +1,1395 @@
+date,season,venue,team1,team2,toss_winner,toss_decision,winner
+2014-05-16,2014,Grace Road,Leicestershire,Derbyshire,Derbyshire,field,Leicestershire
+2014-05-16,2014,Trent Bridge,Nottinghamshire,Lancashire,Lancashire,field,Nottinghamshire
+2014-05-16,2014,Riverside Ground,Durham,Worcestershire,Worcestershire,field,Durham
+2014-05-16,2014,The Rose Bowl,Glamorgan,Hampshire,Hampshire,field,Glamorgan
+2014-05-16,2014,Headingley,Yorkshire,Northamptonshire,Yorkshire,bat,Northamptonshire
+2014-05-17,2014,Lord's,Middlesex,Essex,Essex,field,Essex
+2014-05-17,2014,Lord's,Sussex,Middlesex,Middlesex,field,Sussex
+2014-05-17,2014,Old Trafford,Lancashire,Worcestershire,Lancashire,bat,Lancashire
+2014-05-18,2014,The Cooper Associates County Ground,Surrey,Somerset,Somerset,field,Surrey
+2014-05-23,2014,County Ground,Leicestershire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2014-05-23,2014,County Ground,Hampshire,Sussex,Hampshire,bat,Hampshire
+2014-05-23,2014,County Ground,Lancashire,Derbyshire,Derbyshire,field,Lancashire
+2014-05-23,2014,County Ground,Glamorgan,Essex,Essex,field,Essex
+2014-05-23,2014,County Ground,Middlesex,Gloucestershire,Gloucestershire,field,Gloucestershire
+2014-05-23,2014,Trent Bridge,Worcestershire,Nottinghamshire,Nottinghamshire,field,Worcestershire
+2014-05-23,2014,The Cooper Associates County Ground,Kent,Somerset,Somerset,field,Kent
+2014-05-25,2014,Merchant Taylors' School Ground,Hampshire,Middlesex,Middlesex,field,Hampshire
+2014-05-29,2014,Riverside Ground,Lancashire,Durham,Lancashire,bat,Lancashire
+2014-05-30,2014,The Rose Bowl,Essex,Hampshire,Hampshire,field,Hampshire
+2014-05-30,2014,Old Trafford,Lancashire,Warwickshire,Lancashire,bat,Lancashire
+2014-05-30,2014,Headingley,Derbyshire,Yorkshire,Derbyshire,bat,Yorkshire
+2014-05-30,2014,"County Ground, New Road",Northamptonshire,Worcestershire,Northamptonshire,bat,Worcestershire
+2014-05-30,2014,Sophia Gardens,Sussex,Glamorgan,Glamorgan,field,Glamorgan
+2014-05-30,2014,Trent Bridge,Durham,Nottinghamshire,Nottinghamshire,field,Durham
+2014-05-30,2014,St Lawrence Ground,Kent,Gloucestershire,Kent,bat,Kent
+2014-05-30,2014,Kennington Oval,Middlesex,Surrey,Surrey,field,Surrey
+2014-06-01,2014,Grace Road,Warwickshire,Leicestershire,Leicestershire,field,Warwickshire
+2014-06-05,2014,The Rose Bowl,Hampshire,Kent,Hampshire,bat,Hampshire
+2014-06-06,2014,St Lawrence Ground,Kent,Middlesex,Kent,bat,Kent
+2014-06-06,2014,County Ground,Derbyshire,Nottinghamshire,Derbyshire,bat,Nottinghamshire
+2014-06-06,2014,County Ground,Gloucestershire,Sussex,Sussex,field,Gloucestershire
+2014-06-06,2014,Grace Road,Leicestershire,Worcestershire,Leicestershire,bat,Worcestershire
+2014-06-06,2014,Old Trafford,Lancashire,Yorkshire,Lancashire,bat,Yorkshire
+2014-06-06,2014,The Cooper Associates County Ground,Glamorgan,Somerset,Glamorgan,bat,Glamorgan
+2014-06-06,2014,Kennington Oval,Surrey,Essex,Essex,field,Essex
+2014-06-07,2014,"County Ground, New Road",Durham,Worcestershire,Worcestershire,field,Worcestershire
+2014-06-08,2014,County Ground,Gloucestershire,Glamorgan,Gloucestershire,bat,
+2014-06-11,2014,St Lawrence Ground,Kent,Essex,Kent,bat,Essex
+2014-06-13,2014,Trent Bridge,Warwickshire,Nottinghamshire,Warwickshire,bat,Warwickshire
+2014-06-13,2014,The Cooper Associates County Ground,Somerset,Hampshire,Hampshire,field,Somerset
+2014-06-13,2014,Sophia Gardens,Glamorgan,Kent,Kent,field,
+2014-06-13,2014,Kennington Oval,Sussex,Surrey,Surrey,field,Surrey
+2014-06-13,2014,Old Trafford,Lancashire,Leicestershire,Lancashire,bat,Lancashire
+2014-06-13,2014,County Ground,Worcestershire,Derbyshire,Derbyshire,field,Worcestershire
+2014-06-13,2014,County Ground,Gloucestershire,Essex,Essex,field,Essex
+2014-06-13,2014,County Ground,Yorkshire,Northamptonshire,Yorkshire,bat,Yorkshire
+2014-06-15,2014,Arundel Castle Cricket Club Ground,Somerset,Sussex,Sussex,field,Somerset
+2014-06-18,2014,Kennington Oval,Somerset,Middlesex,Somerset,bat,Middlesex
+2014-06-19,2014,Edgbaston,Northamptonshire,Warwickshire,Warwickshire,field,Warwickshire
+2014-06-19,2014,Grace Road,Nottinghamshire,Leicestershire,Leicestershire,field,Nottinghamshire
+2014-06-20,2014,Sophia Gardens,Surrey,Glamorgan,Glamorgan,field,Surrey
+2014-06-20,2014,The Rose Bowl,Hampshire,Gloucestershire,Hampshire,bat,Hampshire
+2014-06-20,2014,St Lawrence Ground,Sussex,Kent,Sussex,bat,Sussex
+2014-06-20,2014,Trent Bridge,Nottinghamshire,Derbyshire,Derbyshire,field,Nottinghamshire
+2014-06-20,2014,Riverside Ground,Durham,Leicestershire,Leicestershire,field,Leicestershire
+2014-06-20,2014,County Ground,Middlesex,Essex,Essex,field,Essex
+2014-06-20,2014,"County Ground, New Road",Warwickshire,Worcestershire,Worcestershire,field,Worcestershire
+2014-06-20,2014,Old Trafford,Lancashire,Northamptonshire,Lancashire,bat,Lancashire
+2014-06-25,2014,Sophia Gardens,Hampshire,Glamorgan,Glamorgan,field,Hampshire
+2014-06-26,2014,Lord's,Gloucestershire,Middlesex,Gloucestershire,bat,
+2014-06-27,2014,The Cooper Associates County Ground,Somerset,Essex,Essex,field,Essex
+2014-06-27,2014,County Ground,Durham,Northamptonshire,Durham,bat,
+2014-06-27,2014,Kennington Oval,Hampshire,Surrey,Surrey,field,Surrey
+2014-06-27,2014,County Ground,Middlesex,Sussex,Sussex,field,Sussex
+2014-06-27,2014,County Ground,Kent,Gloucestershire,Gloucestershire,field,Gloucestershire
+2014-06-27,2014,County Ground,Warwickshire,Derbyshire,Derbyshire,field,Derbyshire
+2014-06-28,2014,Trent Bridge,Nottinghamshire,Yorkshire,Nottinghamshire,bat,Nottinghamshire
+2014-06-29,2014,Riverside Ground,Derbyshire,Durham,Durham,field,Durham
+2014-07-01,2014,Headingley,Yorkshire,Leicestershire,Leicestershire,field,Yorkshire
+2014-07-02,2014,Kennington Oval,Kent,Surrey,Surrey,field,Surrey
+2014-07-02,2014,Headingley,Durham,Yorkshire,Durham,bat,Durham
+2014-07-03,2014,County Ground,Northamptonshire,Warwickshire,Warwickshire,field,Northamptonshire
+2014-07-03,2014,Old Deer Park,Middlesex,Glamorgan,Middlesex,bat,Glamorgan
+2014-07-04,2014,Grace Road,Northamptonshire,Leicestershire,Leicestershire,field,
+2014-07-04,2014,County Ground,Surrey,Essex,Essex,field,Essex
+2014-07-04,2014,St Lawrence Ground,Hampshire,Kent,Kent,field,Hampshire
+2014-07-04,2014,County Ground,Gloucestershire,Sussex,Sussex,field,Gloucestershire
+2014-07-06,2014,The Rose Bowl,Somerset,Hampshire,Somerset,bat,Somerset
+2014-07-06,2014,"County Ground, New Road",Lancashire,Worcestershire,Worcestershire,field,Lancashire
+2014-07-06,2014,Queen's Park,Derbyshire,Leicestershire,Leicestershire,field,Leicestershire
+2014-07-08,2014,Edgbaston,Nottinghamshire,Warwickshire,Warwickshire,field,Nottinghamshire
+2014-07-11,2014,The Rose Bowl,Middlesex,Hampshire,Hampshire,field,Middlesex
+2014-07-11,2014,Edgbaston,Worcestershire,Warwickshire,Warwickshire,field,Warwickshire
+2014-07-11,2014,Riverside Ground,Yorkshire,Durham,Durham,field,Yorkshire
+2014-07-11,2014,Grace Road,Lancashire,Leicestershire,Lancashire,bat,Lancashire
+2014-07-11,2014,County Ground,Derbyshire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2014-07-11,2014,The Cooper Associates County Ground,Somerset,Gloucestershire,Gloucestershire,field,Somerset
+2014-07-11,2014,County Ground,Kent,Sussex,Sussex,field,Kent
+2014-07-11,2014,Kennington Oval,Glamorgan,Surrey,Surrey,field,Glamorgan
+2014-07-12,2014,Castle Park Cricket Ground,Essex,Kent,Kent,field,Essex
+2014-07-13,2014,Queen's Park,Yorkshire,Derbyshire,Derbyshire,field,Yorkshire
+2014-07-15,2014,County Ground,Glamorgan,Sussex,Glamorgan,bat,Sussex
+2014-07-16,2014,Kennington Oval,Somerset,Surrey,Surrey,field,Surrey
+2014-07-18,2014,Headingley,Yorkshire,Warwickshire,Yorkshire,bat,Warwickshire
+2014-07-18,2014,Sophia Gardens,Glamorgan,Essex,Essex,field,Essex
+2014-07-18,2014,The Rose Bowl,Hampshire,Sussex,Hampshire,bat,Hampshire
+2014-07-18,2014,St Lawrence Ground,Kent,Somerset,Kent,bat,Kent
+2014-07-18,2014,County Ground,Worcestershire,Northamptonshire,Worcestershire,bat,Worcestershire
+2014-07-18,2014,Old Trafford,Lancashire,Derbyshire,Lancashire,bat,Lancashire
+2014-07-18,2014,Grace Road,Durham,Leicestershire,Leicestershire,field,Leicestershire
+2014-07-18,2014,College Ground,Surrey,Gloucestershire,Gloucestershire,field,Surrey
+2014-07-20,2014,Trent Bridge,Nottinghamshire,Leicestershire,Nottinghamshire,bat,Nottinghamshire
+2014-07-20,2014,College Ground,Essex,Gloucestershire,Gloucestershire,field,Gloucestershire
+2014-07-22,2014,County Ground,Essex,Hampshire,Hampshire,field,Hampshire
+2014-07-23,2014,County Ground,Nottinghamshire,Northamptonshire,Nottinghamshire,bat,Nottinghamshire
+2014-07-24,2014,Old Trafford,Lancashire,Durham,Lancashire,bat,Lancashire
+2014-07-24,2014,Lord's,Middlesex,Surrey,Middlesex,bat,Surrey
+2014-07-25,2014,The Cooper Associates County Ground,Somerset,Middlesex,Somerset,bat,Somerset
+2014-07-25,2014,Sophia Gardens,Gloucestershire,Glamorgan,Glamorgan,field,Glamorgan
+2014-07-25,2014,"County Ground, New Road",Worcestershire,Derbyshire,Derbyshire,field,Worcestershire
+2014-07-25,2014,Headingley,Yorkshire,Nottinghamshire,Yorkshire,bat,Nottinghamshire
+2014-07-25,2014,Edgbaston,Warwickshire,Leicestershire,Leicestershire,field,Warwickshire
+2014-07-25,2014,County Ground,Essex,Sussex,Sussex,field,Sussex
+2014-07-25,2014,St Lawrence Ground,Kent,Surrey,Kent,bat,Kent
+2014-07-25,2014,Riverside Ground,Northamptonshire,Durham,Northamptonshire,bat,Durham
+2014-08-01,2014,Old Trafford,Lancashire,Glamorgan,Glamorgan,field,Lancashire
+2014-08-02,2014,Kennington Oval,Worcestershire,Surrey,Surrey,field,Surrey
+2014-08-02,2014,County Ground,Warwickshire,Essex,Essex,field,Warwickshire
+2014-08-03,2014,Trent Bridge,Nottinghamshire,Hampshire,Nottinghamshire,bat,Hampshire
+2014-08-23,2014,Edgbaston,Warwickshire,Lancashire,Warwickshire,bat,Warwickshire
+2014-08-23,2014,Edgbaston,Lancashire,Hampshire,Hampshire,field,Lancashire
+2014-08-23,2014,Edgbaston,Warwickshire,Surrey,Surrey,field,Warwickshire
+2015-05-15,2015,Headingley,Derbyshire,Yorkshire,Yorkshire,field,Yorkshire
+2015-05-15,2015,Kennington Oval,Glamorgan,Surrey,Surrey,field,Glamorgan
+2015-05-15,2015,Trent Bridge,Warwickshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2015-05-15,2015,Riverside Ground,Durham,Northamptonshire,Northamptonshire,field,Durham
+2015-05-15,2015,St Lawrence Ground,Kent,Sussex,Kent,bat,Kent
+2015-05-15,2015,The Rose Bowl,Hampshire,Essex,Hampshire,bat,Hampshire
+2015-05-15,2015,County Ground,Middlesex,Gloucestershire,Gloucestershire,field,Gloucestershire
+2015-05-15,2015,Old Trafford,Leicestershire,Lancashire,Leicestershire,bat,Lancashire
+2015-05-16,2015,County Ground,Surrey,Essex,Essex,field,Surrey
+2015-05-17,2015,County Ground,Sussex,Gloucestershire,Gloucestershire,field,Sussex
+2015-05-22,2015,Edgbaston,Warwickshire,Worcestershire,Worcestershire,field,Warwickshire
+2015-05-22,2015,Sophia Gardens,Glamorgan,Essex,Essex,field,Essex
+2015-05-22,2015,The Rose Bowl,Hampshire,Kent,Hampshire,bat,Kent
+2015-05-22,2015,Old Trafford,Durham,Lancashire,Durham,bat,Durham
+2015-05-22,2015,Grace Road,Derbyshire,Leicestershire,Leicestershire,field,Leicestershire
+2015-05-22,2015,Trent Bridge,Nottinghamshire,Yorkshire,Yorkshire,field,Yorkshire
+2015-05-24,2015,County Ground,Gloucestershire,Essex,Essex,field,Gloucestershire
+2015-05-28,2015,Grace Road,Durham,Leicestershire,Durham,bat,Leicestershire
+2015-05-28,2015,Lord's,Middlesex,Kent,Middlesex,bat,Middlesex
+2015-05-29,2015,Riverside Ground,Durham,Yorkshire,Yorkshire,field,Durham
+2015-05-29,2015,"County Ground, New Road",Leicestershire,Worcestershire,Worcestershire,field,Worcestershire
+2015-05-29,2015,County Ground,Middlesex,Sussex,Middlesex,bat,Middlesex
+2015-05-29,2015,County Ground,Lancashire,Derbyshire,Derbyshire,field,Derbyshire
+2015-05-29,2015,The Kent County Cricket Ground,Kent,Surrey,Kent,bat,Kent
+2015-05-29,2015,County Ground,Essex,Somerset,Somerset,field,Somerset
+2015-05-29,2015,County Ground,Northamptonshire,Warwickshire,Northamptonshire,bat,Warwickshire
+2015-05-29,2015,Sophia Gardens,Hampshire,Glamorgan,Glamorgan,field,Hampshire
+2015-05-31,2015,The Cooper Associates County Ground,Kent,Somerset,Kent,bat,Kent
+2015-05-31,2015,Trent Bridge,Nottinghamshire,Durham,Durham,field,Nottinghamshire
+2015-06-04,2015,The Rose Bowl,Hampshire,Middlesex,Hampshire,bat,Hampshire
+2015-06-05,2015,County Ground,Durham,Derbyshire,Derbyshire,field,Durham
+2015-06-05,2015,Sophia Gardens,Glamorgan,Middlesex,Glamorgan,bat,Glamorgan
+2015-06-05,2015,The Kent County Cricket Ground,Kent,Gloucestershire,Kent,bat,Gloucestershire
+2015-06-05,2015,Trent Bridge,Nottinghamshire,Leicestershire,Leicestershire,field,Leicestershire
+2015-06-05,2015,The Cooper Associates County Ground,Hampshire,Somerset,Hampshire,bat,Somerset
+2015-06-05,2015,Kennington Oval,Surrey,Essex,Surrey,bat,Essex
+2015-06-05,2015,Headingley,Yorkshire,Lancashire,Lancashire,field,Lancashire
+2015-06-05,2015,County Ground,Worcestershire,Northamptonshire,Worcestershire,bat,Worcestershire
+2015-06-06,2015,Riverside Ground,Durham,Warwickshire,Warwickshire,field,Warwickshire
+2015-06-07,2015,"County Ground, New Road",Nottinghamshire,Worcestershire,Worcestershire,field,Nottinghamshire
+2015-06-11,2015,County Ground,Essex,Gloucestershire,Gloucestershire,field,Essex
+2015-06-11,2015,County Ground,Derbyshire,Northamptonshire,Derbyshire,bat,Northamptonshire
+2015-06-12,2015,Edgbaston,Nottinghamshire,Warwickshire,Warwickshire,field,Warwickshire
+2015-06-12,2015,County Ground,Sussex,Essex,Essex,field,Essex
+2015-06-12,2015,Grace Road,Northamptonshire,Leicestershire,Leicestershire,field,
+2015-06-12,2015,Riverside Ground,Worcestershire,Durham,Worcestershire,bat,Worcestershire
+2015-06-12,2015,St Lawrence Ground,Kent,Hampshire,Kent,bat,Hampshire
+2015-06-12,2015,County Ground,Glamorgan,Gloucestershire,Gloucestershire,field,Glamorgan
+2015-06-12,2015,Old Trafford,Lancashire,Derbyshire,Derbyshire,field,Lancashire
+2015-06-13,2015,Sophia Gardens,Somerset,Glamorgan,Glamorgan,field,Glamorgan
+2015-06-14,2015,Old Deer Park,Gloucestershire,Middlesex,Middlesex,field,Gloucestershire
+2015-06-14,2015,Arundel Castle Cricket Club Ground,Sussex,Surrey,Sussex,bat,
+2015-06-14,2015,Headingley,Yorkshire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2015-06-18,2015,County Ground,Derbyshire,Leicestershire,Leicestershire,field,Derbyshire
+2015-06-18,2015,St Lawrence Ground,Essex,Kent,Kent,field,Kent
+2015-06-18,2015,Old Trafford,Lancashire,Worcestershire,Lancashire,bat,Worcestershire
+2015-06-18,2015,Lord's,Hampshire,Middlesex,Hampshire,bat,Hampshire
+2015-06-19,2015,Edgbaston,Warwickshire,Leicestershire,Warwickshire,bat,Leicestershire
+2015-06-19,2015,County Ground,Essex,Glamorgan,Glamorgan,field,Essex
+2015-06-19,2015,County Ground,Gloucestershire,Somerset,Gloucestershire,bat,Somerset
+2015-06-19,2015,The Rose Bowl,Hampshire,Sussex,Sussex,field,Sussex
+2015-06-19,2015,"County Ground, New Road",Derbyshire,Worcestershire,Derbyshire,bat,Worcestershire
+2015-06-19,2015,County Ground,Northamptonshire,Lancashire,Lancashire,field,Northamptonshire
+2015-06-19,2015,Kennington Oval,Kent,Surrey,Kent,bat,Kent
+2015-06-19,2015,Headingley,Yorkshire,Nottinghamshire,Nottinghamshire,field,Yorkshire
+2015-06-21,2015,Sophia Gardens,Glamorgan,Sussex,Sussex,field,Sussex
+2015-06-21,2015,Edgbaston,Yorkshire,Warwickshire,Yorkshire,bat,Warwickshire
+2015-06-25,2015,Riverside Ground,Durham,Lancashire,Durham,bat,Lancashire
+2015-06-26,2015,County Ground,Essex,Hampshire,Hampshire,field,Essex
+2015-06-26,2015,"County Ground, New Road",Northamptonshire,Worcestershire,Worcestershire,field,Northamptonshire
+2015-06-26,2015,Uxbridge Cricket Club Ground,Middlesex,Somerset,Middlesex,bat,Somerset
+2015-06-26,2015,County Ground,Derbyshire,Nottinghamshire,Derbyshire,bat,Derbyshire
+2015-06-26,2015,Old Trafford,Warwickshire,Lancashire,Warwickshire,bat,Warwickshire
+2015-06-26,2015,County Ground,Gloucestershire,Sussex,Gloucestershire,bat,Sussex
+2015-06-26,2015,Sophia Gardens,Surrey,Glamorgan,Glamorgan,field,Surrey
+2015-06-26,2015,Grace Road,Leicestershire,Yorkshire,Yorkshire,field,
+2015-06-27,2015,Trent Bridge,Northamptonshire,Nottinghamshire,Northamptonshire,bat,Nottinghamshire
+2015-06-28,2015,The Cooper Associates County Ground,Glamorgan,Somerset,Somerset,field,Glamorgan
+2015-07-01,2015,Kennington Oval,Gloucestershire,Surrey,Gloucestershire,bat,Surrey
+2015-07-02,2015,Lord's,Middlesex,Sussex,Sussex,field,Sussex
+2015-07-03,2015,Edgbaston,Warwickshire,Derbyshire,Derbyshire,field,Warwickshire
+2015-07-03,2015,Riverside Ground,Durham,Leicestershire,Leicestershire,field,Durham
+2015-07-03,2015,The Rose Bowl,Glamorgan,Hampshire,Glamorgan,bat,Glamorgan
+2015-07-03,2015,Old Trafford,Lancashire,Yorkshire,Yorkshire,field,Lancashire
+2015-07-03,2015,Trent Bridge,Worcestershire,Nottinghamshire,Worcestershire,bat,Worcestershire
+2015-07-03,2015,The Cooper Associates County Ground,Somerset,Gloucestershire,Somerset,bat,Gloucestershire
+2015-07-03,2015,Kennington Oval,Middlesex,Surrey,Middlesex,bat,Surrey
+2015-07-03,2015,County Ground,Sussex,Kent,Kent,field,Kent
+2015-07-04,2015,Grace Road,Warwickshire,Leicestershire,Warwickshire,bat,Warwickshire
+2015-07-05,2015,"County Ground, New Road",Durham,Worcestershire,Worcestershire,field,Worcestershire
+2015-07-05,2015,Queen's Park,Northamptonshire,Derbyshire,Derbyshire,field,Northamptonshire
+2015-07-10,2015,The Rose Bowl,Hampshire,Surrey,Surrey,field,Hampshire
+2015-07-10,2015,St Lawrence Ground,Kent,Somerset,Somerset,field,Kent
+2015-07-10,2015,Grace Road,Lancashire,Leicestershire,Leicestershire,field,Lancashire
+2015-07-10,2015,Old Deer Park,Essex,Middlesex,Essex,bat,Middlesex
+2015-07-10,2015,Trent Bridge,Nottinghamshire,Derbyshire,Nottinghamshire,bat,Nottinghamshire
+2015-07-10,2015,County Ground,Glamorgan,Sussex,Glamorgan,bat,Sussex
+2015-07-10,2015,"County Ground, New Road",Worcestershire,Warwickshire,Warwickshire,field,Warwickshire
+2015-07-10,2015,Headingley,Durham,Yorkshire,Durham,bat,Yorkshire
+2015-07-12,2015,Queen's Park,Yorkshire,Derbyshire,Derbyshire,field,Derbyshire
+2015-07-12,2015,College Ground,Gloucestershire,Kent,Kent,field,Kent
+2015-07-12,2015,County Ground,Leicestershire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2015-07-14,2015,College Ground,Hampshire,Gloucestershire,Gloucestershire,field,Gloucestershire
+2015-07-14,2015,Headingley,Worcestershire,Yorkshire,Worcestershire,bat,Worcestershire
+2015-07-15,2015,Old Trafford,Lancashire,Nottinghamshire,Lancashire,bat,Nottinghamshire
+2015-07-17,2015,County Ground,Hampshire,Sussex,Sussex,field,Hampshire
+2015-07-17,2015,Nevill Ground,Glamorgan,Kent,Glamorgan,bat,Glamorgan
+2015-07-17,2015,Kennington Oval,Surrey,Somerset,Surrey,bat,Surrey
+2015-07-17,2015,Riverside Ground,Nottinghamshire,Durham,Durham,field,Nottinghamshire
+2015-07-17,2015,County Ground,Middlesex,Essex,Middlesex,bat,Essex
+2015-07-17,2015,County Ground,Yorkshire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2015-07-17,2015,County Ground,Derbyshire,Worcestershire,Derbyshire,bat,Worcestershire
+2015-07-17,2015,Edgbaston,Lancashire,Warwickshire,Warwickshire,field,Lancashire
+2015-07-22,2015,Edgbaston,Warwickshire,Northamptonshire,Northamptonshire,field,Warwickshire
+2015-07-23,2015,The Rose Bowl,Hampshire,Somerset,Hampshire,bat,Hampshire
+2015-07-23,2015,Lord's,Middlesex,Surrey,Middlesex,bat,Middlesex
+2015-07-24,2015,Sophia Gardens,Glamorgan,Gloucestershire,Gloucestershire,field,Gloucestershire
+2015-07-24,2015,Headingley,Warwickshire,Yorkshire,Warwickshire,bat,Yorkshire
+2015-08-12,2015,County Ground,Sussex,Northamptonshire,Northamptonshire,field,Northamptonshire
+2015-08-14,2015,"County Ground, New Road",Hampshire,Worcestershire,Worcestershire,field,Hampshire
+2015-08-15,2015,St Lawrence Ground,Kent,Lancashire,Lancashire,field,Lancashire
+2015-08-29,2015,Edgbaston,Lancashire,Northamptonshire,Northamptonshire,field,Lancashire
+2015-08-29,2015,Edgbaston,Warwickshire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2015-08-29,2015,Edgbaston,Hampshire,Lancashire,Hampshire,bat,Lancashire
+2016-05-20,2016,Trent Bridge,Nottinghamshire,Warwickshire,Warwickshire,field,Warwickshire
+2016-05-20,2016,"County Ground, New Road",Worcestershire,Durham,Durham,field,Worcestershire
+2016-05-20,2016,Grace Road,Leicestershire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2016-05-20,2016,St Lawrence Ground,Kent,Somerset,Somerset,bat,Kent
+2016-05-20,2016,County Ground,Essex,Surrey,Essex,field,Surrey
+2016-05-20,2016,County Ground,Gloucestershire,Sussex,Gloucestershire,field,Sussex
+2016-05-21,2016,Old Trafford,Lancashire,Derbyshire,Derbyshire,field,Derbyshire
+2016-05-26,2016,Kennington Oval,Surrey,Glamorgan,Surrey,bat,Glamorgan
+2016-05-27,2016,Edgbaston,Warwickshire,Worcestershire,Worcestershire,field,Worcestershire
+2016-05-27,2016,County Ground,Northamptonshire,Derbyshire,Northamptonshire,field,Northamptonshire
+2016-05-27,2016,Old Trafford,Lancashire,Durham,Durham,field,Durham
+2016-05-27,2016,Headingley,Yorkshire,Leicestershire,Yorkshire,field,Leicestershire
+2016-05-27,2016,Uxbridge Cricket Club Ground,Middlesex,Hampshire,Hampshire,field,Middlesex
+2016-06-01,2016,County Ground,Sussex,Somerset,Somerset,field,Sussex
+2016-06-01,2016,Sophia Gardens,Glamorgan,Essex,Essex,field,Essex
+2016-06-01,2016,Riverside Ground,Durham,Nottinghamshire,Nottinghamshire,field,Durham
+2016-06-02,2016,Merchant Taylors' School Ground,Middlesex,Gloucestershire,Middlesex,bat,Gloucestershire
+2016-06-02,2016,The Rose Bowl,Hampshire,Kent,Kent,field,Hampshire
+2016-06-02,2016,"County Ground, New Road",Worcestershire,Yorkshire,Yorkshire,bat,Worcestershire
+2016-06-03,2016,Edgbaston,Warwickshire,Durham,Warwickshire,field,Warwickshire
+2016-06-03,2016,County Ground,Somerset,Essex,Somerset,field,Somerset
+2016-06-03,2016,Sophia Gardens,Glamorgan,Hampshire,Glamorgan,field,Glamorgan
+2016-06-03,2016,County Ground,Derbyshire,Leicestershire,Derbyshire,field,Derbyshire
+2016-06-03,2016,County Ground,Sussex,Surrey,Surrey,bat,Surrey
+2016-06-03,2016,County Ground,Northamptonshire,Worcestershire,Worcestershire,bat,Northamptonshire
+2016-06-03,2016,Old Trafford,Lancashire,Yorkshire,Yorkshire,field,Lancashire
+2016-06-03,2016,Kent County Cricket Ground,Kent,Gloucestershire,Gloucestershire,field,Gloucestershire
+2016-06-04,2016,Grace Road,Leicestershire,Durham,Leicestershire,field,Leicestershire
+2016-06-04,2016,Trent Bridge,Nottinghamshire,Lancashire,Nottinghamshire,field,Nottinghamshire
+2016-06-08,2016,St Lawrence Ground,Kent,Hampshire,Hampshire,field,Kent
+2016-06-09,2016,Kennington Oval,Surrey,Hampshire,Surrey,bat,Surrey
+2016-06-10,2016,Old Trafford,Lancashire,Leicestershire,Lancashire,field,Lancashire
+2016-06-10,2016,County Ground,Sussex,Kent,Sussex,field,Sussex
+2016-06-10,2016,County Ground,Gloucestershire,Glamorgan,Glamorgan,field,Glamorgan
+2016-06-10,2016,"County Ground, New Road",Worcestershire,Northamptonshire,Worcestershire,field,Worcestershire
+2016-06-10,2016,County Ground,Essex,Middlesex,Middlesex,bat,Middlesex
+2016-06-10,2016,County Ground,Somerset,Surrey,Surrey,bat,Somerset
+2016-06-16,2016,County Ground,Essex,Gloucestershire,Gloucestershire,field,Gloucestershire
+2016-06-17,2016,Kennington Oval,Surrey,Middlesex,Middlesex,field,Surrey
+2016-06-17,2016,County Ground,Gloucestershire,Somerset,Gloucestershire,field,Gloucestershire
+2016-06-17,2016,County Ground,Northamptonshire,Durham,Durham,field,Northamptonshire
+2016-06-17,2016,County Ground,Derbyshire,Warwickshire,Warwickshire,field,Warwickshire
+2016-06-17,2016,Sophia Gardens,Glamorgan,Kent,Kent,field,Glamorgan
+2016-06-18,2016,"County Ground, New Road",Worcestershire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2016-06-19,2016,Headingley,Yorkshire,Derbyshire,Yorkshire,field,Yorkshire
+2016-06-19,2016,County Ground,Somerset,Hampshire,Somerset,field,Somerset
+2016-06-19,2016,Edgbaston,Warwickshire,Lancashire,Lancashire,field,Warwickshire
+2016-06-23,2016,Lord's,Middlesex,Somerset,Somerset,field,Middlesex
+2016-06-24,2016,County Ground,Derbyshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2016-06-24,2016,Sophia Gardens,Glamorgan,Surrey,Surrey,bat,Glamorgan
+2016-06-24,2016,Old Trafford,Lancashire,Worcestershire,Worcestershire,field,Lancashire
+2016-06-24,2016,Riverside Ground,Durham,Yorkshire,Durham,field,Durham
+2016-06-24,2016,Grace Road,Leicestershire,Warwickshire,Warwickshire,field,Warwickshire
+2016-06-24,2016,St Lawrence Ground,Kent,Middlesex,Middlesex,bat,Middlesex
+2016-06-24,2016,County Ground,Essex,Hampshire,Hampshire,bat,Essex
+2016-06-25,2016,Kennington Oval,Surrey,Essex,Essex,field,Essex
+2016-06-26,2016,County Ground,Northamptonshire,Leicestershire,Northamptonshire,field,Northamptonshire
+2016-06-26,2016,Arundel Castle Cricket Club Ground,Sussex,Gloucestershire,Sussex,field,Gloucestershire
+2016-06-30,2016,St Lawrence Ground,Kent,Sussex,Kent,bat,Kent
+2016-06-30,2016,Riverside Ground,Durham,Worcestershire,Durham,field,
+2016-07-01,2016,"County Ground, New Road",Worcestershire,Derbyshire,Derbyshire,field,Derbyshire
+2016-07-01,2016,County Ground,Somerset,Gloucestershire,Gloucestershire,field,Gloucestershire
+2016-07-01,2016,County Ground,Essex,Kent,Kent,field,Essex
+2016-07-01,2016,Headingley,Yorkshire,Lancashire,Lancashire,field,Yorkshire
+2016-07-01,2016,County Ground,Sussex,Middlesex,Sussex,field,Sussex
+2016-07-01,2016,Edgbaston,Warwickshire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2016-07-06,2016,County Ground,Gloucestershire,Surrey,Surrey,bat,Gloucestershire
+2016-07-07,2016,County Ground,Somerset,Kent,Kent,bat,Kent
+2016-07-07,2016,Sophia Gardens,Glamorgan,Sussex,Sussex,field,Glamorgan
+2016-07-08,2016,Kennington Oval,Surrey,Somerset,Somerset,field,Surrey
+2016-07-08,2016,"County Ground, New Road",Worcestershire,Lancashire,Lancashire,field,Lancashire
+2016-07-08,2016,County Ground,Northamptonshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2016-07-08,2016,Old Deer Park,Middlesex,Glamorgan,Glamorgan,field,Glamorgan
+2016-07-08,2016,The Rose Bowl,Hampshire,Essex,Essex,bat,Essex
+2016-07-08,2016,Grace Road,Leicestershire,Derbyshire,Leicestershire,field,Leicestershire
+2016-07-08,2016,Headingley,Yorkshire,Warwickshire,Yorkshire,bat,Yorkshire
+2016-07-08,2016,County Ground,Gloucestershire,Kent,Gloucestershire,field,Kent
+2016-07-09,2016,Trent Bridge,Nottinghamshire,Worcestershire,Nottinghamshire,field,Nottinghamshire
+2016-07-10,2016,County Ground,Derbyshire,Yorkshire,Derbyshire,field,Yorkshire
+2016-07-10,2016,Riverside Ground,Durham,Leicestershire,Durham,field,Durham
+2016-07-10,2016,Sophia Gardens,Glamorgan,Gloucestershire,Glamorgan,bat,Gloucestershire
+2016-07-13,2016,County Ground,Derbyshire,Lancashire,Derbyshire,field,Derbyshire
+2016-07-14,2016,The Rose Bowl,Hampshire,Glamorgan,Glamorgan,field,Hampshire
+2016-07-15,2016,"County Ground, New Road",Worcestershire,Warwickshire,Worcestershire,field,Worcestershire
+2016-07-15,2016,County Ground,Sussex,Hampshire,Hampshire,bat,Hampshire
+2016-07-15,2016,Grace Road,Leicestershire,Lancashire,Lancashire,field,Leicestershire
+2016-07-15,2016,County Ground,Somerset,Middlesex,Somerset,bat,Middlesex
+2016-07-15,2016,Riverside Ground,Durham,Northamptonshire,Durham,field,Durham
+2016-07-15,2016,Nevill Ground,Kent,Surrey,Surrey,bat,Kent
+2016-07-15,2016,Trent Bridge,Nottinghamshire,Yorkshire,Yorkshire,bat,Nottinghamshire
+2016-07-17,2016,College Ground,Gloucestershire,Essex,Essex,field,Gloucestershire
+2016-07-17,2016,Edgbaston,Warwickshire,Leicestershire,Leicestershire,field,Warwickshire
+2016-07-19,2016,County Ground,Northamptonshire,Warwickshire,Warwickshire,field,Northamptonshire
+2016-07-20,2016,Headingley,Yorkshire,Durham,Yorkshire,bat,Yorkshire
+2016-07-21,2016,Lord's,Middlesex,Surrey,Surrey,bat,Middlesex
+2016-07-21,2016,County Ground,Essex,Sussex,Essex,field,Sussex
+2016-07-22,2016,County Ground,Derbyshire,Worcestershire,Worcestershire,field,Derbyshire
+2016-07-22,2016,Kennington Oval,Surrey,Sussex,Surrey,field,Surrey
+2016-07-22,2016,Sophia Gardens,Glamorgan,Somerset,Glamorgan,field,Glamorgan
+2016-07-22,2016,Headingley,Yorkshire,Northamptonshire,Yorkshire,bat,Yorkshire
+2016-07-22,2016,The Rose Bowl,Hampshire,Middlesex,Middlesex,bat,Middlesex
+2016-07-22,2016,Edgbaston,Warwickshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2016-07-22,2016,St Lawrence Ground,Kent,Essex,Essex,bat,Essex
+2016-07-22,2016,Riverside Ground,Durham,Lancashire,Durham,field,Lancashire
+2016-07-28,2016,County Ground,Sussex,Glamorgan,Sussex,field,
+2016-07-28,2016,Lord's,Middlesex,Essex,Essex,field,Essex
+2016-07-29,2016,Old Trafford,Lancashire,Warwickshire,Lancashire,bat,Lancashire
+2016-07-29,2016,Riverside Ground,Durham,Derbyshire,Derbyshire,field,Durham
+2016-07-29,2016,County Ground,Essex,Glamorgan,Essex,field,
+2016-07-29,2016,Kennington Oval,Surrey,Kent,Surrey,bat,Surrey
+2016-07-29,2016,County Ground,Gloucestershire,Middlesex,Middlesex,bat,Gloucestershire
+2016-07-29,2016,The Rose Bowl,Hampshire,Somerset,Hampshire,bat,Hampshire
+2016-07-29,2016,County Ground,Northamptonshire,Yorkshire,Yorkshire,bat,Yorkshire
+2016-07-29,2016,Trent Bridge,Nottinghamshire,Leicestershire,Nottinghamshire,field,Nottinghamshire
+2016-08-08,2016,Trent Bridge,Nottinghamshire,Essex,Essex,field,Nottinghamshire
+2016-08-09,2016,County Ground,Northamptonshire,Middlesex,Middlesex,bat,Northamptonshire
+2016-08-10,2016,County Ground,Gloucestershire,Durham,Durham,bat,Durham
+2016-08-11,2016,Sophia Gardens,Glamorgan,Yorkshire,Yorkshire,bat,Yorkshire
+2016-08-20,2016,Edgbaston,Durham,Northamptonshire,Durham,bat,Northamptonshire
+2016-08-20,2016,Edgbaston,Nottinghamshire,Northamptonshire,Nottinghamshire,field,Northamptonshire
+2016-08-20,2016,Edgbaston,Durham,Yorkshire,Durham,bat,Durham
+2017-07-07,2017,Headingley,Yorkshire,Nottinghamshire,Yorkshire,bat,Yorkshire
+2017-07-07,2017,County Ground,Northamptonshire,Derbyshire,Derbyshire,field,Derbyshire
+2017-07-07,2017,County Ground,Surrey,Essex,Essex,field,Surrey
+2017-07-07,2017,Riverside Ground,Lancashire,Durham,Durham,field,Lancashire
+2017-07-07,2017,"County Ground, New Road",Worcestershire,Warwickshire,Warwickshire,field,Warwickshire
+2017-07-07,2017,College Ground,Gloucestershire,Middlesex,Middlesex,field,
+2017-07-07,2017,Sophia Gardens,Hampshire,Glamorgan,Glamorgan,field,Hampshire
+2017-07-08,2017,Queen's Park,Derbyshire,Yorkshire,Derbyshire,bat,Derbyshire
+2017-07-08,2017,Edgbaston,Nottinghamshire,Warwickshire,Warwickshire,field,Warwickshire
+2017-07-09,2017,The Kent County Cricket Ground,Essex,Kent,Essex,bat,Kent
+2017-07-09,2017,Aigburth,Lancashire,Leicestershire,Leicestershire,field,Leicestershire
+2017-07-09,2017,Arundel Castle Cricket Club Ground,Glamorgan,Sussex,Sussex,field,Glamorgan
+2017-07-09,2017,Riverside Ground,Durham,Northamptonshire,Northamptonshire,field,Northamptonshire
+2017-07-09,2017,Kennington Oval,Surrey,Somerset,Somerset,field,Surrey
+2017-07-12,2017,County Ground,Hampshire,Sussex,Sussex,field,Hampshire
+2017-07-13,2017,County Ground,Essex,Somerset,Somerset,field,Essex
+2017-07-13,2017,Lord's,Surrey,Middlesex,Surrey,bat,Middlesex
+2017-07-13,2017,College Ground,Kent,Gloucestershire,Gloucestershire,field,Gloucestershire
+2017-07-14,2017,"County Ground, New Road",Worcestershire,Leicestershire,Worcestershire,bat,Leicestershire
+2017-07-14,2017,The Rose Bowl,Hampshire,Middlesex,Hampshire,bat,Hampshire
+2017-07-14,2017,Kennington Oval,Surrey,Kent,Kent,field,Kent
+2017-07-14,2017,Edgbaston,Warwickshire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2017-07-14,2017,Old Trafford,Lancashire,Yorkshire,Lancashire,bat,
+2017-07-15,2017,Sophia Gardens,Glamorgan,Somerset,Somerset,field,
+2017-07-16,2017,Edgbaston,Leicestershire,Warwickshire,Warwickshire,field,Leicestershire
+2017-07-16,2017,Old Trafford,Derbyshire,Lancashire,Derbyshire,bat,Lancashire
+2017-07-16,2017,County Ground,Essex,Glamorgan,Essex,bat,Glamorgan
+2017-07-16,2017,College Ground,Sussex,Gloucestershire,Sussex,bat,
+2017-07-16,2017,Uxbridge Cricket Club Ground,Somerset,Middlesex,Somerset,bat,Somerset
+2017-07-18,2017,St Lawrence Ground,Gloucestershire,Kent,Kent,field,Gloucestershire
+2017-07-19,2017,"County Ground, New Road",Worcestershire,Derbyshire,Derbyshire,field,Derbyshire
+2017-07-19,2017,Kennington Oval,Surrey,Essex,Essex,field,Surrey
+2017-07-20,2017,Old Deer Park,Middlesex,Kent,Kent,field,Middlesex
+2017-07-20,2017,Riverside Ground,Leicestershire,Durham,Durham,field,Leicestershire
+2017-07-20,2017,The Rose Bowl,Hampshire,Sussex,Hampshire,bat,Sussex
+2017-07-21,2017,Trent Bridge,Nottinghamshire,Derbyshire,Derbyshire,field,Nottinghamshire
+2017-07-21,2017,Sophia Gardens,Sussex,Glamorgan,Glamorgan,field,
+2017-07-21,2017,County Ground,Hampshire,Essex,Essex,field,Essex
+2017-07-21,2017,Headingley,Yorkshire,Warwickshire,Warwickshire,field,Yorkshire
+2017-07-21,2017,Grace Road,Northamptonshire,Leicestershire,Leicestershire,field,Northamptonshire
+2017-07-21,2017,Kennington Oval,Surrey,Middlesex,Surrey,bat,Surrey
+2017-07-22,2017,Trent Bridge,Northamptonshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2017-07-23,2017,Headingley,Yorkshire,Worcestershire,Worcestershire,field,Yorkshire
+2017-07-23,2017,Old Trafford,Lancashire,Durham,Lancashire,bat,Lancashire
+2017-07-23,2017,The Cooper Associates County Ground,Middlesex,Somerset,Somerset,field,Somerset
+2017-07-23,2017,County Ground,Kent,Sussex,Sussex,field,
+2017-07-23,2017,Edgbaston,Warwickshire,Derbyshire,Derbyshire,field,Warwickshire
+2017-07-25,2017,County Ground,Glamorgan,Gloucestershire,Gloucestershire,field,Glamorgan
+2017-07-25,2017,Riverside Ground,Durham,Nottinghamshire,Durham,bat,Nottinghamshire
+2017-07-26,2017,The Cooper Associates County Ground,Somerset,Hampshire,Somerset,bat,Somerset
+2017-07-26,2017,Headingley,Yorkshire,Durham,Yorkshire,bat,Yorkshire
+2017-07-26,2017,Trent Bridge,Worcestershire,Nottinghamshire,Nottinghamshire,field,Worcestershire
+2017-07-27,2017,St Lawrence Ground,Somerset,Kent,Somerset,bat,Kent
+2017-07-27,2017,Lord's,Middlesex,Essex,Essex,field,Middlesex
+2017-07-27,2017,County Ground,Worcestershire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2017-07-28,2017,County Ground,Gloucestershire,Hampshire,Hampshire,field,Hampshire
+2017-07-28,2017,Grace Road,Leicestershire,Durham,Leicestershire,bat,Durham
+2017-07-28,2017,County Ground,Middlesex,Sussex,Middlesex,bat,
+2017-07-30,2017,Trent Bridge,Yorkshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2017-07-30,2017,"County Ground, New Road",Durham,Worcestershire,Worcestershire,field,Worcestershire
+2017-07-30,2017,County Ground,Leicestershire,Derbyshire,Derbyshire,field,Derbyshire
+2017-07-30,2017,St Lawrence Ground,Glamorgan,Kent,Kent,field,Glamorgan
+2017-07-30,2017,The Cooper Associates County Ground,Somerset,Sussex,Sussex,field,Somerset
+2017-07-30,2017,Edgbaston,Lancashire,Warwickshire,Warwickshire,field,Warwickshire
+2017-08-01,2017,County Ground,Warwickshire,Northamptonshire,Northamptonshire,field,Warwickshire
+2017-08-01,2017,The Rose Bowl,Kent,Hampshire,Kent,bat,Kent
+2017-08-02,2017,Grace Road,Nottinghamshire,Leicestershire,Leicestershire,field,
+2017-08-03,2017,Headingley,Yorkshire,Derbyshire,Yorkshire,bat,Derbyshire
+2017-08-03,2017,Lord's,Middlesex,Hampshire,Middlesex,bat,Hampshire
+2017-08-03,2017,County Ground,Surrey,Sussex,Surrey,bat,Sussex
+2017-08-03,2017,Sophia Gardens,Gloucestershire,Glamorgan,Glamorgan,field,Gloucestershire
+2017-08-03,2017,County Ground,Northamptonshire,Lancashire,Lancashire,field,Northamptonshire
+2017-08-04,2017,Grace Road,Lancashire,Leicestershire,Leicestershire,field,Lancashire
+2017-08-04,2017,County Ground,Nottinghamshire,Derbyshire,Derbyshire,field,Nottinghamshire
+2017-08-04,2017,Riverside Ground,Durham,Yorkshire,Durham,bat,Durham
+2017-08-04,2017,County Ground,Somerset,Gloucestershire,Gloucestershire,field,Gloucestershire
+2017-08-04,2017,St Lawrence Ground,Kent,Sussex,Kent,bat,Sussex
+2017-08-04,2017,Kennington Oval,Glamorgan,Surrey,Glamorgan,bat,Glamorgan
+2017-08-04,2017,Edgbaston,Worcestershire,Warwickshire,Warwickshire,field,Worcestershire
+2017-08-04,2017,The Rose Bowl,Hampshire,Essex,Essex,field,Essex
+2017-08-05,2017,Trent Bridge,Durham,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2017-08-05,2017,"County Ground, New Road",Northamptonshire,Worcestershire,Worcestershire,field,Northamptonshire
+2017-08-06,2017,The Cooper Associates County Ground,Surrey,Somerset,Surrey,bat,Somerset
+2017-08-10,2017,Lord's,Middlesex,Sussex,Sussex,field,Middlesex
+2017-08-10,2017,The Rose Bowl,Glamorgan,Hampshire,Glamorgan,bat,Hampshire
+2017-08-11,2017,County Ground,Leicestershire,Northamptonshire,Northamptonshire,field,Leicestershire
+2017-08-11,2017,Riverside Ground,Durham,Worcestershire,Durham,bat,Durham
+2017-08-11,2017,County Ground,Essex,Middlesex,Middlesex,field,Essex
+2017-08-11,2017,St Lawrence Ground,Kent,Hampshire,Hampshire,field,Hampshire
+2017-08-11,2017,County Ground,Gloucestershire,Sussex,Sussex,field,Sussex
+2017-08-11,2017,Trent Bridge,Warwickshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2017-08-11,2017,Headingley,Yorkshire,Lancashire,Yorkshire,bat,Yorkshire
+2017-08-12,2017,The Cooper Associates County Ground,Somerset,Kent,Kent,field,Kent
+2017-08-12,2017,Grace Road,Yorkshire,Leicestershire,Leicestershire,field,Leicestershire
+2017-08-13,2017,"County Ground, New Road",Nottinghamshire,Worcestershire,Worcestershire,field,Nottinghamshire
+2017-08-13,2017,Kennington Oval,Surrey,Sussex,Surrey,bat,Surrey
+2017-08-13,2017,County Ground,Gloucestershire,Essex,Essex,field,Essex
+2017-08-13,2017,Riverside Ground,Durham,Warwickshire,Durham,bat,Warwickshire
+2017-08-13,2017,The Cooper Associates County Ground,Glamorgan,Somerset,Somerset,field,Glamorgan
+2017-08-15,2017,Uxbridge Cricket Club Ground,Middlesex,Gloucestershire,Gloucestershire,field,Middlesex
+2017-08-15,2017,County Ground,Durham,Derbyshire,Durham,bat,Derbyshire
+2017-08-16,2017,Old Trafford,Worcestershire,Lancashire,Lancashire,field,Lancashire
+2017-08-17,2017,Headingley,Yorkshire,Northamptonshire,Yorkshire,bat,Yorkshire
+2017-08-17,2017,County Ground,Kent,Essex,Essex,field,Kent
+2017-08-17,2017,Grace Road,Derbyshire,Leicestershire,Leicestershire,field,Leicestershire
+2017-08-17,2017,Kennington Oval,Gloucestershire,Surrey,Gloucestershire,bat,Surrey
+2017-08-18,2017,Trent Bridge,Leicestershire,Nottinghamshire,Nottinghamshire,field,Leicestershire
+2017-08-18,2017,County Ground,Durham,Northamptonshire,Northamptonshire,field,
+2017-08-18,2017,Old Trafford,Lancashire,Warwickshire,Warwickshire,field,Warwickshire
+2017-08-18,2017,The Rose Bowl,Somerset,Hampshire,Somerset,bat,Somerset
+2017-08-18,2017,St Lawrence Ground,Surrey,Kent,Surrey,bat,Surrey
+2017-08-18,2017,Sophia Gardens,Middlesex,Glamorgan,Glamorgan,field,Glamorgan
+2017-08-18,2017,County Ground,Sussex,Essex,Essex,field,Sussex
+2017-08-18,2017,County Ground,Derbyshire,Worcestershire,Worcestershire,field,Derbyshire
+2017-08-22,2017,County Ground,Hampshire,Derbyshire,Derbyshire,field,Hampshire
+2017-08-23,2017,Sophia Gardens,Leicestershire,Glamorgan,Leicestershire,bat,Glamorgan
+2017-08-24,2017,Trent Bridge,Somerset,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2017-08-25,2017,Kennington Oval,Surrey,Warwickshire,Warwickshire,field,Warwickshire
+2017-09-02,2017,Edgbaston,Warwickshire,Glamorgan,Glamorgan,field,Warwickshire
+2017-09-02,2017,Edgbaston,Nottinghamshire,Warwickshire,Warwickshire,field,Nottinghamshire
+2017-09-02,2017,Edgbaston,Nottinghamshire,Hampshire,Hampshire,field,Nottinghamshire
+2018-07-04,2018,Trent Bridge,Nottinghamshire,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2018-07-04,2018,County Ground,Northamptonshire,Leicestershire,Leicestershire,field,Leicestershire
+2018-07-04,2018,County Ground,Sussex,Essex,Sussex,bat,Sussex
+2018-07-05,2018,Headingley,Yorkshire,Durham,Durham,field,Yorkshire
+2018-07-05,2018,Old Trafford,Lancashire,Worcestershire,Lancashire,bat,Worcestershire
+2018-07-05,2018,Lord's,Surrey,Middlesex,Surrey,bat,Middlesex
+2018-07-06,2018,Grace Road,Durham,Leicestershire,Leicestershire,field,Durham
+2018-07-06,2018,The Rose Bowl,Glamorgan,Hampshire,Hampshire,field,Glamorgan
+2018-07-06,2018,County Ground,Middlesex,Essex,Middlesex,bat,Essex
+2018-07-06,2018,Kennington Oval,Kent,Surrey,Kent,bat,Kent
+2018-07-06,2018,"County Ground, New Road",Worcestershire,Birmingham Bears,Birmingham Bears,field,Worcestershire
+2018-07-06,2018,County Ground,Nottinghamshire,Northamptonshire,Northamptonshire,field,Nottinghamshire
+2018-07-06,2018,County Ground,Derbyshire,Lancashire,Lancashire,field,Lancashire
+2018-07-06,2018,The Cooper Associates County Ground,Gloucestershire,Somerset,Somerset,field,Somerset
+2018-07-08,2018,Grace Road,Nottinghamshire,Leicestershire,Leicestershire,field,Nottinghamshire
+2018-07-08,2018,The Cooper Associates County Ground,Somerset,Kent,Kent,field,Kent
+2018-07-08,2018,County Ground,Derbyshire,Worcestershire,Worcestershire,field,Worcestershire
+2018-07-08,2018,Uxbridge Cricket Club Ground,Middlesex,Gloucestershire,Gloucestershire,field,Gloucestershire
+2018-07-08,2018,Sophia Gardens,Glamorgan,Sussex,Glamorgan,bat,Sussex
+2018-07-08,2018,Edgbaston,Yorkshire,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2018-07-08,2018,Old Trafford,Northamptonshire,Lancashire,Northamptonshire,bat,Lancashire
+2018-07-11,2018,County Ground,Gloucestershire,Kent,Kent,field,Gloucestershire
+2018-07-12,2018,The Rose Bowl,Hampshire,Sussex,Sussex,field,Sussex
+2018-07-12,2018,Kennington Oval,Surrey,Essex,Surrey,bat,Surrey
+2018-07-13,2018,"County Ground, New Road",Worcestershire,Northamptonshire,Northamptonshire,field,Worcestershire
+2018-07-13,2018,County Ground,Surrey,Sussex,Sussex,field,Surrey
+2018-07-13,2018,Riverside Ground,Yorkshire,Durham,Yorkshire,bat,Yorkshire
+2018-07-13,2018,County Ground,Nottinghamshire,Derbyshire,Derbyshire,field,Nottinghamshire
+2018-07-13,2018,County Ground,Essex,Glamorgan,Glamorgan,field,Glamorgan
+2018-07-13,2018,The Kent County Cricket Ground,Kent,Hampshire,Hampshire,field,Kent
+2018-07-13,2018,Edgbaston,Leicestershire,Birmingham Bears,Birmingham Bears,field,Leicestershire
+2018-07-13,2018,County Ground,Somerset,Gloucestershire,Gloucestershire,field,Gloucestershire
+2018-07-14,2018,Old Trafford,Lancashire,Derbyshire,Lancashire,bat,Lancashire
+2018-07-15,2018,"County Ground, New Road",Yorkshire,Worcestershire,Worcestershire,field,Yorkshire
+2018-07-15,2018,Edgbaston,Durham,Birmingham Bears,Durham,bat,Durham
+2018-07-17,2018,Trent Bridge,Durham,Nottinghamshire,Nottinghamshire,field,Durham
+2018-07-18,2018,Grace Road,Leicestershire,Lancashire,Lancashire,field,Lancashire
+2018-07-19,2018,Lord's,Middlesex,Somerset,Middlesex,bat,Somerset
+2018-07-19,2018,County Ground,Derbyshire,Northamptonshire,Northamptonshire,field,Derbyshire
+2018-07-20,2018,The Rose Bowl,Hampshire,Middlesex,Hampshire,bat,Hampshire
+2018-07-20,2018,St Lawrence Ground,Surrey,Kent,Surrey,bat,
+2018-07-20,2018,College Ground,Essex,Gloucestershire,Gloucestershire,field,
+2018-07-20,2018,Edgbaston,Northamptonshire,Birmingham Bears,Birmingham Bears,field,
+2018-07-20,2018,Old Trafford,Lancashire,Yorkshire,Yorkshire,field,Lancashire
+2018-07-20,2018,Riverside Ground,Worcestershire,Durham,Durham,field,Durham
+2018-07-20,2018,Sophia Gardens,Somerset,Glamorgan,Glamorgan,field,Somerset
+2018-07-20,2018,Trent Bridge,Leicestershire,Nottinghamshire,Nottinghamshire,field,Leicestershire
+2018-07-21,2018,County Ground,Hampshire,Essex,Hampshire,bat,
+2018-07-26,2018,Lord's,Middlesex,Hampshire,Hampshire,field,Middlesex
+2018-07-27,2018,St Lawrence Ground,Kent,Sussex,Sussex,field,
+2018-07-27,2018,College Ground,Gloucestershire,Glamorgan,Glamorgan,field,Gloucestershire
+2018-07-27,2018,Headingley,Yorkshire,Birmingham Bears,Yorkshire,bat,Yorkshire
+2018-07-27,2018,Kennington Oval,Somerset,Surrey,Surrey,field,Surrey
+2018-07-27,2018,County Ground,Northamptonshire,Worcestershire,Worcestershire,field,Worcestershire
+2018-07-27,2018,Grace Road,Leicestershire,Derbyshire,Leicestershire,bat,Derbyshire
+2018-07-27,2018,Trent Bridge,Nottinghamshire,Lancashire,Lancashire,field,Nottinghamshire
+2018-07-28,2018,Riverside Ground,Nottinghamshire,Durham,Durham,field,Durham
+2018-07-28,2018,Queen's Park,Yorkshire,Derbyshire,Yorkshire,bat,Derbyshire
+2018-07-29,2018,The Cooper Associates County Ground,Somerset,Middlesex,Middlesex,field,Somerset
+2018-07-30,2018,Headingley,Derbyshire,Yorkshire,Yorkshire,field,Derbyshire
+2018-07-31,2018,Headingley,Yorkshire,Leicestershire,Yorkshire,bat,Yorkshire
+2018-07-31,2018,Kennington Oval,Surrey,Glamorgan,Surrey,bat,Glamorgan
+2018-08-01,2018,County Ground,Sussex,Gloucestershire,Sussex,bat,Gloucestershire
+2018-08-01,2018,The Cooper Associates County Ground,Somerset,Hampshire,Hampshire,field,Somerset
+2018-08-02,2018,Grace Road,Leicestershire,Birmingham Bears,Leicestershire,bat,Birmingham Bears
+2018-08-02,2018,Lord's,Sussex,Middlesex,Sussex,bat,Sussex
+2018-08-02,2018,Trent Bridge,Nottinghamshire,Derbyshire,Nottinghamshire,bat,Nottinghamshire
+2018-08-02,2018,St Lawrence Ground,Kent,Essex,Kent,bat,Kent
+2018-08-02,2018,Riverside Ground,Durham,Northamptonshire,Northamptonshire,field,Durham
+2018-08-03,2018,The Rose Bowl,Kent,Hampshire,Kent,bat,Kent
+2018-08-03,2018,Headingley,Northamptonshire,Yorkshire,Northamptonshire,bat,Yorkshire
+2018-08-03,2018,Old Trafford,Lancashire,Leicestershire,Lancashire,bat,Leicestershire
+2018-08-03,2018,Kennington Oval,Middlesex,Surrey,Middlesex,bat,Surrey
+2018-08-03,2018,"County Ground, New Road",Durham,Worcestershire,Worcestershire,field,Worcestershire
+2018-08-03,2018,County Ground,Derbyshire,Birmingham Bears,Derbyshire,bat,Derbyshire
+2018-08-03,2018,The Cooper Associates County Ground,Essex,Somerset,Essex,bat,Somerset
+2018-08-04,2018,Trent Bridge,Worcestershire,Nottinghamshire,Worcestershire,bat,Worcestershire
+2018-08-05,2018,County Ground,Sussex,Somerset,Somerset,field,Somerset
+2018-08-05,2018,Old Deer Park,Middlesex,Glamorgan,Glamorgan,field,Glamorgan
+2018-08-05,2018,County Ground,Birmingham Bears,Northamptonshire,Birmingham Bears,bat,Birmingham Bears
+2018-08-05,2018,St Lawrence Ground,Kent,Gloucestershire,Kent,bat,Gloucestershire
+2018-08-05,2018,County Ground,Essex,Surrey,Surrey,field,Surrey
+2018-08-07,2018,Old Trafford,Durham,Lancashire,Durham,bat,Durham
+2018-08-07,2018,Sophia Gardens,Glamorgan,Essex,Essex,field,Glamorgan
+2018-08-08,2018,The Rose Bowl,Hampshire,Somerset,Somerset,field,Somerset
+2018-08-08,2018,Riverside Ground,Durham,Leicestershire,Durham,bat,Durham
+2018-08-08,2018,County Ground,Derbyshire,Northamptonshire,Derbyshire,bat,Northamptonshire
+2018-08-09,2018,County Ground,Gloucestershire,Middlesex,Middlesex,field,Gloucestershire
+2018-08-09,2018,"County Ground, New Road",Worcestershire,Derbyshire,Worcestershire,bat,Worcestershire
+2018-08-09,2018,Kennington Oval,Sussex,Surrey,Surrey,field,
+2018-08-09,2018,Edgbaston,Nottinghamshire,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2018-08-09,2018,Headingley,Yorkshire,Lancashire,Yorkshire,bat,Lancashire
+2018-08-10,2018,Old Trafford,Lancashire,Birmingham Bears,Lancashire,bat,Lancashire
+2018-08-10,2018,County Ground,Durham,Northamptonshire,Northamptonshire,field,Durham
+2018-08-10,2018,Sophia Gardens,Hampshire,Glamorgan,Glamorgan,field,Glamorgan
+2018-08-10,2018,The Cooper Associates County Ground,Surrey,Somerset,Somerset,field,Somerset
+2018-08-10,2018,Grace Road,Leicestershire,Worcestershire,Worcestershire,field,Leicestershire
+2018-08-10,2018,Trent Bridge,Nottinghamshire,Yorkshire,Nottinghamshire,bat,Nottinghamshire
+2018-08-11,2018,County Ground,Leicestershire,Derbyshire,Derbyshire,field,
+2018-08-12,2018,The Cooper Associates County Ground,Somerset,Glamorgan,Glamorgan,field,Somerset
+2018-08-12,2018,County Ground,Gloucestershire,Surrey,Surrey,field,Gloucestershire
+2018-08-12,2018,"County Ground, New Road",Worcestershire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2018-08-12,2018,The Rose Bowl,Essex,Hampshire,Hampshire,field,
+2018-08-12,2018,The Kent County Cricket Ground,Middlesex,Kent,Kent,field,Kent
+2018-08-12,2018,Riverside Ground,Lancashire,Durham,Durham,field,Lancashire
+2018-08-14,2018,County Ground,Sussex,Glamorgan,Glamorgan,field,Sussex
+2018-08-15,2018,Edgbaston,Lancashire,Birmingham Bears,Lancashire,bat,Birmingham Bears
+2018-08-15,2018,Kennington Oval,Hampshire,Surrey,Hampshire,bat,Surrey
+2018-08-16,2018,County Ground,Northamptonshire,Yorkshire,Northamptonshire,bat,Yorkshire
+2018-08-16,2018,County Ground,Gloucestershire,Sussex,Gloucestershire,bat,Sussex
+2018-08-16,2018,Lord's,Middlesex,Essex,Essex,field,Essex
+2018-08-16,2018,St Lawrence Ground,Kent,Somerset,Somerset,field,Kent
+2018-08-17,2018,The Rose Bowl,Gloucestershire,Hampshire,Hampshire,field,Hampshire
+2018-08-17,2018,County Ground,Essex,Kent,Kent,field,Kent
+2018-08-17,2018,Edgbaston,Worcestershire,Birmingham Bears,Birmingham Bears,field,Worcestershire
+2018-08-17,2018,Headingley,Yorkshire,Nottinghamshire,Yorkshire,bat,Nottinghamshire
+2018-08-17,2018,Sophia Gardens,Glamorgan,Surrey,Glamorgan,bat,Surrey
+2018-08-17,2018,County Ground,Sussex,Middlesex,Middlesex,field,Sussex
+2018-08-17,2018,Grace Road,Leicestershire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2018-08-23,2018,St Lawrence Ground,Kent,Lancashire,Kent,bat,Lancashire
+2018-08-24,2018,Riverside Ground,Durham,Sussex,Durham,bat,Sussex
+2018-08-25,2018,"County Ground, New Road",Gloucestershire,Worcestershire,Worcestershire,field,Worcestershire
+2018-08-26,2018,The Cooper Associates County Ground,Somerset,Nottinghamshire,Nottinghamshire,field,Somerset
+2018-09-15,2018,Edgbaston,Worcestershire,Lancashire,Lancashire,field,Worcestershire
+2018-09-15,2018,Edgbaston,Sussex,Somerset,Sussex,bat,Sussex
+2018-09-15,2018,Edgbaston,Sussex,Worcestershire,Sussex,bat,Worcestershire
+2019-07-18,2019,Trent Bridge,Nottinghamshire,Worcestershire,Worcestershire,bat,Worcestershire
+2019-07-18,2019,Sophia Gardens,Glamorgan,Somerset,Somerset,field,Somerset
+2019-07-18,2019,Lord's,Middlesex,Essex,Middlesex,field,Middlesex
+2019-07-19,2019,College Ground,Gloucestershire,Glamorgan,Gloucestershire,field,
+2019-07-19,2019,County Ground,Essex,Surrey,Surrey,field,Essex
+2019-07-19,2019,Riverside Ground,Durham,Northamptonshire,Northamptonshire,field,Durham
+2019-07-20,2019,St Lawrence Ground,Kent,Somerset,Kent,bat,Kent
+2019-07-20,2019,Queen's Park,Derbyshire,Yorkshire,Yorkshire,bat,Derbyshire
+2019-07-21,2019,Old Trafford,Lancashire,Durham,Lancashire,bat,Lancashire
+2019-07-21,2019,Edgbaston,Birmingham Bears,Leicestershire,Birmingham Bears,field,Birmingham Bears
+2019-07-21,2019,The Rose Bowl,Hampshire,Kent,Hampshire,bat,Kent
+2019-07-23,2019,Kennington Oval,Surrey,Middlesex,Middlesex,bat,Middlesex
+2019-07-23,2019,Grace Road,Leicestershire,Yorkshire,Leicestershire,field,Yorkshire
+2019-07-24,2019,Edgbaston,Birmingham Bears,Derbyshire,Derbyshire,field,Birmingham Bears
+2019-07-24,2019,"County Ground, Hove",Sussex,Hampshire,Hampshire,field,Sussex
+2019-07-24,2019,Trent Bridge,Nottinghamshire,Northamptonshire,Northamptonshire,bat,Nottinghamshire
+2019-07-25,2019,College Ground,Gloucestershire,Middlesex,Middlesex,bat,Gloucestershire
+2019-07-25,2019,Kennington Oval,Surrey,Glamorgan,Glamorgan,field,Surrey
+2019-07-25,2019,Headingley,Yorkshire,Lancashire,Lancashire,bat,Lancashire
+2019-07-26,2019,St Lawrence Ground,Kent,Essex,Kent,bat,Kent
+2019-07-26,2019,Sophia Gardens,Glamorgan,Middlesex,Middlesex,field,Middlesex
+2019-07-26,2019,County Ground,Derbyshire,Nottinghamshire,Derbyshire,field,Nottinghamshire
+2019-07-26,2019,Old Trafford,Lancashire,Worcestershire,Worcestershire,bat,Lancashire
+2019-07-26,2019,"County Ground, Hove",Sussex,Surrey,Surrey,field,
+2019-07-26,2019,The Cooper Associates County Ground,Somerset,Hampshire,Hampshire,field,Hampshire
+2019-07-26,2019,County Ground,Northamptonshire,Birmingham Bears,Birmingham Bears,field,Northamptonshire
+2019-07-26,2019,Grace Road,Leicestershire,Durham,Leicestershire,bat,Durham
+2019-07-27,2019,Trent Bridge,Nottinghamshire,Leicestershire,Nottinghamshire,field,Leicestershire
+2019-07-28,2019,"County Ground, New Road",Worcestershire,Durham,Worcestershire,field,Worcestershire
+2019-07-28,2019,The Cooper Associates County Ground,Somerset,Sussex,Somerset,field,Sussex
+2019-07-30,2019,Kennington Oval,Surrey,Kent,Kent,field,Kent
+2019-07-31,2019,"County Ground, New Road",Worcestershire,Derbyshire,Worcestershire,field,Worcestershire
+2019-07-31,2019,Riverside Ground,Durham,Leicestershire,Durham,field,Durham
+2019-08-01,2019,Sophia Gardens,Glamorgan,Gloucestershire,Gloucestershire,field,
+2019-08-01,2019,Lord's,Middlesex,Kent,Middlesex,field,Kent
+2019-08-01,2019,County Ground,Essex,Hampshire,Hampshire,field,Hampshire
+2019-08-02,2019,Headingley,Yorkshire,Worcestershire,Yorkshire,bat,Worcestershire
+2019-08-02,2019,"County Ground, Hove",Sussex,Kent,Sussex,field,Sussex
+2019-08-02,2019,The Cooper Associates County Ground,Somerset,Surrey,Somerset,field,Somerset
+2019-08-02,2019,County Ground,Northamptonshire,Derbyshire,Northamptonshire,bat,Derbyshire
+2019-08-02,2019,County Ground,Gloucestershire,Essex,Essex,bat,Essex
+2019-08-02,2019,Riverside Ground,Durham,Lancashire,Durham,bat,Lancashire
+2019-08-02,2019,The Rose Bowl,Hampshire,Glamorgan,Hampshire,bat,Hampshire
+2019-08-02,2019,Trent Bridge,Nottinghamshire,Birmingham Bears,Nottinghamshire,bat,Nottinghamshire
+2019-08-03,2019,Old Trafford,Lancashire,Nottinghamshire,Lancashire,bat,Lancashire
+2019-08-04,2019,"County Ground, New Road",Worcestershire,Leicestershire,Worcestershire,field,Leicestershire
+2019-08-04,2019,Headingley,Yorkshire,Birmingham Bears,Yorkshire,field,
+2019-08-04,2019,County Ground,Gloucestershire,Sussex,Sussex,field,Sussex
+2019-08-04,2019,The Kent County Cricket Ground,Kent,Hampshire,Kent,field,Kent
+2019-08-04,2019,Old Deer Park,Middlesex,Somerset,Somerset,field,Middlesex
+2019-08-06,2019,"County Ground, Hove",Sussex,Glamorgan,Glamorgan,bat,Sussex
+2019-08-07,2019,County Ground,Gloucestershire,Kent,Gloucestershire,field,Gloucestershire
+2019-08-07,2019,County Ground,Essex,Somerset,Somerset,bat,Somerset
+2019-08-07,2019,County Ground,Northamptonshire,Durham,Durham,field,Northamptonshire
+2019-08-07,2019,Grace Road,Leicestershire,Birmingham Bears,Leicestershire,bat,Leicestershire
+2019-08-08,2019,Lord's,Middlesex,Surrey,Surrey,field,Middlesex
+2019-08-09,2019,Grace Road,Leicestershire,Northamptonshire,Leicestershire,bat,
+2019-08-09,2019,County Ground,Derbyshire,Durham,Durham,bat,Durham
+2019-08-09,2019,Sophia Gardens,Glamorgan,Essex,Glamorgan,field,
+2019-08-09,2019,The Rose Bowl,Hampshire,Somerset,Hampshire,field,Somerset
+2019-08-09,2019,Kennington Oval,Surrey,Gloucestershire,Gloucestershire,bat,Gloucestershire
+2019-08-09,2019,"County Ground, Hove",Sussex,Middlesex,Sussex,field,Sussex
+2019-08-09,2019,Edgbaston,Birmingham Bears,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2019-08-10,2019,The Cooper Associates County Ground,Somerset,Kent,Somerset,bat,Somerset
+2019-08-11,2019,Edgbaston,Birmingham Bears,Lancashire,Birmingham Bears,bat,Birmingham Bears
+2019-08-11,2019,Sophia Gardens,Glamorgan,Surrey,Surrey,field,Surrey
+2019-08-11,2019,Radlett Cricket Club,Middlesex,Gloucestershire,Gloucestershire,bat,Middlesex
+2019-08-11,2019,Headingley,Yorkshire,Derbyshire,Yorkshire,field,Derbyshire
+2019-08-13,2019,County Ground,Gloucestershire,Hampshire,Hampshire,bat,Gloucestershire
+2019-08-13,2019,County Ground,Derbyshire,Worcestershire,Derbyshire,bat,Derbyshire
+2019-08-14,2019,County Ground,Northamptonshire,Lancashire,Lancashire,field,Lancashire
+2019-08-15,2019,Riverside Ground,Durham,Worcestershire,Durham,field,Worcestershire
+2019-08-15,2019,Kennington Oval,Surrey,Sussex,Sussex,field,Surrey
+2019-08-15,2019,County Ground,Derbyshire,Leicestershire,Leicestershire,bat,Leicestershire
+2019-08-22,2019,"County Ground, Hove",Sussex,Essex,Sussex,field,Essex
+2019-08-22,2019,Lord's,Middlesex,Hampshire,Hampshire,field,Hampshire
+2019-08-23,2019,County Ground,Derbyshire,Northamptonshire,Northamptonshire,bat,Derbyshire
+2019-08-23,2019,County Ground,Gloucestershire,Somerset,Somerset,field,Gloucestershire
+2019-08-23,2019,Grace Road,Leicestershire,Nottinghamshire,Leicestershire,bat,Nottinghamshire
+2019-08-23,2019,Riverside Ground,Durham,Yorkshire,Durham,field,Yorkshire
+2019-08-23,2019,St Lawrence Ground,Kent,Surrey,Surrey,bat,Surrey
+2019-08-23,2019,Edgbaston,Birmingham Bears,Worcestershire,Birmingham Bears,bat,Worcestershire
+2019-08-24,2019,The Cooper Associates County Ground,Somerset,Glamorgan,Glamorgan,field,Somerset
+2019-08-24,2019,Uxbridge Cricket Club Ground,Middlesex,Sussex,Middlesex,bat,Sussex
+2019-08-25,2019,Trent Bridge,Nottinghamshire,Yorkshire,Nottinghamshire,bat,Nottinghamshire
+2019-08-25,2019,Edgbaston,Birmingham Bears,Northamptonshire,Birmingham Bears,bat,Northamptonshire
+2019-08-25,2019,"County Ground, New Road",Worcestershire,Lancashire,Worcestershire,field,Lancashire
+2019-08-25,2019,The Rose Bowl,Hampshire,Essex,Hampshire,field,
+2019-08-25,2019,Grace Road,Leicestershire,Derbyshire,Leicestershire,bat,Derbyshire
+2019-08-26,2019,Sophia Gardens,Glamorgan,Sussex,Glamorgan,bat,Sussex
+2019-08-26,2019,Old Trafford,Lancashire,Derbyshire,Derbyshire,bat,Derbyshire
+2019-08-27,2019,Kennington Oval,Surrey,Somerset,Somerset,bat,Surrey
+2019-08-27,2019,Riverside Ground,Durham,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2019-08-29,2019,St Lawrence Ground,Kent,Gloucestershire,Kent,field,Gloucestershire
+2019-08-29,2019,Kennington Oval,Surrey,Essex,Essex,bat,Essex
+2019-08-29,2019,Headingley,Yorkshire,Northamptonshire,Yorkshire,bat,Yorkshire
+2019-08-29,2019,The Rose Bowl,Hampshire,Middlesex,Middlesex,bat,Hampshire
+2019-08-30,2019,"County Ground, Hove",Sussex,Gloucestershire,Gloucestershire,field,Gloucestershire
+2019-08-30,2019,County Ground,Northamptonshire,Worcestershire,Worcestershire,bat,Northamptonshire
+2019-08-30,2019,County Ground,Essex,Kent,Essex,bat,Essex
+2019-08-30,2019,Edgbaston,Birmingham Bears,Yorkshire,Birmingham Bears,field,Yorkshire
+2019-08-30,2019,The Cooper Associates County Ground,Somerset,Middlesex,Somerset,bat,Middlesex
+2019-08-30,2019,Old Trafford,Lancashire,Leicestershire,Leicestershire,bat,Lancashire
+2019-08-30,2019,Trent Bridge,Nottinghamshire,Durham,Durham,bat,Durham
+2019-08-30,2019,Sophia Gardens,Glamorgan,Hampshire,Glamorgan,bat,Glamorgan
+2019-09-04,2019,Riverside Ground,Lancashire,Essex,Essex,field,Essex
+2019-09-05,2019,Trent Bridge,Nottinghamshire,Middlesex,Nottinghamshire,field,Nottinghamshire
+2019-09-06,2019,"County Ground, Hove",Sussex,Worcestershire,Worcestershire,field,Worcestershire
+2019-09-07,2019,County Ground,Gloucestershire,Derbyshire,Derbyshire,field,Derbyshire
+2019-09-21,2019,Edgbaston,Nottinghamshire,Worcestershire,Nottinghamshire,field,Worcestershire
+2019-09-21,2019,Edgbaston,Derbyshire,Essex,Essex,bat,Essex
+2019-09-21,2019,Edgbaston,Worcestershire,Essex,Essex,field,Essex
+2020-08-27,2020,St Lawrence Ground,Hampshire,Kent,Kent,field,
+2020-08-27,2020,Riverside Ground,Lancashire,Durham,Lancashire,bat,Lancashire
+2020-08-27,2020,County Ground,Middlesex,Essex,Essex,field,
+2020-08-28,2020,County Ground,Sussex,Surrey,Surrey,field,
+2020-08-29,2020,"County Ground, New Road",Worcestershire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2020-08-29,2020,Lord's,Middlesex,Kent,Kent,field,
+2020-08-29,2020,County Ground,Glamorgan,Gloucestershire,Gloucestershire,field,Glamorgan
+2020-08-29,2020,Riverside Ground,Durham,Nottinghamshire,Durham,bat,Nottinghamshire
+2020-08-29,2020,Grace Road,Leicestershire,Lancashire,Lancashire,field,
+2020-08-30,2020,Sophia Gardens,Glamorgan,Birmingham Bears,Glamorgan,bat,Birmingham Bears
+2020-08-30,2020,County Ground,Hampshire,Sussex,Sussex,field,Sussex
+2020-08-30,2020,Headingley,Yorkshire,Derbyshire,Yorkshire,bat,Yorkshire
+2020-08-30,2020,Kennington Oval,Essex,Surrey,Surrey,field,
+2020-08-30,2020,County Ground,Northamptonshire,Somerset,Somerset,field,Northamptonshire
+2020-08-31,2020,Headingley,Leicestershire,Durham,Leicestershire,bat,Leicestershire
+2020-08-31,2020,Headingley,Lancashire,Derbyshire,Lancashire,bat,Lancashire
+2020-08-31,2020,Trent Bridge,Yorkshire,Nottinghamshire,Yorkshire,bat,Nottinghamshire
+2020-08-31,2020,"County Ground, New Road",Gloucestershire,Worcestershire,Gloucestershire,bat,Gloucestershire
+2020-09-01,2020,The Cooper Associates County Ground,Glamorgan,Somerset,Somerset,field,Somerset
+2020-09-01,2020,Lord's,Middlesex,Sussex,Sussex,field,Sussex
+2020-09-01,2020,County Ground,Northamptonshire,Birmingham Bears,Birmingham Bears,field,Northamptonshire
+2020-09-01,2020,St Lawrence Ground,Surrey,Kent,Kent,field,Kent
+2020-09-01,2020,County Ground,Essex,Hampshire,Hampshire,field,Hampshire
+2020-09-02,2020,Edgbaston,Gloucestershire,Birmingham Bears,Birmingham Bears,field,Gloucestershire
+2020-09-03,2020,Kennington Oval,Hampshire,Surrey,Surrey,field,Surrey
+2020-09-03,2020,Edgbaston,Glamorgan,Northamptonshire,Northamptonshire,field,Northamptonshire
+2020-09-03,2020,Edgbaston,Somerset,Worcestershire,Worcestershire,field,Somerset
+2020-09-03,2020,Lord's,Middlesex,Essex,Essex,field,Middlesex
+2020-09-03,2020,County Ground,Kent,Sussex,Sussex,field,Kent
+2020-09-04,2020,County Ground,Gloucestershire,Worcestershire,Worcestershire,field,Gloucestershire
+2020-09-04,2020,The Cooper Associates County Ground,Birmingham Bears,Somerset,Somerset,field,Birmingham Bears
+2020-09-04,2020,Riverside Ground,Yorkshire,Durham,Durham,field,Yorkshire
+2020-09-04,2020,Aigburth,Derbyshire,Lancashire,Lancashire,field,Lancashire
+2020-09-04,2020,Trent Bridge,Leicestershire,Nottinghamshire,Leicestershire,bat,Nottinghamshire
+2020-09-05,2020,Kennington Oval,Middlesex,Surrey,Middlesex,bat,Surrey
+2020-09-05,2020,Kennington Oval,Kent,Essex,Kent,bat,Kent
+2020-09-10,2020,The Rose Bowl,Sussex,Hampshire,Hampshire,field,Sussex
+2020-09-11,2020,Riverside Ground,Durham,Derbyshire,Durham,bat,Durham
+2020-09-11,2020,County Ground,Gloucestershire,Northamptonshire,Northamptonshire,field,Gloucestershire
+2020-09-11,2020,Edgbaston,Birmingham Bears,Glamorgan,Birmingham Bears,bat,Birmingham Bears
+2020-09-11,2020,Grace Road,Yorkshire,Leicestershire,Leicestershire,field,Leicestershire
+2020-09-11,2020,County Ground,Essex,Surrey,Essex,bat,Surrey
+2020-09-11,2020,The Cooper Associates County Ground,Worcestershire,Somerset,Worcestershire,bat,Worcestershire
+2020-09-11,2020,Trent Bridge,Lancashire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2020-09-12,2020,St Lawrence Ground,Kent,Sussex,Sussex,field,Sussex
+2020-09-12,2020,Lord's,Middlesex,Hampshire,Middlesex,bat,Middlesex
+2020-09-13,2020,Sophia Gardens,Northamptonshire,Glamorgan,Northamptonshire,bat,Glamorgan
+2020-09-13,2020,The Cooper Associates County Ground,Gloucestershire,Somerset,Somerset,field,Gloucestershire
+2020-09-13,2020,"County Ground, New Road",Worcestershire,Birmingham Bears,Worcestershire,bat,Birmingham Bears
+2020-09-13,2020,Trent Bridge,Nottinghamshire,Derbyshire,Nottinghamshire,bat,Nottinghamshire
+2020-09-13,2020,Riverside Ground,Leicestershire,Durham,Leicestershire,bat,Durham
+2020-09-14,2020,Headingley,Yorkshire,Lancashire,Yorkshire,bat,Lancashire
+2020-09-14,2020,Lord's,Surrey,Middlesex,Middlesex,field,Surrey
+2020-09-14,2020,County Ground,Essex,Sussex,Sussex,field,Essex
+2020-09-14,2020,The Rose Bowl,Hampshire,Kent,Kent,field,Kent
+2020-09-15,2020,Grace Road,Derbyshire,Leicestershire,Derbyshire,bat,Derbyshire
+2020-09-15,2020,County Ground,Gloucestershire,Birmingham Bears,Gloucestershire,bat,Gloucestershire
+2020-09-15,2020,County Ground,Worcestershire,Northamptonshire,Worcestershire,bat,Worcestershire
+2020-09-16,2020,The Rose Bowl,Essex,Hampshire,Essex,bat,Essex
+2020-09-16,2020,Sophia Gardens,Somerset,Glamorgan,Glamorgan,field,Somerset
+2020-09-16,2020,St Lawrence Ground,Middlesex,Kent,Kent,field,Middlesex
+2020-09-16,2020,Kennington Oval,Sussex,Surrey,Surrey,field,Surrey
+2020-09-16,2020,Headingley,Durham,Yorkshire,Yorkshire,field,Durham
+2020-09-17,2020,Old Trafford,Lancashire,Yorkshire,Lancashire,bat,Lancashire
+2020-09-17,2020,Trent Bridge,Derbyshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2020-09-18,2020,The Rose Bowl,Hampshire,Surrey,Surrey,field,Surrey
+2020-09-18,2020,Grace Road,Nottinghamshire,Leicestershire,Nottinghamshire,bat,Leicestershire
+2020-09-18,2020,Old Trafford,Durham,Lancashire,Durham,bat,Durham
+2020-09-18,2020,The Cooper Associates County Ground,Northamptonshire,Somerset,Northamptonshire,bat,Somerset
+2020-09-18,2020,Edgbaston,Birmingham Bears,Worcestershire,Birmingham Bears,bat,Birmingham Bears
+2020-09-18,2020,Sophia Gardens,Glamorgan,Gloucestershire,Glamorgan,bat,Glamorgan
+2020-09-18,2020,St Lawrence Ground,Essex,Kent,Essex,bat,Kent
+2020-09-18,2020,County Ground,Middlesex,Sussex,Sussex,field,Sussex
+2020-09-20,2020,Kennington Oval,Kent,Surrey,Surrey,field,Surrey
+2020-09-20,2020,The Rose Bowl,Hampshire,Middlesex,Hampshire,bat,Hampshire
+2020-09-20,2020,Edgbaston,Birmingham Bears,Northamptonshire,Birmingham Bears,bat,Northamptonshire
+2020-09-20,2020,"County Ground, New Road",Worcestershire,Glamorgan,Worcestershire,bat,Glamorgan
+2020-09-20,2020,Headingley,Derbyshire,Yorkshire,Derbyshire,bat,Yorkshire
+2020-09-20,2020,Old Trafford,Leicestershire,Lancashire,Leicestershire,bat,Leicestershire
+2020-09-20,2020,Trent Bridge,Nottinghamshire,Durham,Durham,field,Nottinghamshire
+2020-09-20,2020,County Ground,Essex,Sussex,Sussex,field,Sussex
+2020-09-20,2020,County Ground,Somerset,Gloucestershire,Somerset,bat,Gloucestershire
+2020-10-01,2020,County Ground,Lancashire,Sussex,Sussex,field,Lancashire
+2020-10-01,2020,Trent Bridge,Leicestershire,Nottinghamshire,Nottinghamshire,field,
+2020-10-01,2020,County Ground,Northamptonshire,Gloucestershire,Northamptonshire,bat,Gloucestershire
+2020-10-01,2020,Kennington Oval,Surrey,Kent,Kent,field,Surrey
+2020-10-03,2020,Edgbaston,Gloucestershire,Surrey,Surrey,field,Surrey
+2020-10-04,2020,Edgbaston,Lancashire,Nottinghamshire,Lancashire,bat,Nottinghamshire
+2020-10-04,2020,Edgbaston,Surrey,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2021-06-09,2021,"St Lawrence Ground, Canterbury",Kent,Hampshire,Hampshire,field,Kent
+2021-06-09,2021,"Old Trafford, Manchester",Derbyshire,Lancashire,Derbyshire,bat,Lancashire
+2021-06-09,2021,"County Ground, New Road, Worcester",Worcestershire,Nottinghamshire,Nottinghamshire,field,
+2021-06-09,2021,"The Cooper Associates County Ground, Taunton",Somerset,Essex,Essex,field,Essex
+2021-06-10,2021,"Sophia Gardens, Cardiff",Gloucestershire,Glamorgan,Gloucestershire,bat,Gloucestershire
+2021-06-10,2021,"Headingley, Leeds",Birmingham Bears,Yorkshire,Yorkshire,field,Yorkshire
+2021-06-10,2021,"Lord's, London",Surrey,Middlesex,Middlesex,field,Surrey
+2021-06-10,2021,"Old Trafford, Manchester",Lancashire,Leicestershire,Lancashire,bat,Lancashire
+2021-06-11,2021,"County Ground, Bristol",Gloucestershire,Sussex,Sussex,field,Sussex
+2021-06-11,2021,"St Lawrence Ground, Canterbury",Kent,Middlesex,Middlesex,field,Kent
+2021-06-11,2021,"Riverside Ground, Chester-le-Street",Durham,Yorkshire,Yorkshire,field,Durham
+2021-06-11,2021,"County Ground, Chelmsford",Hampshire,Essex,Essex,field,Hampshire
+2021-06-11,2021,"The Cooper Associates County Ground, Taunton",Somerset,Surrey,Surrey,field,Surrey
+2021-06-11,2021,"County Ground, Northampton",Worcestershire,Northamptonshire,Northamptonshire,field,Worcestershire
+2021-06-11,2021,"Trent Bridge, Nottingham",Birmingham Bears,Nottinghamshire,Nottinghamshire,field,Birmingham Bears
+2021-06-11,2021,"Grace Road, Leicester",Derbyshire,Leicestershire,Leicestershire,field,Derbyshire
+2021-06-12,2021,"County Ground, Hove",Hampshire,Sussex,Hampshire,bat,Sussex
+2021-06-13,2021,"Grace Road, Leicester",Leicestershire,Durham,Leicestershire,bat,Durham
+2021-06-13,2021,"County Ground, Derby",Derbyshire,Birmingham Bears,Derbyshire,bat,Birmingham Bears
+2021-06-13,2021,"St Lawrence Ground, Canterbury",Kent,Gloucestershire,Kent,bat,Kent
+2021-06-13,2021,"Sophia Gardens, Cardiff",Essex,Glamorgan,Glamorgan,field,Glamorgan
+2021-06-13,2021,"County Ground, New Road, Worcester",Lancashire,Worcestershire,Lancashire,bat,Worcestershire
+2021-06-13,2021,"County Ground, Northampton",Nottinghamshire,Northamptonshire,Nottinghamshire,bat,Nottinghamshire
+2021-06-14,2021,"Kennington Oval, London",Glamorgan,Surrey,Surrey,field,Surrey
+2021-06-15,2021,"County Ground, Derby",Derbyshire,Lancashire,Derbyshire,bat,Lancashire
+2021-06-15,2021,"County Ground, Northampton",Birmingham Bears,Northamptonshire,Birmingham Bears,bat,Birmingham Bears
+2021-06-15,2021,"Riverside Ground, Chester-le-Street",Nottinghamshire,Durham,Nottinghamshire,bat,Nottinghamshire
+2021-06-15,2021,"County Ground, Chelmsford",Essex,Sussex,Sussex,field,Sussex
+2021-06-15,2021,"The Cooper Associates County Ground, Taunton",Somerset,Kent,Kent,field,Somerset
+2021-06-15,2021,"Headingley, Leeds",Yorkshire,Leicestershire,Yorkshire,bat,Yorkshire
+2021-06-15,2021,"Radlett Cricket Club, Radlett",Hampshire,Middlesex,Middlesex,field,Middlesex
+2021-06-16,2021,"Sophia Gardens, Cardiff",Kent,Glamorgan,Kent,bat,Kent
+2021-06-16,2021,"Grace Road, Leicester",Birmingham Bears,Leicestershire,Leicestershire,field,Birmingham Bears
+2021-06-16,2021,"County Ground, New Road, Worcester",Yorkshire,Worcestershire,Worcestershire,field,Yorkshire
+2021-06-17,2021,"Riverside Ground, Chester-le-Street",Lancashire,Durham,Lancashire,bat,Durham
+2021-06-17,2021,"Kennington Oval, London",Surrey,Sussex,Sussex,field,
+2021-06-17,2021,"Radlett Cricket Club, Radlett",Middlesex,Gloucestershire,Gloucestershire,field,Gloucestershire
+2021-06-17,2021,"County Ground, Derby",Northamptonshire,Derbyshire,Northamptonshire,bat,Derbyshire
+2021-06-18,2021,"Trent Bridge, Nottingham",Nottinghamshire,Derbyshire,Derbyshire,field,Nottinghamshire
+2021-06-18,2021,"Sophia Gardens, Cardiff",Glamorgan,Middlesex,Glamorgan,bat,Glamorgan
+2021-06-20,2021,"Riverside Ground, Chester-le-Street",Durham,Birmingham Bears,Durham,bat,Durham
+2021-06-20,2021,"Old Trafford, Manchester",Nottinghamshire,Lancashire,Nottinghamshire,bat,
+2021-06-20,2021,"County Ground, Northampton",Leicestershire,Northamptonshire,Leicestershire,bat,Leicestershire
+2021-06-20,2021,"St Lawrence Ground, Canterbury",Kent,Essex,Essex,field,Kent
+2021-06-20,2021,"Headingley, Leeds",Yorkshire,Derbyshire,Derbyshire,field,Yorkshire
+2021-06-21,2021,"Kennington Oval, London",Surrey,Essex,Essex,field,Essex
+2021-06-22,2021,"County Ground, Bristol",Kent,Gloucestershire,Gloucestershire,field,Gloucestershire
+2021-06-22,2021,"County Ground, Derby",Leicestershire,Derbyshire,Derbyshire,field,Leicestershire
+2021-06-22,2021,"Trent Bridge, Nottingham",Worcestershire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2021-06-23,2021,"Headingley, Leeds",Yorkshire,Worcestershire,Yorkshire,bat,Yorkshire
+2021-06-23,2021,"Riverside Ground, Chester-le-Street",Durham,Northamptonshire,Durham,bat,Northamptonshire
+2021-06-23,2021,"Kennington Oval, London",Surrey,Somerset,Somerset,field,Somerset
+2021-06-24,2021,"Edgbaston, Birmingham",Birmingham Bears,Derbyshire,Derbyshire,field,Derbyshire
+2021-06-24,2021,"Lord's, London",Middlesex,Essex,Essex,field,Essex
+2021-06-24,2021,"County Ground, Bristol",Gloucestershire,Glamorgan,Glamorgan,field,Gloucestershire
+2021-06-25,2021,"Grace Road, Leicester",Leicestershire,Yorkshire,Leicestershire,bat,Leicestershire
+2021-06-25,2021,"County Ground, Derby",Nottinghamshire,Derbyshire,Derbyshire,field,
+2021-06-25,2021,"County Ground, Northampton",Lancashire,Northamptonshire,Lancashire,bat,Northamptonshire
+2021-06-25,2021,"County Ground, Chelmsford",Kent,Essex,Essex,field,Kent
+2021-06-25,2021,"County Ground, Hove",Gloucestershire,Sussex,Sussex,field,Gloucestershire
+2021-06-25,2021,"County Ground, New Road, Worcester",Durham,Worcestershire,Durham,bat,Worcestershire
+2021-06-25,2021,"Kennington Oval, London",Middlesex,Surrey,Surrey,field,Surrey
+2021-06-25,2021,"The Cooper Associates County Ground, Taunton",Somerset,Hampshire,Hampshire,field,Somerset
+2021-06-26,2021,"Edgbaston, Birmingham",Durham,Birmingham Bears,Birmingham Bears,field,Durham
+2021-06-26,2021,"Headingley, Leeds",Yorkshire,Northamptonshire,Yorkshire,bat,Yorkshire
+2021-06-26,2021,"Trent Bridge, Nottingham",Nottinghamshire,Lancashire,Lancashire,field,Nottinghamshire
+2021-06-27,2021,"County Ground, New Road, Worcester",Leicestershire,Worcestershire,Worcestershire,field,Worcestershire
+2021-06-27,2021,"Radlett Cricket Club, Radlett",Glamorgan,Middlesex,Glamorgan,bat,Middlesex
+2021-06-27,2021,"County Ground, Hove",Surrey,Sussex,Sussex,field,
+2021-06-28,2021,St Lawrence Ground,Kent,Somerset,Somerset,field,Somerset
+2021-06-29,2021,"Grace Road, Leicester",Leicestershire,Northamptonshire,Leicestershire,bat,Northamptonshire
+2021-06-29,2021,"Sophia Gardens, Cardiff",Glamorgan,Surrey,Surrey,field,Glamorgan
+2021-06-29,2021,"County Ground, Chelmsford",Somerset,Essex,Essex,field,Essex
+2021-06-30,2021,"The Rose Bowl, Southampton",Surrey,Hampshire,Hampshire,field,Surrey
+2021-06-30,2021,"Edgbaston, Birmingham",Yorkshire,Birmingham Bears,Yorkshire,bat,Birmingham Bears
+2021-06-30,2021,"County Ground, Northampton",Northamptonshire,Durham,Durham,field,Northamptonshire
+2021-07-01,2021,"County Ground, Bristol",Gloucestershire,Somerset,Somerset,field,Somerset
+2021-07-01,2021,"Old Trafford, Manchester",Lancashire,Worcestershire,Lancashire,bat,Lancashire
+2021-07-01,2021,"Lord's, London",Middlesex,Sussex,Sussex,field,Middlesex
+2021-07-01,2021,"County Ground, Chelmsford",Glamorgan,Essex,Glamorgan,bat,Essex
+2021-07-01,2021,"Trent Bridge, Nottingham",Leicestershire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2021-07-02,2021,County Ground,Derbyshire,Worcestershire,Worcestershire,bat,Worcestershire
+2021-07-02,2021,"The Cooper Associates County Ground, Taunton",Somerset,Middlesex,Middlesex,field,Somerset
+2021-07-02,2021,"Sophia Gardens, Cardiff",Sussex,Glamorgan,Sussex,bat,Sussex
+2021-07-02,2021,"St Lawrence Ground, Canterbury",Kent,Surrey,Kent,bat,Kent
+2021-07-02,2021,"Headingley, Leeds",Yorkshire,Lancashire,Yorkshire,bat,Yorkshire
+2021-07-02,2021,"Edgbaston, Birmingham",Nottinghamshire,Birmingham Bears,Birmingham Bears,field,Nottinghamshire
+2021-07-02,2021,"The Rose Bowl, Southampton",Hampshire,Gloucestershire,Hampshire,bat,Hampshire
+2021-07-02,2021,"Riverside Ground, Chester-le-Street",Durham,Leicestershire,Leicestershire,field,Leicestershire
+2021-07-09,2021,"Trent Bridge, Nottingham",Yorkshire,Nottinghamshire,Yorkshire,bat,Nottinghamshire
+2021-07-09,2021,"County Ground, Hove",Essex,Sussex,Sussex,field,Sussex
+2021-07-09,2021,"Kennington Oval, London",Surrey,Kent,Kent,field,Kent
+2021-07-09,2021,"County Ground, New Road, Worcester",Worcestershire,Birmingham Bears,Worcestershire,bat,Worcestershire
+2021-07-09,2021,"Old Trafford, Manchester",Northamptonshire,Lancashire,Northamptonshire,bat,Lancashire
+2021-07-09,2021,"College Ground, Cheltenham",Gloucestershire,Middlesex,Middlesex,field,Gloucestershire
+2021-07-09,2021,"The Rose Bowl, Southampton",Hampshire,Somerset,Hampshire,bat,Hampshire
+2021-07-09,2021,"Riverside Ground, Chester-le-Street",Durham,Derbyshire,Derbyshire,field,Derbyshire
+2021-07-16,2021,"Grace Road, Leicester",Nottinghamshire,Leicestershire,Leicestershire,field,Leicestershire
+2021-07-16,2021,"Sophia Gardens, Cardiff",Somerset,Glamorgan,Somerset,bat,Somerset
+2021-07-16,2021,"Lord's, London",Kent,Middlesex,Kent,bat,Kent
+2021-07-16,2021,"Old Trafford, Manchester",Lancashire,Durham,Lancashire,bat,Lancashire
+2021-07-16,2021,"College Ground, Cheltenham",Gloucestershire,Surrey,Surrey,field,Surrey
+2021-07-16,2021,"The Rose Bowl, Southampton",Sussex,Hampshire,Sussex,bat,Hampshire
+2021-07-16,2021,"The Rose Bowl, Southampton",Hampshire,Essex,Hampshire,bat,Hampshire
+2021-07-16,2021,"Edgbaston, Birmingham",Birmingham Bears,Worcestershire,Birmingham Bears,bat,Birmingham Bears
+2021-07-17,2021,"Old Trafford, Manchester",Yorkshire,Lancashire,Yorkshire,bat,Lancashire
+2021-07-18,2021,"St Lawrence Ground, Canterbury",Kent,Sussex,Kent,bat,Sussex
+2021-07-18,2021,"Edgbaston, Birmingham",Birmingham Bears,Northamptonshire,Birmingham Bears,bat,Birmingham Bears
+2021-07-18,2021,"County Ground, Chelmsford",Middlesex,Essex,Middlesex,bat,Middlesex
+2021-07-18,2021,"The Cooper Associates County Ground, Taunton",Somerset,Gloucestershire,Gloucestershire,field,Somerset
+2021-07-18,2021,"Grace Road, Leicester",Worcestershire,Leicestershire,Worcestershire,bat,Leicestershire
+2021-07-18,2021,"Trent Bridge, Nottingham",Nottinghamshire,Durham,Durham,field,Nottinghamshire
+2021-07-18,2021,"The Rose Bowl, Southampton",Glamorgan,Hampshire,Hampshire,field,Hampshire
+2021-08-24,2021,"Riverside Ground, Chester-le-Street",Yorkshire,Sussex,Yorkshire,bat,Sussex
+2021-08-25,2021,"Trent Bridge, Nottingham",Hampshire,Nottinghamshire,Nottinghamshire,field,Hampshire
+2021-08-26,2021,"The Cooper Associates County Ground, Taunton",Lancashire,Somerset,Somerset,field,Somerset
+2021-08-27,2021,"St Lawrence Ground, Canterbury",Kent,Birmingham Bears,Birmingham Bears,field,Kent
+2021-09-18,2021,"Edgbaston, Birmingham",Kent,Sussex,Kent,bat,Kent
+2021-09-18,2021,"Edgbaston, Birmingham",Kent,Somerset,Somerset,field,Kent
+2021-09-18,2021,"Edgbaston, Birmingham",Hampshire,Somerset,Somerset,field,Somerset
+2022-05-25,2022,"Headingley, Leeds",Worcestershire,Yorkshire,Worcestershire,bat,Yorkshire
+2022-05-25,2022,"St Lawrence Ground, Canterbury",Kent,Somerset,Kent,bat,Somerset
+2022-05-26,2022,"Edgbaston, Birmingham",Birmingham Bears,Northamptonshire,Birmingham Bears,bat,Birmingham Bears
+2022-05-26,2022,"Radlett Cricket Club, Radlett",Middlesex,Gloucestershire,Gloucestershire,field,Middlesex
+2022-05-26,2022,"County Ground, Hove",Sussex,Glamorgan,Glamorgan,field,Glamorgan
+2022-05-26,2022,"Grace Road, Leicester",Durham,Leicestershire,Leicestershire,field,Durham
+2022-05-27,2022,"The Rose Bowl, Southampton",Middlesex,Hampshire,Hampshire,field,Middlesex
+2022-05-27,2022,"County Ground, Bristol",Gloucestershire,Sussex,Sussex,field,Gloucestershire
+2022-05-27,2022,"St Lawrence Ground, Canterbury",Kent,Essex,Kent,bat,Essex
+2022-05-27,2022,"Old Trafford, Manchester",Lancashire,Yorkshire,Lancashire,bat,
+2022-05-27,2022,"Kennington Oval, London",Glamorgan,Surrey,Surrey,field,Surrey
+2022-05-27,2022,"County Ground, Northampton",Northamptonshire,Durham,Northamptonshire,bat,Northamptonshire
+2022-05-27,2022,"County Ground, Derby",Birmingham Bears,Derbyshire,Birmingham Bears,bat,Birmingham Bears
+2022-05-27,2022,"Trent Bridge, Nottingham",Worcestershire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2022-05-28,2022,"Grace Road, Leicester",Derbyshire,Leicestershire,Leicestershire,field,Derbyshire
+2022-05-29,2022,"The Cooper Associates County Ground, Taunton",Essex,Somerset,Somerset,field,Somerset
+2022-05-29,2022,"County Ground, Hove",Sussex,Kent,Kent,field,Sussex
+2022-05-29,2022,"Radlett Cricket Club, Radlett",Glamorgan,Middlesex,Middlesex,field,Middlesex
+2022-05-29,2022,"Old Trafford, Manchester",Lancashire,Worcestershire,Lancashire,bat,Lancashire
+2022-05-29,2022,"Edgbaston, Birmingham",Durham,Birmingham Bears,Durham,bat,Birmingham Bears
+2022-05-29,2022,"Headingley, Leeds",Leicestershire,Yorkshire,Leicestershire,bat,Leicestershire
+2022-05-30,2022,"Trent Bridge, Nottingham",Nottinghamshire,Northamptonshire,Northamptonshire,field,
+2022-05-30,2022,"The Rose Bowl, Southampton",Hampshire,Somerset,Somerset,field,Somerset
+2022-05-31,2022,"Headingley, Leeds",Yorkshire,Derbyshire,Derbyshire,field,Derbyshire
+2022-05-31,2022,"Kennington Oval, London",Surrey,Gloucestershire,Gloucestershire,field,Surrey
+2022-05-31,2022,"County Ground, Chelmsford",Hampshire,Essex,Essex,field,Essex
+2022-05-31,2022,"Trent Bridge, Nottingham",Lancashire,Nottinghamshire,Nottinghamshire,field,Lancashire
+2022-06-01,2022,"County Ground, Northampton",Northamptonshire,Leicestershire,Northamptonshire,bat,Northamptonshire
+2022-06-01,2022,"The Cooper Associates County Ground, Taunton",Sussex,Somerset,Somerset,field,Sussex
+2022-06-01,2022,"Old Trafford, Manchester",Lancashire,Derbyshire,Lancashire,bat,Lancashire
+2022-06-01,2022,"County Ground, Bristol",Kent,Gloucestershire,Gloucestershire,field,Gloucestershire
+2022-06-01,2022,"Riverside Ground, Chester-le-Street",Durham,Worcestershire,Worcestershire,field,Durham
+2022-06-02,2022,"Edgbaston, Birmingham",Leicestershire,Birmingham Bears,Leicestershire,bat,Leicestershire
+2022-06-02,2022,"Kennington Oval, London",Surrey,Hampshire,Hampshire,field,Surrey
+2022-06-02,2022,"Sophia Gardens, Cardiff",Essex,Glamorgan,Glamorgan,field,Glamorgan
+2022-06-03,2022,"County Ground, Derby",Derbyshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2022-06-03,2022,"The Cooper Associates County Ground, Taunton",Glamorgan,Somerset,Somerset,field,Somerset
+2022-06-03,2022,"County Ground, Hove",Middlesex,Sussex,Sussex,field,Sussex
+2022-06-03,2022,"County Ground, New Road, Worcester",Worcestershire,Birmingham Bears,Birmingham Bears,field,Worcestershire
+2022-06-03,2022,"Old Trafford, Manchester",Northamptonshire,Lancashire,Northamptonshire,bat,Lancashire
+2022-06-03,2022,"Headingley, Leeds",Durham,Yorkshire,Durham,bat,Yorkshire
+2022-06-03,2022,"St Lawrence Ground, Canterbury",Surrey,Kent,Kent,field,Surrey
+2022-06-04,2022,"The Rose Bowl, Southampton",Hampshire,Sussex,Sussex,field,Hampshire
+2022-06-05,2022,"St Lawrence Ground, Canterbury",Kent,Middlesex,Kent,bat,Kent
+2022-06-05,2022,"Edgbaston, Birmingham",Birmingham Bears,Nottinghamshire,Nottinghamshire,field,Birmingham Bears
+2022-06-05,2022,"County Ground, New Road, Worcester",Leicestershire,Worcestershire,Worcestershire,field,Leicestershire
+2022-06-05,2022,"Riverside Ground, Chester-le-Street",Durham,Northamptonshire,Durham,bat,Northamptonshire
+2022-06-05,2022,"Sophia Gardens, Cardiff",Surrey,Glamorgan,Glamorgan,field,
+2022-06-06,2022,"Headingley, Leeds",Yorkshire,Nottinghamshire,Nottinghamshire,field,Yorkshire
+2022-06-07,2022,"Grace Road, Leicester",Leicestershire,Lancashire,Leicestershire,bat,Lancashire
+2022-06-07,2022,"County Ground, Northampton",Derbyshire,Northamptonshire,Derbyshire,bat,Northamptonshire
+2022-06-07,2022,"Sophia Gardens, Cardiff",Glamorgan,Gloucestershire,Gloucestershire,field,Gloucestershire
+2022-06-07,2022,"Radlett Cricket Club, Radlett",Middlesex,Hampshire,Hampshire,field,Hampshire
+2022-06-07,2022,"County Ground, Chelmsford",Kent,Essex,Essex,field,Essex
+2022-06-08,2022,"Headingley, Leeds",Lancashire,Yorkshire,Yorkshire,field,Lancashire
+2022-06-08,2022,"Kennington Oval, London",Sussex,Surrey,Surrey,field,Surrey
+2022-06-08,2022,"Riverside Ground, Chester-le-Street",Durham,Birmingham Bears,Durham,bat,Birmingham Bears
+2022-06-09,2022,"Lord's, London",Surrey,Middlesex,Middlesex,field,Surrey
+2022-06-09,2022,"County Ground, Derby",Leicestershire,Derbyshire,Derbyshire,field,Derbyshire
+2022-06-09,2022,"County Ground, Northampton",Northamptonshire,Worcestershire,Northamptonshire,bat,Northamptonshire
+2022-06-09,2022,"The Rose Bowl, Southampton",Hampshire,Essex,Hampshire,bat,Hampshire
+2022-06-09,2022,"County Ground, Bristol",Gloucestershire,Somerset,Somerset,field,Somerset
+2022-06-10,2022,"Edgbaston, Birmingham",Birmingham Bears,Yorkshire,Birmingham Bears,bat,Yorkshire
+2022-06-10,2022,"County Ground, New Road, Worcester",Derbyshire,Worcestershire,Worcestershire,field,Derbyshire
+2022-06-10,2022,"Riverside Ground, Chester-le-Street",Lancashire,Durham,Lancashire,bat,Durham
+2022-06-10,2022,"Sophia Gardens, Cardiff",Hampshire,Glamorgan,Glamorgan,field,Hampshire
+2022-06-10,2022,"County Ground, Hove",Gloucestershire,Sussex,Sussex,field,Gloucestershire
+2022-06-10,2022,"County Ground, Chelmsford",Essex,Middlesex,Middlesex,field,Essex
+2022-06-10,2022,"The Cooper Associates County Ground, Taunton",Kent,Somerset,Somerset,field,Kent
+2022-06-10,2022,"Grace Road, Leicester",Leicestershire,Nottinghamshire,Leicestershire,bat,Nottinghamshire
+2022-06-17,2022,"Grace Road, Leicester",Worcestershire,Leicestershire,Worcestershire,bat,Leicestershire
+2022-06-17,2022,"Trent Bridge, Nottingham",Birmingham Bears,Nottinghamshire,Nottinghamshire,field,Birmingham Bears
+2022-06-17,2022,"County Ground, Northampton",Lancashire,Northamptonshire,Lancashire,bat,Northamptonshire
+2022-06-17,2022,"The Rose Bowl, Southampton",Hampshire,Kent,Kent,field,Hampshire
+2022-06-17,2022,"County Ground, Chelmsford",Essex,Sussex,Sussex,field,Essex
+2022-06-17,2022,"Riverside Ground, Chester-le-Street",Yorkshire,Durham,Yorkshire,bat,Yorkshire
+2022-06-17,2022,"Kennington Oval, London",Middlesex,Surrey,Surrey,field,Surrey
+2022-06-17,2022,"The Cooper Associates County Ground, Taunton",Somerset,Gloucestershire,Gloucestershire,field,Somerset
+2022-06-18,2022,"Queen's Park, Chesterfield",Yorkshire,Derbyshire,Derbyshire,field,Derbyshire
+2022-06-19,2022,"County Ground, Chelmsford",Essex,Somerset,Somerset,field,Somerset
+2022-06-19,2022,"Stanley Park, Blackpool",Nottinghamshire,Lancashire,Lancashire,field,Lancashire
+2022-06-19,2022,"Sophia Gardens, Cardiff",Sussex,Glamorgan,Glamorgan,field,Glamorgan
+2022-06-19,2022,"Lord's, London",Kent,Middlesex,Kent,bat,Middlesex
+2022-06-19,2022,"Edgbaston, Birmingham",Birmingham Bears,Derbyshire,Birmingham Bears,bat,Derbyshire
+2022-06-19,2022,"The Rose Bowl, Southampton",Hampshire,Surrey,Surrey,field,Surrey
+2022-06-19,2022,"Riverside Ground, Chester-le-Street",Leicestershire,Durham,Leicestershire,bat,Leicestershire
+2022-06-21,2022,"St Lawrence Ground, Canterbury",Gloucestershire,Kent,Kent,field,Gloucestershire
+2022-06-21,2022,"Kennington Oval, London",Somerset,Surrey,Surrey,field,Surrey
+2022-06-21,2022,"Sophia Gardens, Cardiff",Middlesex,Glamorgan,Glamorgan,field,Glamorgan
+2022-06-21,2022,"County Ground, Derby",Northamptonshire,Derbyshire,Derbyshire,field,Derbyshire
+2022-06-21,2022,"Trent Bridge, Nottingham",Leicestershire,Nottinghamshire,Leicestershire,bat,Leicestershire
+2022-06-22,2022,"County Ground, Northampton",Northamptonshire,Birmingham Bears,Northamptonshire,bat,Birmingham Bears
+2022-06-23,2022,"Trent Bridge, Nottingham",Nottinghamshire,Derbyshire,Derbyshire,field,Nottinghamshire
+2022-06-23,2022,"The Cooper Associates County Ground, Taunton",Hampshire,Somerset,Somerset,field,Hampshire
+2022-06-23,2022,"Lord's, London",Essex,Middlesex,Middlesex,field,Essex
+2022-06-23,2022,"Stanley Park, Blackpool",Lancashire,Durham,Durham,field,
+2022-06-23,2022,"County Ground, New Road, Worcester",Worcestershire,Yorkshire,Yorkshire,field,Yorkshire
+2022-06-23,2022,"County Ground, Hove",Sussex,Surrey,Surrey,field,Sussex
+2022-06-24,2022,"County Ground, Chelmsford",Essex,Surrey,Surrey,field,Essex
+2022-06-24,2022,"County Ground, Northampton",Yorkshire,Northamptonshire,Northamptonshire,field,Yorkshire
+2022-06-24,2022,"Sophia Gardens, Cardiff",Somerset,Glamorgan,Glamorgan,field,Somerset
+2022-06-24,2022,"County Ground, Derby",Derbyshire,Lancashire,Lancashire,field,Derbyshire
+2022-06-24,2022,"Edgbaston, Birmingham",Birmingham Bears,Worcestershire,Worcestershire,field,Birmingham Bears
+2022-06-24,2022,"St Lawrence Ground, Canterbury",Sussex,Kent,Kent,field,Kent
+2022-06-24,2022,"County Ground, Bristol",Hampshire,Gloucestershire,Gloucestershire,field,Hampshire
+2022-06-24,2022,"Riverside Ground, Chester-le-Street",Nottinghamshire,Durham,Durham,field,Nottinghamshire
+2022-07-01,2022,"The Rose Bowl, Southampton",Hampshire,Gloucestershire,Hampshire,bat,Hampshire
+2022-07-01,2022,"Headingley, Leeds",Birmingham Bears,Yorkshire,Yorkshire,field,Birmingham Bears
+2022-07-01,2022,"Kennington Oval, London",Kent,Surrey,Surrey,field,Surrey
+2022-07-01,2022,"Lord's, London",Middlesex,Somerset,Somerset,field,Somerset
+2022-07-01,2022,"County Ground, New Road, Worcester",Worcestershire,Lancashire,Lancashire,field,Worcestershire
+2022-07-01,2022,"County Ground, Hove",Essex,Sussex,Sussex,field,Essex
+2022-07-01,2022,"Trent Bridge, Nottingham",Durham,Nottinghamshire,Durham,bat,Nottinghamshire
+2022-07-01,2022,"Grace Road, Leicester",Leicestershire,Northamptonshire,Leicestershire,bat,Leicestershire
+2022-07-02,2022,"County Ground, Chelmsford",Essex,Glamorgan,Glamorgan,field,Essex
+2022-07-03,2022,"Grace Road, Leicester",Leicestershire,Yorkshire,Yorkshire,field,Leicestershire
+2022-07-03,2022,"County Ground, Derby",Durham,Derbyshire,Derbyshire,field,Derbyshire
+2022-07-03,2022,"The Cooper Associates County Ground, Taunton",Somerset,Surrey,Surrey,field,Somerset
+2022-07-03,2022,"County Ground, Bristol",Middlesex,Gloucestershire,Middlesex,bat,Gloucestershire
+2022-07-03,2022,"County Ground, New Road, Worcester",Worcestershire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2022-07-03,2022,"Old Trafford, Manchester",Birmingham Bears,Lancashire,Birmingham Bears,bat,Lancashire
+2022-07-03,2022,"St Lawrence Ground, Canterbury",Glamorgan,Kent,Glamorgan,bat,Glamorgan
+2022-07-03,2022,"County Ground, Hove",Sussex,Hampshire,Hampshire,field,Hampshire
+2022-07-06,2022,"Kennington Oval, London",Yorkshire,Surrey,Surrey,field,Yorkshire
+2022-07-07,2022,"Edgbaston, Birmingham",Hampshire,Birmingham Bears,Hampshire,bat,Hampshire
+2022-07-08,2022,"Old Trafford, Manchester",Essex,Lancashire,Essex,bat,Lancashire
+2022-07-09,2022,"The Cooper Associates County Ground, Taunton",Somerset,Derbyshire,Derbyshire,field,Somerset
+2022-07-16,2022,"Edgbaston, Birmingham",Hampshire,Somerset,Hampshire,bat,Hampshire
+2022-07-16,2022,"Edgbaston, Birmingham",Yorkshire,Lancashire,Yorkshire,bat,Lancashire
+2022-07-16,2022,"Edgbaston, Birmingham",Hampshire,Lancashire,Hampshire,bat,Hampshire
+2023-05-20,2023,"Edgbaston, Birmingham",Birmingham Bears,Yorkshire,Yorkshire,field,Birmingham Bears
+2023-05-20,2023,"Edgbaston, Birmingham",Derbyshire,Lancashire,Lancashire,field,Lancashire
+2023-05-24,2023,"The Cooper Associates County Ground, Taunton",Hampshire,Somerset,Somerset,field,Somerset
+2023-05-24,2023,"County Ground, Northampton",Worcestershire,Northamptonshire,Worcestershire,bat,Worcestershire
+2023-05-24,2023,"St Lawrence Ground, Canterbury",Gloucestershire,Kent,Gloucestershire,bat,Kent
+2023-05-25,2023,"Old Trafford, Manchester",Leicestershire,Lancashire,Leicestershire,bat,Lancashire
+2023-05-25,2023,"Lord's, London",Surrey,Middlesex,Surrey,bat,Surrey
+2023-05-26,2023,"Trent Bridge, Nottingham",Derbyshire,Nottinghamshire,Derbyshire,bat,Nottinghamshire
+2023-05-26,2023,"County Ground, New Road, Worcester",Yorkshire,Worcestershire,Yorkshire,bat,Worcestershire
+2023-05-26,2023,"County Ground, Bristol",Gloucestershire,Glamorgan,Glamorgan,field,Glamorgan
+2023-05-26,2023,"County Ground, Northampton",Northamptonshire,Durham,Northamptonshire,bat,Durham
+2023-05-26,2023,"County Ground, Hove",Sussex,Somerset,Somerset,field,Somerset
+2023-05-26,2023,"Grace Road, Leicester",Leicestershire,Birmingham Bears,Leicestershire,bat,Birmingham Bears
+2023-05-26,2023,"Kennington Oval, London",Surrey,Kent,Kent,field,Surrey
+2023-05-26,2023,"The Rose Bowl, Southampton",Middlesex,Hampshire,Hampshire,field,Hampshire
+2023-05-27,2023,"Old Trafford, Manchester",Lancashire,Nottinghamshire,Lancashire,bat,Lancashire
+2023-05-28,2023,"Kennington Oval, London",Surrey,Sussex,Sussex,field,Sussex
+2023-05-28,2023,"Headingley, Leeds",Durham,Yorkshire,Yorkshire,field,Durham
+2023-05-28,2023,"The Cooper Associates County Ground, Taunton",Glamorgan,Somerset,Somerset,field,Somerset
+2023-05-29,2023,"Riverside Ground, Chester-le-Street",Durham,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2023-05-29,2023,"Edgbaston, Birmingham",Lancashire,Birmingham Bears,Lancashire,bat,Birmingham Bears
+2023-05-29,2023,"Merchant Taylors' School Ground, Northwood",Gloucestershire,Middlesex,Middlesex,field,Gloucestershire
+2023-05-29,2023,"County Ground, New Road, Worcester",Worcestershire,Leicestershire,Worcestershire,bat,Worcestershire
+2023-05-29,2023,"County Ground, Derby",Derbyshire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2023-05-30,2023,"County Ground, Chelmsford",Gloucestershire,Essex,Essex,field,Essex
+2023-05-30,2023,"St Lawrence Ground, Canterbury",Somerset,Kent,Kent,field,Somerset
+2023-05-30,2023,"Trent Bridge, Nottingham",Yorkshire,Nottinghamshire,Yorkshire,bat,Yorkshire
+2023-05-31,2023,"Merchant Taylors' School Ground, Northwood",Glamorgan,Middlesex,Glamorgan,bat,Glamorgan
+2023-05-31,2023,"The Rose Bowl, Southampton",Hampshire,Surrey,Surrey,field,Surrey
+2023-05-31,2023,"County Ground, Northampton",Birmingham Bears,Northamptonshire,Northamptonshire,field,Birmingham Bears
+2023-06-01,2023,"Grace Road, Leicester",Derbyshire,Leicestershire,Leicestershire,field,Derbyshire
+2023-06-01,2023,"County Ground, Hove",Essex,Sussex,Sussex,field,Essex
+2023-06-01,2023,"Headingley, Leeds",Yorkshire,Lancashire,Lancashire,field,Yorkshire
+2023-06-02,2023,"Riverside Ground, Chester-le-Street",Lancashire,Durham,Lancashire,bat,Durham
+2023-06-02,2023,"Sophia Gardens, Cardiff",Kent,Glamorgan,Glamorgan,field,Glamorgan
+2023-06-02,2023,"County Ground, Chelmsford",Hampshire,Essex,Essex,field,Hampshire
+2023-06-02,2023,"The Cooper Associates County Ground, Taunton",Middlesex,Somerset,Somerset,field,Somerset
+2023-06-02,2023,"County Ground, Northampton",Leicestershire,Northamptonshire,Leicestershire,bat,Northamptonshire
+2023-06-02,2023,"County Ground, Derby",Derbyshire,Birmingham Bears,Birmingham Bears,field,Derbyshire
+2023-06-02,2023,"County Ground, Bristol",Surrey,Gloucestershire,Gloucestershire,field,Gloucestershire
+2023-06-02,2023,"Trent Bridge, Nottingham",Worcestershire,Nottinghamshire,Nottinghamshire,field,Worcestershire
+2023-06-03,2023,"The Rose Bowl, Southampton",Sussex,Hampshire,Sussex,bat,Hampshire
+2023-06-03,2023,"Edgbaston, Birmingham",Nottinghamshire,Birmingham Bears,Birmingham Bears,field,Nottinghamshire
+2023-06-04,2023,"The Cooper Associates County Ground, Taunton",Somerset,Essex,Essex,field,Somerset
+2023-06-04,2023,"St Lawrence Ground, Canterbury",Kent,Surrey,Kent,bat,Surrey
+2023-06-04,2023,"County Ground, New Road, Worcester",Worcestershire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2023-06-04,2023,"County Ground, Hove",Glamorgan,Sussex,Sussex,field,Glamorgan
+2023-06-04,2023,"Headingley, Leeds",Derbyshire,Yorkshire,Yorkshire,field,Yorkshire
+2023-06-04,2023,"Trent Bridge, Nottingham",Lancashire,Nottinghamshire,Lancashire,bat,Nottinghamshire
+2023-06-04,2023,"County Ground, Bristol",Middlesex,Gloucestershire,Gloucestershire,field,Gloucestershire
+2023-06-04,2023,"Riverside Ground, Chester-le-Street",Durham,Leicestershire,Leicestershire,field,Leicestershire
+2023-06-06,2023,"Riverside Ground, Chester-le-Street",Northamptonshire,Durham,Durham,field,Durham
+2023-06-06,2023,"Radlett Cricket Club, Radlett",Hampshire,Middlesex,Middlesex,field,Hampshire
+2023-06-06,2023,"County Ground, Chelmsford",Sussex,Essex,Sussex,bat,Essex
+2023-06-06,2023,"Grace Road, Leicester",Yorkshire,Leicestershire,Yorkshire,bat,Yorkshire
+2023-06-07,2023,"Edgbaston, Birmingham",Birmingham Bears,Derbyshire,Birmingham Bears,bat,Derbyshire
+2023-06-07,2023,"St Lawrence Ground, Canterbury",Kent,Essex,Kent,bat,Essex
+2023-06-07,2023,"Sophia Gardens, Cardiff",Surrey,Glamorgan,Surrey,bat,Surrey
+2023-06-07,2023,"The Rose Bowl, Southampton",Hampshire,Somerset,Somerset,field,Hampshire
+2023-06-07,2023,"Stanley Park, Blackpool",Worcestershire,Lancashire,Lancashire,field,Lancashire
+2023-06-08,2023,"Lord's, London",Sussex,Middlesex,Sussex,bat,Sussex
+2023-06-08,2023,"Trent Bridge, Nottingham",Nottinghamshire,Durham,Durham,field,Nottinghamshire
+2023-06-09,2023,"County Ground, Bristol",Somerset,Gloucestershire,Gloucestershire,field,Somerset
+2023-06-09,2023,"Grace Road, Leicester",Durham,Leicestershire,Leicestershire,field,Leicestershire
+2023-06-09,2023,"St Lawrence Ground, Canterbury",Hampshire,Kent,Kent,field,Kent
+2023-06-09,2023,"County Ground, Hove",Surrey,Sussex,Sussex,field,Surrey
+2023-06-09,2023,"County Ground, Derby",Derbyshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2023-06-09,2023,"Headingley, Leeds",Yorkshire,Worcestershire,Yorkshire,bat,Yorkshire
+2023-06-09,2023,"Edgbaston, Birmingham",Birmingham Bears,Northamptonshire,Birmingham Bears,bat,Birmingham Bears
+2023-06-09,2023,"Sophia Gardens, Cardiff",Essex,Glamorgan,Essex,bat,Essex
+2023-06-16,2023,"The Cooper Associates County Ground, Taunton",Surrey,Somerset,Somerset,field,Surrey
+2023-06-16,2023,"County Ground, Northampton",Lancashire,Northamptonshire,Northamptonshire,field,Lancashire
+2023-06-16,2023,"County Ground, Chelmsford",Glamorgan,Essex,Essex,field,Essex
+2023-06-16,2023,"Riverside Ground, Chester-le-Street",Durham,Derbyshire,Derbyshire,field,
+2023-06-16,2023,"County Ground, Hove",Sussex,Hampshire,Hampshire,field,Sussex
+2023-06-16,2023,"Lord's, London",Kent,Middlesex,Kent,bat,Kent
+2023-06-16,2023,"Headingley, Leeds",Leicestershire,Yorkshire,Yorkshire,field,Yorkshire
+2023-06-16,2023,"County Ground, New Road, Worcester",Birmingham Bears,Worcestershire,Worcestershire,field,Birmingham Bears
+2023-06-17,2023,"County Ground, Bristol",Gloucestershire,Kent,Kent,field,Kent
+2023-06-18,2023,"Sophia Gardens, Cardiff",Glamorgan,Gloucestershire,Gloucestershire,field,Glamorgan
+2023-06-18,2023,"Grace Road, Leicester",Leicestershire,Worcestershire,Worcestershire,field,Worcestershire
+2023-06-18,2023,"Queen's Park, Chesterfield",Derbyshire,Yorkshire,Yorkshire,field,Derbyshire
+2023-06-18,2023,"Old Trafford, Manchester",Lancashire,Durham,Durham,field,Lancashire
+2023-06-18,2023,"Kennington Oval, London",Surrey,Hampshire,Hampshire,field,Hampshire
+2023-06-18,2023,"Lord's, London",Essex,Middlesex,Middlesex,field,Essex
+2023-06-18,2023,"County Ground, Northampton",Northamptonshire,Nottinghamshire,Northamptonshire,bat,Northamptonshire
+2023-06-19,2023,"County Ground, Chelmsford",Essex,Somerset,Somerset,field,Somerset
+2023-06-20,2023,"Grace Road, Leicester",Nottinghamshire,Leicestershire,Nottinghamshire,bat,Nottinghamshire
+2023-06-20,2023,"County Ground, Bristol",Hampshire,Gloucestershire,Gloucestershire,field,Gloucestershire
+2023-06-20,2023,"County Ground, Hove",Sussex,Kent,Sussex,bat,Kent
+2023-06-20,2023,"Riverside Ground, Chester-le-Street",Durham,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2023-06-20,2023,"Kennington Oval, London",Surrey,Glamorgan,Glamorgan,field,Surrey
+2023-06-20,2023,"County Ground, New Road, Worcester",Lancashire,Worcestershire,Lancashire,bat,Worcestershire
+2023-06-20,2023,"Headingley, Leeds",Northamptonshire,Yorkshire,Northamptonshire,bat,Northamptonshire
+2023-06-21,2023,"County Ground, Northampton",Northamptonshire,Derbyshire,Northamptonshire,bat,Derbyshire
+2023-06-21,2023,"Sophia Gardens, Cardiff",Glamorgan,Somerset,Somerset,field,Somerset
+2023-06-22,2023,"County Ground, Chelmsford",Essex,Kent,Kent,field,Kent
+2023-06-22,2023,"County Ground, New Road, Worcester",Nottinghamshire,Worcestershire,Worcestershire,field,Worcestershire
+2023-06-22,2023,"Kennington Oval, London",Surrey,Middlesex,Middlesex,field,Middlesex
+2023-06-22,2023,"County Ground, Bristol",Gloucestershire,Sussex,Sussex,field,Sussex
+2023-06-22,2023,"Headingley, Leeds",Birmingham Bears,Yorkshire,Birmingham Bears,bat,Birmingham Bears
+2023-06-23,2023,"The Rose Bowl, Southampton",Essex,Hampshire,Hampshire,field,Hampshire
+2023-06-23,2023,"Edgbaston, Birmingham",Birmingham Bears,Worcestershire,Worcestershire,field,Birmingham Bears
+2023-06-23,2023,"Old Trafford, Manchester",Lancashire,Derbyshire,Derbyshire,field,Lancashire
+2023-06-23,2023,"Riverside Ground, Chester-le-Street",Yorkshire,Durham,Durham,field,
+2023-06-23,2023,"Sophia Gardens, Cardiff",Sussex,Glamorgan,Sussex,bat,Sussex
+2023-06-23,2023,"The Cooper Associates County Ground, Taunton",Gloucestershire,Somerset,Somerset,field,Somerset
+2023-06-23,2023,"St Lawrence Ground, Canterbury",Kent,Middlesex,Middlesex,field,Kent
+2023-06-23,2023,"Grace Road, Leicester",Northamptonshire,Leicestershire,Leicestershire,field,Northamptonshire
+2023-06-30,2023,"St Lawrence Ground, Canterbury",Sussex,Kent,Kent,field,Sussex
+2023-06-30,2023,"Trent Bridge, Nottingham",Nottinghamshire,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2023-06-30,2023,"County Ground, Derby",Derbyshire,Leicestershire,Leicestershire,field,Derbyshire
+2023-06-30,2023,"County Ground, Chelmsford",Essex,Middlesex,Middlesex,field,Middlesex
+2023-06-30,2023,"Kennington Oval, London",Somerset,Surrey,Surrey,field,Somerset
+2023-06-30,2023,"The Rose Bowl, Southampton",Hampshire,Glamorgan,Glamorgan,field,Hampshire
+2023-06-30,2023,"County Ground, New Road, Worcester",Durham,Worcestershire,Worcestershire,field,
+2023-07-01,2023,"County Ground, Hove",Sussex,Gloucestershire,Sussex,bat,Gloucestershire
+2023-07-02,2023,"Kennington Oval, London",Surrey,Essex,Essex,field,Essex
+2023-07-02,2023,"Edgbaston, Birmingham",Birmingham Bears,Durham,Birmingham Bears,bat,Birmingham Bears
+2023-07-02,2023,"Sophia Gardens, Cardiff",Middlesex,Glamorgan,Middlesex,bat,Middlesex
+2023-07-02,2023,"Old Trafford, Manchester",Northamptonshire,Lancashire,Lancashire,field,Lancashire
+2023-07-02,2023,"The Cooper Associates County Ground, Taunton",Somerset,Kent,Kent,field,Somerset
+2023-07-02,2023,"County Ground, Derby",Worcestershire,Derbyshire,Worcestershire,bat,Worcestershire
+2023-07-02,2023,"The Rose Bowl, Southampton",Gloucestershire,Hampshire,Hampshire,field,Hampshire
+2023-07-02,2023,"Trent Bridge, Nottingham",Nottinghamshire,Leicestershire,Nottinghamshire,bat,Nottinghamshire
+2023-07-06,2023,"Edgbaston, Birmingham",Birmingham Bears,Essex,Essex,field,Essex
+2023-07-07,2023,"The Rose Bowl, Southampton",Worcestershire,Hampshire,Hampshire,field,Hampshire
+2023-07-07,2023,"The Cooper Associates County Ground, Taunton",Nottinghamshire,Somerset,Nottinghamshire,bat,Somerset
+2023-07-07,2023,"Old Trafford, Manchester",Surrey,Lancashire,Surrey,bat,Surrey
+2023-07-15,2023,"Edgbaston, Birmingham",Hampshire,Essex,Essex,field,Essex
+2023-07-15,2023,"Edgbaston, Birmingham",Somerset,Essex,Essex,field,Somerset
+2023-07-15,2023,"Edgbaston, Birmingham",Somerset,Surrey,Surrey,field,Somerset
+2024-05-30,2024,"County Ground, Bristol",Essex,Gloucestershire,Gloucestershire,field,Gloucestershire
+2024-05-30,2024,"County Ground, Northampton",Derbyshire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2024-05-30,2024,"Headingley, Leeds",Worcestershire,Yorkshire,Worcestershire,bat,Yorkshire
+2024-05-30,2024,"The Rose Bowl, Southampton",Hampshire,Surrey,Surrey,field,Surrey
+2024-05-30,2024,"Old Trafford, Manchester",Durham,Lancashire,Lancashire,field,Lancashire
+2024-05-31,2024,"The Cooper Associates County Ground, Taunton",Essex,Somerset,Somerset,field,Somerset
+2024-05-31,2024,"Trent Bridge, Nottingham",Nottinghamshire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2024-05-31,2024,"County Ground, Chelmsford",Kent,Middlesex,Middlesex,field,Kent
+2024-05-31,2024,"County Ground, Hove",Gloucestershire,Sussex,Sussex,field,Sussex
+2024-05-31,2024,"Riverside Ground, Chester-le-Street",Durham,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2024-05-31,2024,"Grace Road, Leicester",Yorkshire,Leicestershire,Leicestershire,field,Leicestershire
+2024-05-31,2024,"Sophia Gardens, Cardiff",Surrey,Glamorgan,Glamorgan,field,Surrey
+2024-05-31,2024,"County Ground, New Road, Worcester",Lancashire,Worcestershire,Worcestershire,field,Worcestershire
+2024-06-01,2024,"Edgbaston, Birmingham",Leicestershire,Derbyshire,Leicestershire,bat,Derbyshire
+2024-06-01,2024,"Edgbaston, Birmingham",Birmingham Bears,Nottinghamshire,Birmingham Bears,bat,Birmingham Bears
+2024-06-02,2024,"County Ground, Chelmsford",Middlesex,Essex,Essex,field,Essex
+2024-06-02,2024,"Sophia Gardens, Cardiff",Glamorgan,Sussex,Glamorgan,bat,Glamorgan
+2024-06-02,2024,"The Rose Bowl, Southampton",Kent,Hampshire,Kent,bat,Hampshire
+2024-06-02,2024,"Old Trafford, Manchester",Lancashire,Derbyshire,Derbyshire,field,Lancashire
+2024-06-02,2024,"County Ground, Northampton",Yorkshire,Northamptonshire,Yorkshire,bat,Yorkshire
+2024-06-02,2024,"Kennington Oval, London",Surrey,Somerset,Somerset,field,Surrey
+2024-06-06,2024,"Trent Bridge, Nottingham",Worcestershire,Nottinghamshire,Worcestershire,bat,Worcestershire
+2024-06-06,2024,"Lord's, London",Middlesex,Glamorgan,Middlesex,bat,Glamorgan
+2024-06-07,2024,"County Ground, Chelmsford",Glamorgan,Essex,Essex,field,Essex
+2024-06-07,2024,"County Ground, Bristol",Gloucestershire,Hampshire,Hampshire,field,Hampshire
+2024-06-07,2024,"St Lawrence Ground, Canterbury",Somerset,Kent,Kent,field,Kent
+2024-06-07,2024,"Old Trafford, Manchester",Lancashire,Birmingham Bears,Birmingham Bears,field,Lancashire
+2024-06-07,2024,"Grace Road, Leicester",Leicestershire,Durham,Durham,field,Durham
+2024-06-07,2024,"County Ground, Northampton",Northamptonshire,Worcestershire,Northamptonshire,bat,Northamptonshire
+2024-06-07,2024,"County Ground, Derby",Derbyshire,Nottinghamshire,Nottinghamshire,field,Derbyshire
+2024-06-07,2024,"Kennington Oval, London",Sussex,Surrey,Surrey,field,Sussex
+2024-06-08,2024,"Edgbaston, Birmingham",Durham,Birmingham Bears,Durham,bat,Durham
+2024-06-09,2024,"St Lawrence Ground, Canterbury",Kent,Middlesex,Middlesex,field,Middlesex
+2024-06-09,2024,"Headingley, Leeds",Derbyshire,Yorkshire,Yorkshire,field,Yorkshire
+2024-06-09,2024,"County Ground, Bristol",Sussex,Gloucestershire,Gloucestershire,field,Sussex
+2024-06-09,2024,"Trent Bridge, Nottingham",Nottinghamshire,Lancashire,Nottinghamshire,bat,Lancashire
+2024-06-09,2024,"Grace Road, Leicester",Leicestershire,Worcestershire,Worcestershire,field,Leicestershire
+2024-06-09,2024,"The Cooper Associates County Ground, Taunton",Somerset,Hampshire,Hampshire,field,Somerset
+2024-06-11,2024,"Lord's, London",Middlesex,Somerset,Somerset,field,Somerset
+2024-06-12,2024,"Riverside Ground, Chester-le-Street",Leicestershire,Durham,Durham,field,Leicestershire
+2024-06-13,2024,"Lord's, London",Essex,Middlesex,Middlesex,field,Essex
+2024-06-14,2024,"County Ground, Derby",Northamptonshire,Derbyshire,Derbyshire,field,Derbyshire
+2024-06-14,2024,"The Rose Bowl, Southampton",Middlesex,Hampshire,Hampshire,field,
+2024-06-14,2024,"Grace Road, Leicester",Lancashire,Leicestershire,Leicestershire,field,Lancashire
+2024-06-14,2024,"The Cooper Associates County Ground, Taunton",Somerset,Kent,Kent,field,Somerset
+2024-06-14,2024,"Kennington Oval, London",Gloucestershire,Surrey,Surrey,field,
+2024-06-14,2024,"Edgbaston, Birmingham",Yorkshire,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2024-06-14,2024,"County Ground, New Road, Worcester",Worcestershire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2024-06-14,2024,"County Ground, Chelmsford",Essex,Sussex,Sussex,field,Sussex
+2024-06-15,2024,"Trent Bridge, Nottingham",Durham,Nottinghamshire,Nottinghamshire,field,
+2024-06-15,2024,"County Ground, Hove",Surrey,Sussex,Sussex,field,Surrey
+2024-06-16,2024,"County Ground, Derby",Derbyshire,Birmingham Bears,Derbyshire,bat,Birmingham Bears
+2024-06-16,2024,"Riverside Ground, Chester-le-Street",Durham,Lancashire,Durham,bat,Durham
+2024-06-16,2024,"St Lawrence Ground, Canterbury",Kent,Gloucestershire,Gloucestershire,field,Gloucestershire
+2024-06-16,2024,"The Cooper Associates County Ground, Taunton",Somerset,Glamorgan,Glamorgan,field,Somerset
+2024-06-16,2024,"County Ground, New Road, Worcester",Northamptonshire,Worcestershire,Northamptonshire,bat,Northamptonshire
+2024-06-16,2024,"Headingley, Leeds",Leicestershire,Yorkshire,Leicestershire,bat,Leicestershire
+2024-06-20,2024,"County Ground, Chelmsford",Hampshire,Essex,Essex,field,Essex
+2024-06-20,2024,"Sophia Gardens, Cardiff",Glamorgan,Gloucestershire,Glamorgan,bat,Gloucestershire
+2024-06-20,2024,"Lord's, London",Surrey,Middlesex,Middlesex,field,Surrey
+2024-06-20,2024,"County Ground, Hove",Sussex,Kent,Kent,field,Sussex
+2024-06-20,2024,"Edgbaston, Birmingham",Birmingham Bears,Northamptonshire,Birmingham Bears,bat,Birmingham Bears
+2024-06-20,2024,"Headingley, Leeds",Yorkshire,Lancashire,Yorkshire,bat,Yorkshire
+2024-06-21,2024,"County Ground, New Road, Worcester",Worcestershire,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2024-06-21,2024,"Kennington Oval, London",Glamorgan,Surrey,Glamorgan,bat,Surrey
+2024-06-21,2024,"County Ground, Northampton",Northamptonshire,Leicestershire,Northamptonshire,bat,
+2024-06-21,2024,"Trent Bridge, Nottingham",Nottinghamshire,Derbyshire,Nottinghamshire,bat,Nottinghamshire
+2024-06-21,2024,"The Rose Bowl, Southampton",Sussex,Hampshire,Hampshire,field,Sussex
+2024-06-21,2024,"St Lawrence Ground, Canterbury",Kent,Essex,Essex,field,Essex
+2024-06-21,2024,"County Ground, Bristol",Somerset,Gloucestershire,Gloucestershire,field,Gloucestershire
+2024-06-21,2024,"Riverside Ground, Chester-le-Street",Durham,Yorkshire,Durham,bat,Durham
+2024-07-05,2024,"Riverside Ground, Chester-le-Street",Durham,Worcestershire,Durham,bat,Durham
+2024-07-05,2024,"College Ground, Cheltenham",Kent,Gloucestershire,Gloucestershire,field,Kent
+2024-07-05,2024,"Trent Bridge, Nottingham",Nottinghamshire,Leicestershire,Leicestershire,field,
+2024-07-05,2024,"County Ground, Hove",Glamorgan,Sussex,Sussex,field,Glamorgan
+2024-07-05,2024,"Headingley, Leeds",Birmingham Bears,Yorkshire,Birmingham Bears,bat,Birmingham Bears
+2024-07-06,2024,"Grace Road, Leicester",Leicestershire,Derbyshire,Derbyshire,field,Derbyshire
+2024-07-07,2024,"Queen's Park, Chesterfield",Yorkshire,Derbyshire,Derbyshire,field,Derbyshire
+2024-07-07,2024,"Sophia Gardens, Cardiff",Glamorgan,Essex,Essex,field,Glamorgan
+2024-07-07,2024,"Old Trafford, Manchester",Worcestershire,Lancashire,Lancashire,field,Lancashire
+2024-07-07,2024,"County Ground, Northampton",Durham,Northamptonshire,Northamptonshire,field,Northamptonshire
+2024-07-07,2024,"Trent Bridge, Nottingham",Nottinghamshire,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2024-07-07,2024,"The Cooper Associates County Ground, Taunton",Somerset,Gloucestershire,Gloucestershire,field,Gloucestershire
+2024-07-07,2024,"Kennington Oval, London",Surrey,Kent,Kent,field,Surrey
+2024-07-10,2024,"County Ground, Hove",Sussex,Hampshire,Hampshire,field,Sussex
+2024-07-11,2024,"Headingley, Leeds",Durham,Yorkshire,Durham,bat,Yorkshire
+2024-07-11,2024,"County Ground, New Road, Worcester",Worcestershire,Leicestershire,Leicestershire,field,Worcestershire
+2024-07-11,2024,"College Ground, Cheltenham",Middlesex,Gloucestershire,Gloucestershire,field,Middlesex
+2024-07-11,2024,"County Ground, Chelmsford",Essex,Kent,Kent,field,Essex
+2024-07-12,2024,"The Cooper Associates County Ground, Taunton",Surrey,Somerset,Surrey,bat,Somerset
+2024-07-12,2024,"Grace Road, Leicester",Northamptonshire,Leicestershire,Leicestershire,field,Leicestershire
+2024-07-12,2024,"St Lawrence Ground, Canterbury",Sussex,Kent,Kent,field,Sussex
+2024-07-12,2024,"Edgbaston, Birmingham",Worcestershire,Birmingham Bears,Worcestershire,bat,Worcestershire
+2024-07-12,2024,"Sophia Gardens, Cardiff",Glamorgan,Middlesex,Middlesex,field,Middlesex
+2024-07-12,2024,"Riverside Ground, Chester-le-Street",Durham,Nottinghamshire,Nottinghamshire,field,Durham
+2024-07-12,2024,"The Rose Bowl, Southampton",Gloucestershire,Hampshire,Gloucestershire,bat,Hampshire
+2024-07-13,2024,"County Ground, Hove",Sussex,Essex,Essex,field,Essex
+2024-07-14,2024,"County Ground, New Road, Worcester",Worcestershire,Yorkshire,Yorkshire,field,Yorkshire
+2024-07-14,2024,"Riverside Ground, Chester-le-Street",Durham,Northamptonshire,Northamptonshire,field,Northamptonshire
+2024-07-14,2024,"County Ground, Chelmsford",Surrey,Essex,Essex,field,Surrey
+2024-07-14,2024,"College Ground, Cheltenham",Gloucestershire,Glamorgan,Glamorgan,field,Gloucestershire
+2024-07-14,2024,"The Rose Bowl, Southampton",Hampshire,Somerset,Hampshire,bat,Somerset
+2024-07-14,2024,"Grace Road, Leicester",Nottinghamshire,Leicestershire,Nottinghamshire,bat,Leicestershire
+2024-07-14,2024,"Edgbaston, Birmingham",Birmingham Bears,Derbyshire,Derbyshire,field,Birmingham Bears
+2024-07-16,2024,"St Lawrence Ground, Canterbury",Glamorgan,Kent,Kent,field,Glamorgan
+2024-07-17,2024,"Old Trafford, Manchester",Nottinghamshire,Lancashire,Lancashire,field,Lancashire
+2024-07-18,2024,"County Ground, Chelmsford",Gloucestershire,Middlesex,Gloucestershire,bat,Gloucestershire
+2024-07-18,2024,"County Ground, Northampton",Northamptonshire,Birmingham Bears,Birmingham Bears,field,Northamptonshire
+2024-07-18,2024,"The Cooper Associates County Ground, Taunton",Sussex,Somerset,Somerset,field,Somerset
+2024-07-18,2024,"Kennington Oval, London",Hampshire,Surrey,Surrey,field,Surrey
+2024-07-18,2024,"County Ground, New Road, Worcester",Worcestershire,Derbyshire,Derbyshire,field,Derbyshire
+2024-07-19,2024,"County Ground, Derby",Derbyshire,Durham,Durham,field,Durham
+2024-07-19,2024,"Sophia Gardens, Cardiff",Glamorgan,Somerset,Glamorgan,bat,Glamorgan
+2024-07-19,2024,"The Rose Bowl, Southampton",Hampshire,Essex,Essex,field,Hampshire
+2024-07-19,2024,"St Lawrence Ground, Canterbury",Kent,Surrey,Surrey,field,Kent
+2024-07-19,2024,"Old Trafford, Manchester",Lancashire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2024-07-19,2024,"County Ground, Hove",Middlesex,Sussex,Middlesex,bat,Sussex
+2024-07-19,2024,"Edgbaston, Birmingham",Birmingham Bears,Leicestershire,Birmingham Bears,bat,Birmingham Bears
+2024-07-19,2024,"Headingley, Leeds",Nottinghamshire,Yorkshire,Yorkshire,field,Nottinghamshire
+2024-09-03,2024,"Kennington Oval, London",Durham,Surrey,Surrey,field,Surrey
+2024-09-04,2024,"County Ground, Hove",Lancashire,Sussex,Sussex,field,Sussex
+2024-09-05,2024,"County Ground, Northampton",Somerset,Northamptonshire,Northamptonshire,field,Somerset
+2024-09-06,2024,"Edgbaston, Birmingham",Gloucestershire,Birmingham Bears,Birmingham Bears,field,Gloucestershire
+2024-09-14,2024,"Edgbaston, Birmingham",Somerset,Gloucestershire,Gloucestershire,field,Gloucestershire
+2024-09-14,2024,"Edgbaston, Birmingham",Sussex,Gloucestershire,Sussex,bat,Gloucestershire
+2024-09-14,2024,"Edgbaston, Birmingham",Surrey,Somerset,Somerset,field,Somerset
+2025-05-29,2025,"Old Trafford, Manchester",Lancashire,Worcestershire,Lancashire,bat,Lancashire
+2025-05-29,2025,"Lord's, London",Sussex,Middlesex,Middlesex,field,Sussex
+2025-05-30,2025,"County Ground, Bristol",Kent,Gloucestershire,Gloucestershire,field,Kent
+2025-05-30,2025,"The Rose Bowl, Southampton",Hampshire,Essex,Essex,field,Hampshire
+2025-05-30,2025,"Grace Road, Leicester",Derbyshire,Leicestershire,Leicestershire,field,Leicestershire
+2025-05-30,2025,"Trent Bridge, Nottingham",Birmingham Bears,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2025-05-30,2025,"The Cooper Associates County Ground, Taunton",Surrey,Somerset,Somerset,field,Somerset
+2025-05-30,2025,"Headingley, Leeds",Northamptonshire,Yorkshire,Yorkshire,field,Northamptonshire
+2025-05-31,2025,"Edgbaston, Birmingham",Birmingham Bears,Durham,Durham,field,Durham
+2025-05-31,2025,"Old Trafford, Manchester",Lancashire,Nottinghamshire,Lancashire,bat,Lancashire
+2025-06-01,2025,"County Ground, Northampton",Leicestershire,Northamptonshire,Northamptonshire,field,Northamptonshire
+2025-06-01,2025,"Merchant Taylors' School Ground, Northwood",Middlesex,Glamorgan,Middlesex,bat,Glamorgan
+2025-06-01,2025,"County Ground, Hove",Sussex,Gloucestershire,Gloucestershire,field,Sussex
+2025-06-01,2025,"County Ground, New Road, Worcester",Worcestershire,Yorkshire,Yorkshire,field,Worcestershire
+2025-06-01,2025,"Riverside Ground, Chester-le-Street",Durham,Lancashire,Lancashire,field,Lancashire
+2025-06-01,2025,"County Ground, Chelmsford",Essex,Somerset,Essex,bat,Somerset
+2025-06-03,2025,"Sophia Gardens, Cardiff",Surrey,Glamorgan,Glamorgan,field,Surrey
+2025-06-04,2025,"County Ground, Derby",Northamptonshire,Derbyshire,Derbyshire,field,Northamptonshire
+2025-06-04,2025,"Old Trafford, Manchester",Lancashire,Leicestershire,Lancashire,bat,Leicestershire
+2025-06-05,2025,"Lord's, London",Kent,Middlesex,Middlesex,field,
+2025-06-05,2025,"Kennington Oval, London",Surrey,Hampshire,Hampshire,field,Hampshire
+2025-06-06,2025,"County Ground, New Road, Worcester",Northamptonshire,Worcestershire,Northamptonshire,bat,Northamptonshire
+2025-06-06,2025,"County Ground, Hove",Sussex,Somerset,Somerset,field,Somerset
+2025-06-06,2025,"Grace Road, Leicester",Leicestershire,Durham,Durham,field,Leicestershire
+2025-06-06,2025,"St Lawrence Ground, Canterbury",Surrey,Kent,Kent,field,Surrey
+2025-06-06,2025,"County Ground, Derby",Derbyshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2025-06-06,2025,"Sophia Gardens, Cardiff",Essex,Glamorgan,Glamorgan,field,Glamorgan
+2025-06-06,2025,"Edgbaston, Birmingham",Yorkshire,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2025-06-06,2025,"The Rose Bowl, Southampton",Gloucestershire,Hampshire,Gloucestershire,bat,Hampshire
+2025-06-07,2025,"Trent Bridge, Nottingham",Worcestershire,Nottinghamshire,Nottinghamshire,field,Worcestershire
+2025-06-08,2025,"Headingley, Leeds",Yorkshire,Leicestershire,Leicestershire,field,Yorkshire
+2025-06-08,2025,"Old Trafford, Manchester",Northamptonshire,Lancashire,Northamptonshire,bat,Northamptonshire
+2025-06-08,2025,"County Ground, Hove",Sussex,Glamorgan,Sussex,bat,Sussex
+2025-06-08,2025,"County Ground, Chelmsford",Essex,Middlesex,Middlesex,field,Middlesex
+2025-06-08,2025,"St Lawrence Ground, Canterbury",Hampshire,Kent,Hampshire,bat,Kent
+2025-06-08,2025,"Edgbaston, Birmingham",Birmingham Bears,Derbyshire,Derbyshire,field,Birmingham Bears
+2025-06-11,2025,"Riverside Ground, Chester-le-Street",Durham,Derbyshire,Derbyshire,field,Durham
+2025-06-11,2025,"County Ground, Northampton",Northamptonshire,Birmingham Bears,Birmingham Bears,field,Northamptonshire
+2025-06-11,2025,"Trent Bridge, Nottingham",Yorkshire,Nottinghamshire,Yorkshire,bat,Yorkshire
+2025-06-12,2025,"The Cooper Associates County Ground, Taunton",Middlesex,Somerset,Somerset,field,Somerset
+2025-06-12,2025,"Kennington Oval, London",Kent,Surrey,Surrey,field,Surrey
+2025-06-12,2025,"County Ground, Chelmsford",Glamorgan,Essex,Essex,field,Glamorgan
+2025-06-13,2025,"Headingley, Leeds",Birmingham Bears,Yorkshire,Birmingham Bears,bat,Birmingham Bears
+2025-06-13,2025,"County Ground, Bristol",Gloucestershire,Somerset,Somerset,field,Somerset
+2025-06-13,2025,"The Rose Bowl, Southampton",Hampshire,Middlesex,Middlesex,field,
+2025-06-13,2025,"County Ground, Northampton",Durham,Northamptonshire,Durham,bat,Durham
+2025-06-13,2025,"Trent Bridge, Nottingham",Derbyshire,Nottinghamshire,Nottinghamshire,field,Derbyshire
+2025-06-13,2025,"County Ground, Hove",Essex,Sussex,Sussex,field,
+2025-06-13,2025,"County Ground, New Road, Worcester",Worcestershire,Lancashire,Worcestershire,bat,Lancashire
+2025-06-14,2025,"Edgbaston, Birmingham",Leicestershire,Derbyshire,Leicestershire,bat,Derbyshire
+2025-06-14,2025,"Sophia Gardens, Cardiff",Sussex,Glamorgan,Sussex,bat,Sussex
+2025-06-14,2025,"Edgbaston, Birmingham",Birmingham Bears,Nottinghamshire,Nottinghamshire,field,Nottinghamshire
+2025-06-15,2025,"County Ground, Bristol",Glamorgan,Gloucestershire,Glamorgan,bat,Glamorgan
+2025-06-15,2025,"Grace Road, Leicester",Worcestershire,Leicestershire,Worcestershire,bat,Leicestershire
+2025-06-15,2025,"The Cooper Associates County Ground, Taunton",Kent,Somerset,Somerset,field,Kent
+2025-06-15,2025,York Cricket Club,Yorkshire,Durham,Durham,field,Durham
+2025-06-17,2025,"The Rose Bowl, Southampton",Surrey,Hampshire,Hampshire,field,Surrey
+2025-06-18,2025,"St Lawrence Ground, Canterbury",Kent,Gloucestershire,Kent,bat,Gloucestershire
+2025-06-18,2025,"Kennington Oval, London",Surrey,Sussex,Sussex,field,Surrey
+2025-06-18,2025,"County Ground, New Road, Worcester",Durham,Worcestershire,Worcestershire,field,Worcestershire
+2025-06-19,2025,"Grace Road, Leicester",Nottinghamshire,Leicestershire,Leicestershire,field,Leicestershire
+2025-06-19,2025,"Lord's, London",Middlesex,Essex,Essex,field,Middlesex
+2025-06-19,2025,"The Cooper Associates County Ground, Taunton",Somerset,Hampshire,Hampshire,field,Somerset
+2025-06-20,2025,"County Ground, Bristol",Hampshire,Gloucestershire,Gloucestershire,field,Gloucestershire
+2025-06-20,2025,"Sophia Gardens, Cardiff",Glamorgan,Somerset,Somerset,field,Somerset
+2025-06-20,2025,"County Ground, Chelmsford",Kent,Essex,Essex,field,Kent
+2025-06-20,2025,"Kennington Oval, London",Surrey,Middlesex,Middlesex,field,Surrey
+2025-06-20,2025,"County Ground, Derby",Lancashire,Derbyshire,Derbyshire,field,Lancashire
+2025-06-20,2025,"Edgbaston, Birmingham",Worcestershire,Birmingham Bears,Birmingham Bears,field,Birmingham Bears
+2025-06-20,2025,"Riverside Ground, Chester-le-Street",Durham,Yorkshire,Yorkshire,field,Durham
+2025-06-20,2025,"County Ground, Northampton",Nottinghamshire,Northamptonshire,Nottinghamshire,bat,Nottinghamshire

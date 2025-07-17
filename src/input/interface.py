@@ -1,17 +1,17 @@
 import joblib
 import os
 import pandas as pd
-from src.input.loaders.load_ipl_csv import load_ipl_matches
+from src.input.normalisation import fix_team_and_venue_names
 from src.input.standardise import standardise_match_data
 from src.features.build_features import build_feature_matrix
 from src.ml.train_logistic import train_logistic
 
 
 def load_clean_match_data(league: str) -> pd.DataFrame:
-    if league == "IPL":
-        raw = load_ipl_matches("data/ipl_matches.csv")
-        return standardise_match_data(raw)
-    raise ValueError(f"Unsupported league: {league}")
+    raw = pd.read_csv(f"data/{league}_matches.csv")
+    df = fix_team_and_venue_names(raw, league)
+    df = standardise_match_data(df)
+    return df
 
 
 def get_teams_and_venues(df: pd.DataFrame) -> tuple[list[str], list[str]]:

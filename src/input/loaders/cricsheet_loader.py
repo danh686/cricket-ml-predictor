@@ -2,6 +2,7 @@ import os
 import json
 import pandas as pd
 
+
 def parse_cricsheet(folder_path: str) -> pd.DataFrame:
     """Parses all Cricsheet JSON files in a folder and extracts summary match info.
 
@@ -20,7 +21,7 @@ def parse_cricsheet(folder_path: str) -> pd.DataFrame:
     for filename in os.listdir(folder_path):
         if filename.endswith(".json"):
             full_path = os.path.join(folder_path, filename)
-            with open(full_path, 'r') as f:
+            with open(full_path, "r") as f:
                 data = json.load(f)
                 info = data["info"]
                 row = {
@@ -31,12 +32,29 @@ def parse_cricsheet(folder_path: str) -> pd.DataFrame:
                     "team2": info["teams"][1],
                     "toss_winner": info["toss"]["winner"],
                     "toss_decision": info["toss"]["decision"],
-                    "winner": info["outcome"].get("winner", "")
+                    "winner": info["outcome"].get("winner", ""),
                 }
                 rows.append(row)
-    
+
+    target_columns = [
+        "team1",
+        "team2",
+        "winner",
+        "toss_winner",
+        "toss_decision",
+        "venue",
+        "date",
+        "season",
+    ]
+    df = df[target_columns]
+
+    # Check for missing columns
+    missing = [col for col in target_columns if col not in df.columns]
+    if missing:
+        raise ValueError(f"Missing expected columns: {missing}")
+
     df = pd.DataFrame(rows)
     df["date"] = pd.to_datetime(df["date"])
-    df = df.sort_values("date")    
+    df = df.sort_values("date")
 
     return df

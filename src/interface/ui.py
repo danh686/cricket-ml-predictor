@@ -39,7 +39,9 @@ def run_ui():
     st.dataframe(feature_df)
 
     if st.button("Predict"):
-        model = load_model(league)
+        with st.spinner("Loading/training model..."):
+            model = load_model(league)
+
         prob = model.predict_proba(feature_df)[0][1]
         st.success(
             f"Predicted probability of {team1_selection} winning: {round(prob * 100, 2)}%"

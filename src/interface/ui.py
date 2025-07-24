@@ -15,7 +15,9 @@ def run_ui():
         "Select match details below. Features like team form or venue stats would be computed automatically behind the scenes."
     )
 
-    league = st.selectbox("Select League", ["IPL"])
+    league = st.selectbox("Select League", ["IPL", "BBL", "T20 Blast"])
+    if league == "T20 Blast":
+        league = "t20blast"
     match_data = load_clean_match_data(league)
     teams, venues = get_teams_and_venues(match_data)
 

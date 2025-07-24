@@ -1,16 +1,19 @@
 import pandas as pd
 
 TEAM_FIXES = {
-    "ipl": {
+    "IPL": {
         "Royal Challengers Bangalore": "Royal Challengers Bengaluru",
         "Kings XI Punjab": "Punjab Kings",
         "Delhi Daredevils": "Delhi Capitals",
         "Rising Pune Supergiants": "Rising Pune Supergiant",
     },
+    "t20blast": {
+        "Birmingham Bears": "Warwickshire",
+    },
 }
 
 VENUE_FIXES = {
-    "ipl": {
+    "IPL": {
         "M Chinnaswamy Stadium": "M. Chinnaswamy Stadium, Bengaluru",
         "M.Chinnaswamy Stadium": "M. Chinnaswamy Stadium, Bengaluru",
         "M Chinnaswamy Stadium, Bengaluru": "M. Chinnaswamy Stadium, Bengaluru",
@@ -36,7 +39,45 @@ VENUE_FIXES = {
         "Sawai Mansingh Stadium": "Sawai Mansingh Stadium, Jaipur",
         "Brabourne Stadium": "Brabourne Stadium, Mumbai",
         "Sheikh Zayed Stadium": "Zayed Cricket Stadium, Abu Dhabi",
-    }
+        "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    },
+    "BBL": {
+        "Brisbane Cricket Ground, Woolloongabba": "Brisbane Cricket Ground, Brisbane",
+        "Brisbane Cricket Ground, Woolloongabba, Brisbane": "Brisbane Cricket Ground, Brisbane",
+        "Brisbane Cricket Ground": "Brisbane Cricket Ground, Brisbane",
+        "Western Australia Cricket Association Ground": "WACA Ground, Perth",
+        "W.A.C.A. Ground": "WACA Ground, Perth",
+        "Docklands Stadium, Melbourne": "Docklands Stadium",
+        "Aurora Stadium, Launceston": "Aurora Stadium",
+        "Bellerive Oval, Hobart": "Bellerive Oval",
+        "Manuka Oval, Canberra": "Manuka Oval",
+        "GMHBA Stadium, South Geelong, Victoria": "GMHBA Stadium",
+        "International Sports Stadium, Coffs Harbour": "International Sports Stadium",
+        "Aurora Stadium": "University of Tasmania Stadium, Launceston",
+        "Simonds Stadium, South Geelong, Victoria": "GMHBA Stadium",
+        "Aurora Stadium": "University of Tasmania Stadium, Launceston",
+    },
+    "t20blast": {
+        "Grace Road": "Grace Road, Leicester",
+        "Trent Bridge": "Trent Bridge, Nottingham",
+        "Riverside Ground": "Riverside Ground, Chester-le-Street",
+        "The Rose Bowl": "The Rose Bowl, Southampton",
+        "Headingley": "Headingley, Leeds",
+        "Lord's": "Lord's, London",
+        "Old Trafford": "Old Trafford, Manchester",
+        "Sophia Gardens": "Sophia Gardens, Cardiff",
+        "St Lawrence Ground": "St Lawrence Ground, Canterbury",
+        "Kennington Oval": "Kennington Oval, London",
+        "College Ground": "College Ground, Cheltenham",
+        "County Ground, New Road": "County Ground, New Road, Worcester",
+        "Merchant Taylors' School Ground": "Merchant Taylors' School Ground, Northwood",
+        "Queen's Park": "Queen's Park, Chesterfield",
+        "Radlett Cricket Club": "Radlett Cricket Club, Radlett",
+        "The Cooper Associates County Ground": "The Cooper Associates County Ground, Taunton",
+        "Edgbaston": "Edgbaston, Birmingham",
+        "The Kent County Cricket Ground": "The Kent County Cricket Ground, Beckenham",
+        "Kent County Cricket Ground": "The Kent County Cricket Ground, Beckenham",
+    },
 }
 
 
@@ -63,5 +104,8 @@ def fix_team_and_venue_names(df: pd.DataFrame, league: str = "ipl") -> pd.DataFr
         df[col] = df[col].replace(team_fix)
 
     df["venue"] = df["venue"].replace(venue_fix)
+
+    if league == "t20blast":
+        df = df[df["venue"] != "County Ground"]
 
     return df

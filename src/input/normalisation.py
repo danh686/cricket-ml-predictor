@@ -1,7 +1,7 @@
 import pandas as pd
 
 TEAM_FIXES = {
-    "IPL": {
+    "ipl": {
         "Royal Challengers Bangalore": "Royal Challengers Bengaluru",
         "Kings XI Punjab": "Punjab Kings",
         "Delhi Daredevils": "Delhi Capitals",
@@ -13,7 +13,7 @@ TEAM_FIXES = {
 }
 
 VENUE_FIXES = {
-    "IPL": {
+    "ipl": {
         "M Chinnaswamy Stadium": "M. Chinnaswamy Stadium, Bengaluru",
         "M.Chinnaswamy Stadium": "M. Chinnaswamy Stadium, Bengaluru",
         "M Chinnaswamy Stadium, Bengaluru": "M. Chinnaswamy Stadium, Bengaluru",
@@ -41,7 +41,7 @@ VENUE_FIXES = {
         "Sheikh Zayed Stadium": "Zayed Cricket Stadium, Abu Dhabi",
         "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
     },
-    "BBL": {
+    "bbl": {
         "Brisbane Cricket Ground, Woolloongabba": "Brisbane Cricket Ground, Brisbane",
         "Brisbane Cricket Ground, Woolloongabba, Brisbane": "Brisbane Cricket Ground, Brisbane",
         "Brisbane Cricket Ground": "Brisbane Cricket Ground, Brisbane",
@@ -81,7 +81,7 @@ VENUE_FIXES = {
 }
 
 
-def fix_team_and_venue_names(df: pd.DataFrame, league: str = "ipl") -> pd.DataFrame:
+def fix_team_and_venue_names(df: pd.DataFrame, league: str) -> pd.DataFrame:
     """
     Standardizes team and venue names based on league-specific replacement dictionaries.
 
@@ -90,7 +90,7 @@ def fix_team_and_venue_names(df: pd.DataFrame, league: str = "ipl") -> pd.DataFr
     df : pandas.DataFrame
         The DataFrame containing match data.
     league : str, optional
-        The name of the league (e.g., "ipl", "bbl"). Defaults to "ipl".
+        The name of the league (e.g., "ipl", "bbl").
 
     Returns
     -------

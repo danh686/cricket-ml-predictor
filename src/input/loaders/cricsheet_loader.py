@@ -36,6 +36,8 @@ def parse_cricsheet(folder_path: str) -> pd.DataFrame:
                 }
                 rows.append(row)
 
+    df = pd.DataFrame(rows)
+
     target_columns = [
         "team1",
         "team2",
@@ -53,7 +55,6 @@ def parse_cricsheet(folder_path: str) -> pd.DataFrame:
     if missing:
         raise ValueError(f"Missing expected columns: {missing}")
 
-    df = pd.DataFrame(rows)
     df["date"] = pd.to_datetime(df["date"])
     df = df.sort_values("date")
 

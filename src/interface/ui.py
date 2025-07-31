@@ -16,8 +16,8 @@ def run_ui():
     )
 
     league = st.selectbox("Select League", ["IPL", "BBL", "T20 Blast"])
-    if league == "T20 Blast":
-        league = "t20blast"
+    league = league.lower().replace(" ", "")
+
     match_data = load_clean_match_data(league)
     teams, venues = get_teams_and_venues(match_data)
 

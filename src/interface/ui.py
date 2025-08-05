@@ -5,6 +5,7 @@ from src.input.interface import (
     load_model,
     build_match_features,
 )
+from src.ml.predict import predict_from_row
 from src.objects.Team import Team
 from src.objects.Venue import Venue
 
@@ -44,7 +45,7 @@ def run_ui():
         with st.spinner("Loading/training model..."):
             model = load_model(league)
 
-        prob = model.predict_proba(feature_df)[0][1]
+        prob = predict_from_row(feature_df, model)
         st.success(
             f"Predicted probability of {team1_selection} winning: {round(prob * 100, 2)}%"
         )

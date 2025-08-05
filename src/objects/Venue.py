@@ -44,16 +44,15 @@ class Venue:
 
         if mode == "defending":
             win_rate = (
-                (recent_matches["batting_first_team"] == recent_matches["winner"]).sum()
-                / num_matches
-            ) * 100
+                recent_matches["batting_first_team"] == recent_matches["winner"]
+            ).sum() / num_matches
+
         elif mode == "chasing":
             win_rate = (
-                (recent_matches["batting_first_team"] != recent_matches["winner"]).sum()
-                / num_matches
-            ) * 100
+                recent_matches["batting_first_team"] != recent_matches["winner"]
+            ).sum() / num_matches
 
-        return round(win_rate, 2)
+        return round(win_rate, 5)
 
     def calc_win_rate_defending(self, num_matches=10) -> float:
         """

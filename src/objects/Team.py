@@ -30,9 +30,9 @@ class Team:
             return np.nan
 
         recent_matches = df.head(num_matches)
-        win_rate = (((recent_matches["winner"] == self.name).sum()) / num_matches) * 100
+        win_rate = ((recent_matches["winner"] == self.name).sum()) / num_matches
 
-        return round(win_rate, 2)
+        return round(win_rate, 5)
 
     def calc_recent_form(self, num_matches: int = 5) -> float:
         """

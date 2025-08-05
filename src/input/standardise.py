@@ -17,6 +17,8 @@ def standardise_match_data(df: pd.DataFrame) -> pd.DataFrame:
         New DataFrame with standardised structure, format and sanity checks
 
     """
+    np.random.seed(42)
+
     df = df.copy()
 
     # Standardise team names

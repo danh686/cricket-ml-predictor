@@ -12,7 +12,7 @@ class Venue:
         self, df: pd.DataFrame, num_matches: int, mode: str
     ) -> float:
         """
-        Calculate the win rate (%) of teams at the venue given they are defending or chasing
+        Calculate the win rate (0-1) of teams at the venue given they are defending or chasing
 
         Parameters
         ----------
@@ -26,7 +26,7 @@ class Venue:
         Returns
         -------
         float
-            Win percentage of the team over the selected matches. Returns np.nan if no matches.
+            Win rate of the team over the selected matches. Returns np.nan if less than self.min_matches.
         """
         if mode not in ["defending", "chasing"]:
             raise ValueError(
@@ -61,12 +61,12 @@ class Venue:
         Parameters
         ----------
         num_matches: int, optional
-            Number of matches used to calculate the win %. Defaults to 10.
+            Number of matches used to calculate the win rate. Defaults to 10.
 
         Returns
         -------
         float
-            Win % of teams batting first in the last N matches at the venue
+            Win rate of teams batting first in the last N matches at the venue
         """
         return self._calculate_win_rate(self.df, num_matches, mode="defending")
 
@@ -77,12 +77,12 @@ class Venue:
         Parameters
         ----------
         num_matches: int, optional
-            Number of matches used to calculate the win %. Defaults to 10.
+            Number of matches used to calculate the win rate. Defaults to 10.
 
         Returns
         -------
         float
-            Win % of teams bowling first in the last N matches at the venue
+            Win rate of teams bowling first in the last N matches at the venue
         """
         return self._calculate_win_rate(self.df, num_matches, mode="chasing")
 

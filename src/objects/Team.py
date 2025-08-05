@@ -10,7 +10,7 @@ class Team:
 
     def _calculate_win_rate(self, df: pd.DataFrame, num_matches: int) -> float:
         """
-        Calculate the win rate (%) of the team in a filtered DataFrame.
+        Calculate the win rate (0-1) of the team in a filtered DataFrame.
 
         Parameters
         ----------
@@ -22,7 +22,7 @@ class Team:
         Returns
         -------
         float
-            Win percentage of the team over the selected matches. Returns np.nan if no matches.
+            Win rate of the team over the selected matches. Returns np.nan if less than self.min_matches.
         """
         df = df.sort_values(by="date", ascending=False)
         num_matches = min(num_matches, len(df))
@@ -36,7 +36,7 @@ class Team:
 
     def calc_recent_form(self, num_matches: int = 5) -> float:
         """
-        Calculate the win rate (%) of the team in their last N matches.
+        Calculate the win rate (0-1) of the team in their last N matches.
 
         Parameters
         ----------
@@ -46,7 +46,7 @@ class Team:
         Returns
         -------
         float
-            Win percentage of the team over the selected matches. Returns np.nan if no matches.
+            Win rate of the team over the selected matches. Returns np.nan if less than self.min_matches.
         """
         df = self.df
         df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
@@ -55,17 +55,17 @@ class Team:
 
     def calc_win_rate_defending(self, num_matches: int = 5) -> float:
         """
-        Calculate the win rate (%) of the team in the last N matches they bat first in.
+        Calculate the win rate (0-1) of the team in the last N matches they bat first in.
 
         Parameters
         ----------
         num_matches: int, optional
-            Number of matches used to calculate the win %. Defaults to 5.
+            Number of matches used to calculate the win rate. Defaults to 5.
 
         Returns
         -------
         float
-            Win percentage of the team over the matches they bat first in. Returns np.nan if no matches.
+            Win rate of the team over the matches they bat first in. Returns np.nan if less than self.min_matches.
         """
         df = self.df
         df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
@@ -75,17 +75,17 @@ class Team:
 
     def calc_win_rate_chasing(self, num_matches: int = 5) -> float:
         """
-        Calculate the win rate (%) of the team in the last N matches they bowl first in.
+        Calculate the win rate (0-1) of the team in the last N matches they bowl first in.
 
         Parameters
         ----------
         num_matches: int, optional
-            Number of matches used to calculate the win %. Defaults to 5.
+            Number of matches used to calculate the win rate. Defaults to 5.
 
         Returns
         -------
         float
-            Win percentage of the team over the matches they bowl first in. Returns np.nan if no matches.
+            Win rate (0-1) of the team over the matches they bowl first in. Returns np.nan if less than self.min_matches.
         """
         df = self.df
         df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
@@ -97,19 +97,19 @@ class Team:
         self, opposition: str, num_matches: int = 5
     ) -> float:
         """
-        Calculate the win rate (%) of the team against a given opposition in the last N encounters.
+        Calculate the win rate (0-1) of the team against a given opposition in the last N encounters.
 
         Parameters
         ---------
         opposition: str
             The opposition used for the head to head win rate
         num_matches: int, optional
-            Number of matches used to calculate the win %. Defaults to 5.
+            Number of matches used to calculate the win rate. Defaults to 5.
 
         Returns
         -------
         float
-            Win percentage of the team against the selected opposition. Returns np.nan if no matches.
+            Win rate of the team against the selected opposition. Returns np.nan if less than self.min_matches.
         """
         df = self.df
         df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]
@@ -119,19 +119,19 @@ class Team:
 
     def calc_venue_win_rate(self, venue: str, num_matches: int = 5) -> float:
         """
-        Calculate the win rate (%) of the team at a given venue in the last N matches they played there.
+        Calculate the win rate (0-1) of the team at a given venue in the last N matches they played there.
 
         Parameters
         ----------
         venue:str
             The venue to calculate the win rate for
         num_matches: int, optional
-            Number of matches used to calculate the win %. Defaults to 5.
+            Number of matches used to calculate the win rate. Defaults to 5.
 
         Returns
         -------
         float
-            Win percentage of the team at a selected venue. Returns np.nan if no matches.
+            Win rate of the team at a selected venue. Returns np.nan if less than self.min_matches.
         """
         df = self.df
         df = df[(df["team1"] == self.name) | (df["team2"] == self.name)]

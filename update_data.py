@@ -1,5 +1,6 @@
 import argparse
 import pandas as pd
+import os
 from src.input.loaders.cricsheet_loader import parse_cricsheet
 
 LEAGUE_OPTIONS = {"1": "IPL", "2": "BBL", "3": "T20 Blast"}
@@ -33,6 +34,7 @@ def main():
     print(f"Loading data from {args.folder}...")
     df = parse_cricsheet(args.folder)
 
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
     df.to_csv(output_path, index=False)
     print(f"Match data saved to {output_path}")
 

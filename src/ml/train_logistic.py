@@ -1,5 +1,6 @@
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
+import os
 import joblib
 
 
@@ -17,6 +18,7 @@ def train_logistic(df, c=0.3, class_weight="balanced", save_path="models/logisti
     model = LogisticRegression(C=c, class_weight=class_weight, max_iter=1000)
     model.fit(X, y)
 
+    os.makedirs(os.path.dirname(save_path), exist_ok=True)
     joblib.dump(model, save_path)
 
     return model

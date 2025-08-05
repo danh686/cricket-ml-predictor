@@ -28,7 +28,11 @@ def load_model(league: str):
 
     df = load_clean_match_data(league)
     features = build_feature_matrix(df)
-    features.to_csv(f"data/features/{league}_features.csv", index=False)
+
+    path = f"data/features/{league}_features.csv"
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    features.to_csv(path, index=False)
+
     return train_logistic(features, save_path=f"models/{league}_model.pkl")
 
 

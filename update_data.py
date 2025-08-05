@@ -2,7 +2,7 @@ import argparse
 import pandas as pd
 from src.input.loaders.cricsheet_loader import parse_cricsheet
 
-LEAGUE_OPTIONS = {"1": "IPL", "2": "BBL", "3": "T20 blast"}
+LEAGUE_OPTIONS = {"1": "IPL", "2": "BBL", "3": "T20 Blast"}
 
 
 def choose_league():

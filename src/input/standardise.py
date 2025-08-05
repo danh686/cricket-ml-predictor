@@ -67,4 +67,6 @@ def standardise_match_data(df: pd.DataFrame) -> pd.DataFrame:
     ]
     df = df[standard_cols]
 
+    df = df.sort_values(by="date").reset_index(drop=True)
+
     return df

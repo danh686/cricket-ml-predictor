@@ -6,6 +6,7 @@ class Team:
     def __init__(self, name: str, df: pd.DataFrame):
         self.name = name
         self.df = df
+        self.min_matches = 2
 
     def _calculate_win_rate(self, df: pd.DataFrame, num_matches: int) -> float:
         """
@@ -25,7 +26,7 @@ class Team:
         """
         df = df.sort_values(by="date", ascending=False)
         num_matches = min(num_matches, len(df))
-        if num_matches == 0:
+        if num_matches < self.min_matches:
             return np.nan
 
         recent_matches = df.head(num_matches)

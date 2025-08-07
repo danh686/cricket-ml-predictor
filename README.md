@@ -1,59 +1,43 @@
 # Cricket ML Predictor
 
-> Predict pre-match win probabilities for T20 matches using machine learning and historical data.
+A hobby project exploring machine learning models for predicting pre-match win probabilities in franchise T20 cricket. It uses historical match data from [Cricsheet](https://cricsheet.org/) and a simple logistic regression model to estimate which team is more likely to win.
 
-This project uses historical franchise T20 match data to build a machine learning model that predicts the outcome of T20 cricket matches. It features a custom feature engineering pipeline, multiple classification models, and an interactive frontend for match-day predictions.
+## What's inside
 
-## Features
+- **Feature engineering** for team form, venue advantage, toss impact and head-to-head results.
+- **Training scripts** for a logistic regression classifier (see `src/ml`).
+- **Streamlit app** (`app.py`) for making match-day predictions.
+- CSV data for IPL, BBL and T20 Blast stored in `data/`.
+- `update_data.py` helper to convert Cricsheet JSON files into match CSVs.
 
-- **Domain-specific features**: team form, toss effect, venue advantage, head-to-head history
-- **Machine learning model**: logistic regression
-- **Data pipeline**: clean and transform raw match data into model-ready datasets
-- **Frontend**: Streamlit web interface for making predictions
-- **Modular structure**: reusable components for input loading, feature generation, modeling, and prediction
+This code is meant for learning and experimentation; results are not intended for betting or professional use.
 
-## Getting Started
-
-### Clone the Repo
+## Quick start
 
 ```
 git clone https://github.com/your-username/cricket-ml-predictor.git
 cd cricket-ml-predictor
-```
-
-### Set Up a Virtual Environment
-
-This project uses a Python virtual environment for dependency isolation.
-
-```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
-```
-
-### Run the App
-
-```bash
 streamlit run app.py
 ```
 
-## Project Structure
+## Project layout
 
 ```
 cricket-ml-predictor/
-├── app.py                 # Streamlit frontend
-├── data/                  # Raw and processed datasets
-├── models/                # Trained ML models
-├── requirements.txt       # Project dependencies
-├── src/                   # Source code
-│   ├── input/             # Data loaders & standardizers
-│   ├── features/          # Feature generation logic
-│   ├── objects/           # Domain objects (Team, Match, etc.)
-│   ├── ml/                # Training, evaluation, prediction
-│   └── interface/         # UI utilities
-└── README.md
+├── app.py               # Streamlit frontend
+├── data/                # CSV match datasets
+├── src/                 # Feature engineering and ML code
+│   ├── features/
+│   ├── input/
+│   ├── ml/
+│   ├── objects/
+│   └── interface/
+└── update_data.py       # Convert Cricsheet data
 ```
 
 ## License
 
-This project is released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE).

@@ -55,7 +55,4 @@ def parse_cricsheet(folder_path: str) -> pd.DataFrame:
     if missing:
         raise ValueError(f"Missing expected columns: {missing}")
 
-    df["date"] = pd.to_datetime(df["date"])
-    df = df.sort_values("date")
-
     return df

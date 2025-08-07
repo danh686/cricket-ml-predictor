@@ -21,6 +21,10 @@ def standardise_match_data(df: pd.DataFrame) -> pd.DataFrame:
 
     df = df.copy()
 
+    # Parse and sort date
+    df["date"] = pd.to_datetime(df["date"])
+    df = df.sort_values(by="date").reset_index(drop=True)
+
     # Standardise team names
     df["team1"] = df["team1"].str.strip()
     df["team2"] = df["team2"].str.strip()
@@ -33,9 +37,6 @@ def standardise_match_data(df: pd.DataFrame) -> pd.DataFrame:
     df = df.apply(randomise_teams, axis=1)
 
     df["winner"] = df["winner"].fillna("").str.strip()
-
-    # Parse date
-    df["date"] = pd.to_datetime(df["date"])
 
     # Drop matches with no winner
     df = df[(df["winner"] == df["team1"]) | (df["winner"] == df["team2"])]
@@ -68,7 +69,5 @@ def standardise_match_data(df: pd.DataFrame) -> pd.DataFrame:
         "team1_win",
     ]
     df = df[standard_cols]
-
-    df = df.sort_values(by="date").reset_index(drop=True)
 
     return df

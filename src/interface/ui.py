@@ -19,7 +19,7 @@ def run_ui():
     try:
         st.title("Cricket Match Win Predictor")
         st.write(
-            "Select match details below. Features like team form or venue stats are be computed automatically behind the scenes."
+            "Select match details below. Features like team form and venue stats will be computed automatically behind the scenes."
         )
 
         league = st.selectbox("Select League", ["IPL", "BBL", "T20 Blast"])

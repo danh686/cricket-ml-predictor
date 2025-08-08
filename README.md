@@ -1,6 +1,6 @@
 # Cricket ML Predictor
 
-A personal project exploring machine learning models for predicting pre-match win probabilities in franchise T20 cricket. Built as part of a self-directed summer initiative to deepen my understanding of sports analytics, machine learning, and data engineering.
+A personal project exploring machine learning models for predicting pre-match win probabilities in domestic T20 cricket. Built as part of a self-directed summer initiative to deepen my understanding of sports analytics, machine learning, and data engineering.
 
 **Note**: This project is intended for educational and experimental purposes only. The predictions are not suitable for betting or professional use.
 
